@@ -1,0 +1,7 @@
+# robots.txt for krya (en.krya.com)
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://en.krya.com/sitemap.xml

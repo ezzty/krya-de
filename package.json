@@ -1,0 +1,17 @@
+{
+  "name": "krya-de",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "de.krya.com - Jins persönlicher Blog (Astro, Deutsch)",
+  "author": "Jin",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "python3 search.py && astro build && node scripts/post-build-image-processor.js",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.18",
+    "astro": "^6.1.8",
+    "marked": "^18.0.2"
+  }
+}

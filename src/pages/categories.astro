@@ -1,0 +1,31 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NavBar from '../components/NavBar.astro';
+import { buildCategoryCounts, withTrailingSlash } from '../lib/utils';
+
+const posts = (await getCollection('posts')).filter(post => !post.data.draft);
+
+const categories = buildCategoryCounts(posts);
+---
+
+<BaseLayout title="Kategorien | krya">
+  <NavBar slot="header" />
+  <div class="container">
+    <div class="col-mb-12">
+      <h1 class="categories-title visually-hidden">Kategorien</h1>
+      {categories.length > 0 ? (
+        <div class="category-list">
+          {categories.map(([category, count]) => (
+            <a href={withTrailingSlash(`/categories/${encodeURIComponent(category)}`)} class="category-item">
+              <span class="category-name">{category}</span>
+              <span class="category-count">{count}</span>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="no-items">Noch keine Kategorien</p>
+      )}
+    </div>
+  </div>
+</BaseLayout>

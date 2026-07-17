@@ -1,0 +1,90 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NavBar from '../../components/NavBar.astro';
+import { getCollection } from 'astro:content';
+import { buildCategoryCounts, formatDate, getYearMonthEast8, withTrailingSlash } from '../../lib/utils';
+
+export async function getStaticPaths() {
+  const posts = (await getCollection('posts')).filter(post => !post.data.draft);
+  
+  const categorySet = new Set<string>();
+  posts.forEach(post => {
+    const categories = post.data.categories || [];
+    categories.forEach(category => categorySet.add(category));
+  });
+  
+  return Array.from(categorySet).map(category => ({
+    params: { category },
+    props: { category }
+  }));
+}
+
+const allPosts = (await getCollection('posts')).filter(post => !post.data.draft);
+const { category } = Astro.params;
+const decodedCategory = decodeURIComponent(category!);
+
+// All category counts
+const categories = buildCategoryCounts(allPosts);
+
+// Filter posts in current category
+const posts = allPosts.filter(post => {
+  const cats = post.data.categories || [];
+  return cats.includes(decodedCategory);
+});
+
+// Group by East-8 year-month (same as archives page)
+const groupedPosts: Record<string, typeof posts> = {};
+
+[...posts]
+  .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
+  .forEach((post) => {
+    const yearMonth = getYearMonthEast8(post.data.pubDate);
+
+    if (!groupedPosts[yearMonth]) {
+      groupedPosts[yearMonth] = [];
+    }
+    groupedPosts[yearMonth].push(post);
+  });
+---
+
+<BaseLayout title={`Kategorie: ${decodedCategory} - krya`}>
+  <NavBar slot="header" />
+  
+  <div class="col-mb-12" id="main" role="main">
+    <article class="post">
+      <!-- Categories section -->
+      {categories.length > 0 && (
+        <div class="archive-categories">
+          <h2 class="section-title">Kategorien</h2>
+          <div class="category-list">
+            {categories.map(([cat, count]) => (
+              <a href={withTrailingSlash(`/categories/${encodeURIComponent(cat)}`)} class={`category-item${cat === decodedCategory ? ' active' : ''}`}>
+                <span class="category-name">{cat}</span>
+                <span class="category-count">{count}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <!-- Archives section (filtered) -->
+      <h2 class="section-title">Archiv</h2>
+      {Object.entries(groupedPosts).map(([yearMonth, posts]) => {
+        const [year, month] = yearMonth.split('-');
+        return (
+          <div class="archive-group">
+            <h3 class="archive-year">{year}.{month}</h3>
+            <ul class="archive-list">
+              {posts.map((post) => (
+                <li>
+                  <span class="archive-date">{formatDate(post.data.pubDate.toISOString())}</span>
+                  <a href={withTrailingSlash(`/post/${post.id.replace(/\.[^.]+$/, '')}`)}>{post.data.title}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        );
+      })}
+    </article>
+  </div>
+</BaseLayout>

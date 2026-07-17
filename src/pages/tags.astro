@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NavBar from '../components/NavBar.astro';
+import { withTrailingSlash } from '../lib/utils';
+
+const posts = (await getCollection('posts')).filter(post => !post.data.draft);
+
+const tagCount = new Map<string, number>();
+posts.forEach(post => {
+  const tags = post.data.tags || [];
+  tags.forEach(tag => {
+    tagCount.set(tag, (tagCount.get(tag) || 0) + 1);
+  });
+});
+
+const tags = Array.from(tagCount.entries()).sort((a, b) => b[1] - a[1]);
+---
+
+<BaseLayout title="Schlagwörter | krya">
+  <NavBar slot="header" />
+  <div class="container">
+    <div class="col-mb-12" id="main" role="main">
+      <h1 class="tags-title">Schlagwörter</h1>
+      {tags.length > 0 ? (
+        <div class="tag-cloud">
+          {tags.map(([tag, count]) => (
+            <a href={withTrailingSlash(`/tags/${encodeURIComponent(tag)}`)} class="tag-item">
+              <span class="tag-name">{tag}</span>
+              <span class="tag-count">{count}</span>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="no-items">Noch keine Schlagwörter</p>
+      )}
+    </div>
+  </div>
+</BaseLayout>
