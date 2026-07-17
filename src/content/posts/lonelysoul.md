@@ -1,47 +1,47 @@
 ---
-title: A Lonely Soul
+title: Eine einsame Seele
 pubDate: '2019-05-04'
 author: jin
 draft: false
 categories:
-  - Travel
+- Reisen
 tags:
-  - Sancha Lake Travelogue
-  - Chengdu Sancha Lake
+- Sancha-See-Reisebericht
+- Chengdu Sancha-See
 ---
 
-Yesterday my wife and I went to Sancha Lake to see the water. Around noon, we parked at the pier, grabbed some snacks, and boarded a free ferry. This boat shuttles residents between the two shores — a straight-line crossing of 1.2 kilometers. Without it, you'd have to drive over ten kilometers along the lakeside road to reach the opposite bank. Though Sancha Lake hasn't been developed as a tourist attraction, its vast waters draw scattered visitors, so this ferry doubles as a sightseeing boat. I didn't want to go to the other side — I just wanted to take my wife out onto the middle of the lake to take in the scenery.
+Gestern waren meine Frau und ich am Sancha-See, um das Wasser zu sehen. Gegen Mittag parkten wir am Pier, holten uns ein paar Snacks und gingen an Bord einer kostenlosen Fähre. Dieses Boot bringt Anwohner zwischen den beiden Ufern hin und her – eine direkte Überfahrt von 1,2 Kilometern. Ohne sie müsste man über zehn Kilometer entlang der Seestraße fahren, um ans andere Ufer zu gelangen. Obwohl der Sancha-See nicht als Touristenattraktion erschlossen ist, lockt seine Weite vereinzelte Besucher an, und so dient die Fähre auch als Ausflugsboot. Ich wollte gar nicht auf die andere Seite – ich wollte nur mit meiner Frau hinaus auf den See, um die Aussicht zu genießen.
 
-Not many people ride the ferry anyway, so it runs on a schedule. Right then, we were the only ones on board. The ferryman had probably gone home for lunch. We sat on the boat eating our snacks. I stood up, leaned against the railing, and tossed meat from a chicken leg into the lake to feed the fish. The marinade from the chicken sank underwater, then floated back up, spreading into a rainbow of iridescent oil slicks on the surface.
+Es fahren ohnehin nicht viele Leute mit der Fähre, also verkehrt sie nach Fahrplan. Genau in dem Moment waren wir die einzigen Passagiere. Der Fährmann war wohl zum Mittagessen nach Hause gegangen. Wir saßen auf dem Boot und aßen unsere Snacks. Ich stand auf, lehnte mich an die Reling und warf Fleisch von einem Hähnchenschenkel in den See, um die Fische zu füttern. Die Marinade vom Hähnchen sank ins Wasser, stieg dann wieder auf und breitete sich als schillernder Regenbogen aus Ölschlieren auf der Oberfläche aus.
 
-That's when a man leaning on a crutch boarded, limping aboard step by step. His face was youthful — couldn't have been older than 23. Close-cropped hair, a clean gray long-sleeve shirt, dark blue jeans, shoes caked in mud — they looked like New Balance 504s. He set down a bottle filled with tea on the seat across from us, propped up his crutch, gripped the railing, and sat down, watching us with bored eyes. I sat back down, turned sideways to chat with my wife, didn't feel like engaging with him, and deliberately didn't look at him. Maybe ignoring his differences would make him more comfortable.
+Da kam ein Mann an Krücken an Bord und hinkte Schritt für Schritt herauf. Sein Gesicht war jung – er konnte nicht älter als 23 sein. Kurz geschnittenes Haar, ein sauberes graues Langarmhemd, dunkelblaue Jeans, Schuhe voller Matsch – sie sahen aus wie New Balance 504er. Er stellte eine Flasche mit Tee auf den Sitz gegenüber, lehnte seine Krücke an, griff nach der Reling und setzte sich, während er uns mit gelangweilten Augen ansah. Ich setzte mich wieder hin, drehte mich zur Seite, um mit meiner Frau zu plaudern, hatte keine Lust, mich mit ihm einzulassen, und sah ihn bewusst nicht an. Vielleicht würde es ihm leichter fallen, wenn ich seine Andersartigkeit ignorierte.
 
-Since there was no departure schedule posted anywhere, my wife kept asking me whether this boat would actually leave. I assured her: the boat would definitely depart.
+Da nirgendwo ein Fahrplan aushing, fragte mich meine Frau ständig, ob dieses Boot überhaupt ablegen würde. Ich beruhigte sie: Das Boot werde ganz sicher ablegen.
 
-That's when the young man chimed in: "I asked — it won't leave until 2:30. You can go catch little shrimp on the nearby dam."
+Da mischte sich der junge Mann ein: „Ich habe gefragt – es legt erst um 14:30 Uhr ab. Ihr könntet am nahen Damm kleine Garnelen fangen."
 
-He spoke in an odd accent of Mandarin — didn't sound like a Sichuan local. He picked up the bottle he'd set down earlier and shook it, proudly showing off his catch. So the murky liquid in that bottle wasn't cold-brewed tea after all. Naturally, neither my wife nor I had any interest in catching useless little shrimp.
+Er sprach mit einem seltsamen Mandarin-Akzent – klang nicht wie ein Einheimischer aus Sichuan. Er nahm die Flasche, die er zuvor abgestellt hatte, und schüttelte sie, um stolz seinen Fang zu zeigen. Die trübe Flüssigkeit in der Flasche war also gar kein kalt aufgebrühter Tee. Natürlich hatten weder meine Frau noch ich Interesse daran, nutzlose kleine Garnelen zu fangen.
 
-"Are you from Chengdu?" he asked. I nodded, saying we came from Shiling.
+„Seid ihr aus Chengdu?", fragte er. Ich nickte und sagte, wir kämen aus Shiling.
 
-"Oh, the Pidu direction — I've never been there," he replied. Actually, Shiling is in Chenghua District, on the northeast side of Chengdu; Pidu is on the northwest. But I didn't feel like explaining such pointless details.
+„Ach, die Richtung Pidu – da war ich noch nie", antwortete er. Eigentlich liegt Shiling im Bezirk Chenghua, nordöstlich von Chengdu; Pidu liegt nordwestlich. Aber ich hatte keine Lust, solch unnütze Details zu erklären.
 
-"There's a bus on the other side that goes to Jianyang, then you can transfer to Pidu," he offered warmly. I told him we drove here.
+„Auf der anderen Seite gibt es einen Bus nach Jianyang, von dort könnt ihr nach Pidu umsteigen", bot er freundlich an. Ich sagte ihm, wir seien mit dem Auto gekommen.
 
-"Then where did you park?" he pressed, perhaps a little too curiously. I casually pointed toward the pier, where a few BMWs and Cadillacs were parked. Actually, my car wasn't there — it was parked a bit farther away, and it certainly wasn't that expensive.
+„Wo habt ihr dann geparkt?", hakte er nach, vielleicht etwas zu neugierig. Ich deutete vage auf den Pier, wo ein paar BMWs und Cadillacs standen. Eigentlich stand mein Auto nicht dort – es war etwas weiter weg geparkt, und es war sicher nicht so teuer.
 
-I still didn't feel like chatting with a stranger, but my wife started talking and asked him: "Where did you come from?"
+Ich hatte immer noch keine Lust, mit einem Fremden zu plaudern, aber meine Frau fing an zu reden und fragte ihn: „Woher kommst du?"
 
-"I rode my adapted disabled scooter here from Shuangliu by myself — about 60 kilometers, took me over two hours." He seemed to have been waiting for this question, answering in great detail. "A friend actually invited me to Heilongtan, which is closer. But Sancha Lake is bigger, so I came on my own."
+„Ich bin mit meinem behindertengerechten Roller allein aus Shuangliu hierher gefahren – etwa 60 Kilometer, hat mich über zwei Stunden gekostet." Er schien auf diese Frage gewartet zu haben und antwortete sehr ausführlich. „Ein Freund hat mich eigentlich zum Heilongtan eingeladen, der ist näher. Aber der Sancha-See ist größer, also bin ich allein gekommen."
 
-I wasn't in the mood for life conversations and stayed silent, so this brief chat ended quickly.
+Ich war nicht in der Stimmung für Lebensgeschichten und schwieg, also endete dieses kurze Gespräch schnell.
 
-A little past two, the ferryman arrived, started the engine, and headed toward the opposite shore. Waves spread outward from both sides of the hull. On the isolated islands, a few anglers sat in silence — perhaps silently cursing the ferry's roar. The egrets, however, remained unfazed, skimming low over the water, suddenly changing course, plunging their long beaks into the water to snatch a fish, then flying to the shore to enjoy their lunch. In the hazy gray sky, the distant Longquan Mountains were barely visible — but they've always stood there.
+Kurz nach zwei kam der Fährmann, startete den Motor und fuhr auf das andere Ufer zu. Wellen breiteten sich zu beiden Seiten des Rumpfes aus. Auf den einsamen Inseln saßen ein paar Angler schweigend – vielleicht verfluchten sie still das Dröhnen der Fähre. Die Reiher jedoch blieben unbeeindruckt, strichen tief über das Wasser, änderten plötzlich die Richtung, tauchten ihre langen Schnäbel ins Wasser, schnappten sich einen Fisch und flogen ans Ufer, um ihr Mittagessen zu genießen. Im dunstigen grauen Himmel waren die fernen Longquan-Berge kaum zu sehen – aber sie standen schon immer dort.
 
-In the middle of the lake, I told my wife to stop playing Honor of Kings and get up to enjoy the view. She said she would in a moment, but by the time she put her phone down, the boat had already docked.
+Mitten auf dem See sagte ich meiner Frau, sie solle aufhören, Honor of Kings zu spielen, und aufstehen, um die Aussicht zu genießen. Sie sagte, sie komme gleich, aber als sie ihr Handy weglegte, hatte das Boot bereits angelegt.
 
-We didn't get off. We watched him crutch his way ashore and walk slowly toward the water's edge. He crouched down, unscrewed that bottle, and lowered it into the lake. Without a doubt, he was releasing all the little shrimp he'd caught back into the water.
+Wir stiegen nicht aus. Wir sahen zu, wie er an Krücken an Land humpelte und langsam zum Wasserrand ging. Er hockte sich hin, schraubte die Flasche auf und tauchte sie in den See. Zweifellos ließ er all die kleinen Garnelen, die er gefangen hatte, zurück ins Wasser frei.
 
-"What a pitiful person," my wife murmured, "traveling so far all alone just to catch shrimp."
+„Was für ein bemitleidenswerter Mensch", murmelte meine Frau, „so weit allein zu reisen, nur um Garnelen zu fangen."
 
-I don't think he's pitiful at all. He has food and clothing, and he's living well. He's just a bit lonely. That "friend" he mentioned might be another disabled person — or might not exist at all, and certainly didn't accompany him to Heilongtan. I can understand everything about this person. If I couldn't, I wouldn't have been able to navigate without GPS directly to this winding peninsula pier, or confidently tell my wife the ferry would definitely leave, or have taken photos of this very place a year ago.
+Ich finde ihn gar nicht bemitleidenswert. Er hat zu essen, zu trinken, und es geht ihm gut. Er ist nur ein bisschen einsam. Dieser „Freund", den er erwähnte, könnte ein anderer Behinderter sein – oder vielleicht existiert er gar nicht und hat ihn bestimmt nicht zum Heilongtan begleitet. Ich kann alles an diesem Menschen verstehen. Wenn ich es nicht könnte, hätte ich nicht ohne GPS direkt zu diesem gewundenen Pier auf der Halbinsel gefunden, meiner Frau nicht so überzeugt sagen können, dass die Fähre ganz sicher ablegen würde, oder vor einem Jahr genau diesen Ort fotografiert.

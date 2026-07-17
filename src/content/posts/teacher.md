@@ -1,17 +1,17 @@
 ---
-title: Hey, Teacher!
+title: Hallo, Lehrer!
 pubDate: '2014-05-08'
 author: jin
 draft: false
 categories:
-  - Work
+- Arbeit
 tags:
-  - Creator
-  - lowb
+- Creator
+- lowb
 ---
 
-Chengdu seems to have this custom: anyone who knows a bit of technology can be called "Teacher" or "Master," or abbreviated as "X Shi." Our company used to have a designer surnamed Jiang, so naturally everyone called him "Jiang Shi," and with people saying "Jiang Shi" (sounding like "zombie") all day, I almost forgot his real name. Compared to him, I got lucky. Ever since the girl at the print shop on the fifth floor started calling me "Teacher," everyone else in the company seemed to have finally found the perfect catch-all term, and one by one they switched to calling me "Teacher" too. This sudden change caught me off guard—I hadn't even prepared any tipping money for the name change, let alone red envelopes.
+In Chengdu gibt es anscheinend diesen Brauch: Jeder, der ein bisschen Technik versteht, wird schnell "Lehrer" oder "Meister" genannt, oder kurz "X Shi". In unserer Firma gab es mal einen Designer mit Nachnamen Jiang, den alle natürlich "Jiang Shi" riefen – und weil ständig "Jiang Shi" (klingt wie "Zombie") im Raum stand, habe ich fast seinen echten Namen vergessen. Im Vergleich zu ihm hatte ich Glück. Seit das Mädchen aus der Druckerei im fünften Stock mich "Lehrer" nannte, schien der Rest der Firma endlich den perfekten Allzweckbegriff gefunden zu haben, und einer nach dem anderen stieg auf "Lehrer" um. Dieser plötzliche Wandel überrumpelte mich – ich hatte nicht mal Trinkgeld für die Namensänderung vorbereitet, geschweige denn rote Umschläge.
 
-I can't help getting a bit literary here, thinking back to the days in college when I helped classmates install operating systems. Back then, I never imagined I'd still be a jack-of-all-trades. People can't escape the momentum of fate—the state you were in years ago already determined who you'd become now. The only slight differences are that the stubble on my face is thicker and the oil on my forehead shines brighter. But I'm still doing roughly the same things. Computer problems? Find the Teacher! Phone problems? Find the Teacher! Packaging issues? Find the Teacher! Need to build a website? Still find the Teacher! Rumor has it the Teacher has countless resources of all kinds, with terabytes of torrents in his Baidu cloud drive!
+Ich kann nicht anders, als ein bisschen literarisch zu werden und an die Unizeit zurückzudenken, als ich Kommilitonen half, Betriebssysteme zu installieren. Damals hätte ich nie gedacht, dass ich immer noch ein Alleskönner sein würde. Man kann sich dem Schwung des Schicksals nicht entziehen – der Zustand, in dem du vor Jahren warst, hat bereits bestimmt, wer du heute bist. Die einzigen kleinen Unterschiede sind, dass die Stoppeln in meinem Gesicht dichter sind und das Öl auf meiner Stirn heller glänzt. Aber ich mache immer noch ungefähr die gleichen Dinge. Computerprobleme? Such den Lehrer! Handyprobleme? Such den Lehrer! Verpackungsprobleme? Such den Lehrer! Eine Website bauen? Immer noch den Lehrer suchen! Es heißt, der Lehrer habe unzählige Ressourcen aller Art, mit Terabytes an Torrents in seiner Baidu-Cloud!
 
-But here's the truth, everyone, and it's something you might not fully understand: your network is actually pretty low-tier, and I'm part of your low-tier circle too. The reality is I don't really know anything. When you bring me a problem, I just search for answers online and relay them to you. When I get tired, too lazy to think, too lazy to tinker, I know nothing at all. At that point, what you need is a connection, or you need a skill—specifically, the ability to become a creator.
+Aber hier ist die Wahrheit, Leute, und die versteht ihr vielleicht nicht ganz: Euer Netzwerk ist eigentlich ziemlich unteres Niveau, und ich bin Teil eures unteren Kreises. Die Realität ist, dass ich eigentlich nichts wirklich kann. Wenn ihr mir ein Problem bringt, suche ich einfach online nach Antworten und gebe sie an euch weiter. Wenn ich müde bin, zu faul zum Denken, zu faul zum Herumbasteln, dann weiß ich gar nichts. In dem Moment braucht ihr eine Verbindung, oder ihr braucht eine Fähigkeit – genauer gesagt, die Fähigkeit, ein Creator zu werden.

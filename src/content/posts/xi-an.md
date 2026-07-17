@@ -1,59 +1,59 @@
 ---
-title: "Xi'an"
+title: Xi'an
 pubDate: '2015-03-28'
 author: jin
 draft: false
 categories:
-  - Travel
+- Reisen
 tags:
-  - Xi'an
-  - Guangwu Mountain Bazhong
+- Xi'an
+- Guangwu-Berg Bazhong
 ---
 
-Geographically, the Qinling Mountains–Huai River line is considered China's north-south dividing line!
+Geografisch gesehen gilt die Linie Qinling-Gebirge–Huai-Fluss als die Grenze zwischen Nord- und Südchina!
 
-A colleague came back from Inner Mongolia, bragging about eating lamb on the steppe. Another returned from Shanxi, describing the enormous snow there. Then it occurred to me that the northernmost place I've ever been is Mianyang. I ground my teeth, frustration welling up in my chest.
+Ein Kollege kam aus der Inneren Mongolei zurück und prahlte damit, auf der Steppe Lamm gegessen zu haben. Ein anderer kehrte aus Shanxi zurück und beschrieb den enormen Schnee dort. Da fiel mir ein, dass der nördlichste Ort, an dem ich je war, Mianyang ist. Ich knirschte mit den Zähnen, die Frustration stieg mir in die Brust.
 
-Actually, I did once take the Qinghai-Tibet Railway: Lhasa → Xining → Lanzhou → Xi'an → Chongqing, making a grand loop across western China — 3,654 kilometers. If I were a tribal chieftain, a quarter of that territory would be mine. Unfortunately, I never stopped anywhere along the way.
+Eigentlich bin ich mal mit der Qinghai-Tibet-Bahn gefahren: Lhasa → Xining → Lanzhou → Xi'an → Chongqing, eine große Schleife durch Westchina – 3.654 Kilometer. Wäre ich ein Stammeshäuptling, würde mir ein Viertel dieses Gebiets gehören. Leider habe ich nie irgendwo auf der Strecke Halt gemacht.
 
-On the first day of the Lunar New Year, there's a family tradition: my mother-in-law goes up the mountain to worship Buddha. So no cooking at noon — everyone's on their own.
+Am ersten Tag des Mondneujahrs gibt es eine Familientradition: Meine Schwiegermutter geht auf den Berg, um Buddha zu verehren. Also wird mittags nicht gekocht – jeder ist auf sich allein gestellt.
 
-That's how my four siblings and I ended up embarking on a spur-of-the-moment trip.
+So kam es, dass meine vier Geschwister und ich uns zu einer spontanen Reise aufmachten.
 
-We only planned to visit Guangwu Mountain in Bazhong and come back the same day.
+Wir hatten nur vor, den Guangwu-Berg in Bazhong zu besuchen und noch am selben Tag zurückzukommen.
 
-And then we crossed mountain after mountain, pushed through crowds of people, and finally arrived at Guangwu Mountain.
+Und dann überquerten wir Berg um Berg, kämpften uns durch Menschenmassen und erreichten schließlich den Guangwu-Berg.
 
-Guangwu Mountain sits at around 2,000 meters in elevation. The roads are rough — countless S-shaped winding mountain roads, made worse by light rain, potholes, and splashing mud. My car may look like an SUV, but it's really a city runabout, and I hadn't even installed an engine guard plate. It broke my heart.
+Der Guangwu-Berg liegt auf etwa 2.000 Metern Höhe. Die Straßen sind rau – unzählige S-förmige Serpentinen, verschlimmert durch leichten Regen, Schlaglöcher und spritzenden Matsch. Mein Auto sieht zwar aus wie ein SUV, ist aber in Wirklichkeit ein Stadtauto, und ich hatte nicht einmal eine Unterboden-Schutzplatte eingebaut. Es hat mir das Herz gebrochen.
 
-The climb required gaining over 1,000 meters in elevation, using third or fourth gear all the way to the top. Everything was covered in white — not snow, but ice glazing the tree branches, looking exactly like this. We found a flat stretch of road to take a few photos, but everyone was shivering and huddled together, frozen to the bone.
+Der Aufstieg erforderte einen Höhengewinn von über 1.000 Metern, im dritten oder vierten Gang den ganzen Weg nach oben. Alles war weiß – nicht Schnee, sondern Eis, das die Äste der Bäume überzog, genau so sah es aus. Wir fanden ein flaches Stück Straße, um ein paar Fotos zu machen, aber alle zitterten und drängten sich zusammen, durchgefroren bis auf die Knochen.
 
 ![1427475223726372.jpg](https://i.190808.xyz/bim/1427475223726372.jpg)
 
-Next to Bazhong is Hanzhong. I hadn't realized Guangwu Mountain sits right on the provincial border. Since it was the first day of the Lunar New Year, Guangwu Mountain Town was practically deserted — not a single tourist to be seen. Terrible timing. I asked my siblings: "Two hundred kilometers ahead is Hanzhong. Two hundred kilometers behind is home. Want to keep going north?" Who turns down an adventure? Unanimous approval! So we drove on.
+Neben Bazhong liegt Hanzhong. Mir war nicht klar, dass der Guangwu-Berg direkt an der Provinzgrenze liegt. Da es der erste Tag des Mondneujahrs war, war die Stadt Guangwu-Berg praktisch wie ausgestorben – kein einziger Tourist zu sehen. Schlechtes Timing. Ich fragte meine Geschwister: „Zweihundert Kilometer vor uns liegt Hanzhong. Zweihundert Kilometer hinter uns ist zu Hause. Lust, weiter nach Norden zu fahren?“ Wer lehnt schon ein Abenteuer ab? Einstimmige Zustimmung! Also fuhren wir weiter.
 
-Not long after heading north from Guangwu Mountain Town, we reached the provincial border. This spot may not be as epic as the Sichuan-Tibet border crossing, but for my two siblings who had never left the province, it was highly symbolic.
+Nicht lange nachdem wir von der Stadt Guangwu-Berg nach Norden gefahren waren, erreichten wir die Provinzgrenze. Dieser Ort mag nicht so episch sein wie der Grenzübergang zwischen Sichuan und Tibet, aber für meine beiden Geschwister, die noch nie die Provinz verlassen hatten, war er hoch symbolisch.
 
-Crossing the border meant entering Shaanxi territory and hitting a steep downhill stretch. Visibility dropped to less than ten meters. I turned on my hazard lights, crawling at 20–30 km/h. That's when I learned that even 20–30 km/h is dangerous in heavy fog — especially when you don't know there's a car ahead making a U-turn, its side suddenly facing you. Slam on the brakes! Scared the hell out of me.
+Das Überqueren der Grenze bedeutete, dass wir in das Gebiet von Shaanxi eintraten und auf ein steiles Gefälle stießen. Die Sichtweite sank auf weniger als zehn Meter. Ich schaltete die Warnblinkanlage ein und kroch mit 20–30 km/h dahin. Da lernte ich, dass selbst 20–30 km/h bei dichtem Nebel gefährlich sein können – besonders, wenn man nicht weiß, dass ein Auto vor einem wendet und einem plötzlich die Seite entgegenkommt. Vollbremsung! Hat mich zu Tode erschreckt.
 
-After that long downhill stretch, the fog lifted, visibility opened up, and we entered the Hanzhong Plain — a land of plenty for a group of Shaanxi people who speak Sichuanese dialect.
+Nach diesem langen Gefälle lichtete sich der Nebel, die Sicht wurde frei, und wir erreichten die Hanzhong-Ebene – ein Land des Überflusses für eine Gruppe von Shaanxi-Leuten, die Sichuan-Dialekt sprechen.
 
-By the time we reached Hanzhong's city center, it was already 4 PM. Having finally arrived somewhere new, we couldn't pass up the food. We circled the city twice before finding a snack shop. Even though it was New Year's Day, plenty of people were eating — tables had spilled out onto the street. Hanzhong's specialty is hot liangpi (cold skin noodles). The name sounds contradictory, but it comes from the preparation method: you steam a flour-based batter, then serve it with cold broth. Refreshing and uniquely delicious.
+Als wir das Zentrum von Hanzhong erreichten, war es bereits 16 Uhr. Endlich an einem neuen Ort angekommen, konnten wir uns das Essen nicht entgehen lassen. Wir fuhren zweimal durch die Stadt, bevor wir einen Imbiss fanden. Obwohl Neujahrstag war, aßen viele Leute – die Tische waren auf die Straße hinausgestellt. Hanzhongs Spezialität ist heiße Liangpi (kalte Hautnudeln). Der Name klingt widersprüchlich, kommt aber von der Zubereitungsmethode: Man dämpft einen Teig auf Mehlbasis und serviert ihn dann mit kalter Brühe. Erfrischend und einzigartig lecker.
 
-Then we faced another awkward dilemma. The original plan was to head home from Hanzhong. But Xi'an was right there, just 220 kilometers north. Home was south, 400 kilometers away. What to do?
+Dann standen wir vor einem weiteren peinlichen Dilemma. Der ursprüngliche Plan war, von Hanzhong nach Hause zu fahren. Aber Xi'an war direkt da, nur 220 Kilometer nördlich. Nach Hause waren es 400 Kilometer nach Süden. Was tun?
 
-You already know the answer — keep going north. To the real, geographically proper North.
+Du kennst die Antwort bereits – weiter nach Norden. In den echten, geografisch korrekten Norden.
 
-Getting from Hanzhong to Xi'an means crossing the Qinling Mountains — over 200 kilometers, with 130 kilometers of mountain highway. Used to Sichuan's expressways, I was shocked to find the entire Han-Xi expressway limited to 100 km/h. Extremely frustrating. But the real annoyance was yet to come: a traffic jam inside a tunnel!!! Over just 200+ kilometers, it took us four hours.
+Von Hanzhong nach Xi'an zu kommen bedeutet, das Qinling-Gebirge zu überqueren – über 200 Kilometer, davon 130 Kilometer Gebirgsautobahn. Gewohnt an Sichuans Autobahnen, war ich schockiert, dass die gesamte Han-Xi-Autobahn auf 100 km/h begrenzt war. Extrem frustrierend. Aber der wahre Ärger kam noch: ein Stau in einem Tunnel!!! Auf nur etwas mehr als 200 Kilometern brauchten wir vier Stunden.
 
-True to its reputation as a geographic divide, shortly after exiting the Qinling Tunnel No. 3, *bam* — the Guanzhong Plain stretched out before you! Like an Italian pizza suddenly dropping on the ground, it was that surprising. The roads straightened out instantly, the radio signal cleared up, and we were cruising at 120 km/h!
+Seinem Ruf als geografische Grenze gerecht werdend, kurz nachdem wir den Qinling-Tunnel Nr. 3 verlassen hatten, *bam* – die Guanzhong-Ebene breitete sich vor uns aus! Wie eine italienische Pizza, die plötzlich auf den Boden fällt, so überraschend war es. Die Straßen wurden sofort gerade, das Radiosignal wurde klar, und wir fuhren mit 120 km/h!
 
-If not for visiting the Muslim Quarter, the Bell and Drum Towers, my impression of Xi'an would have been just so-so — a few more grand city walls and historic sites than average. But the moment I stepped into the Muslim Quarter, Xi'an instantly became legendary in my mind, as awesome as Nanning.
+Wenn ich nicht das Muslim-Viertel, den Glocken- und Trommelturm besucht hätte, wäre mein Eindruck von Xi'an nur so lala gewesen – ein paar prächtigere Stadtmauern und historische Stätten als üblich. Aber in dem Moment, als ich das Muslim-Viertel betrat, wurde Xi'an sofort legendär in meinen Augen, so großartig wie Nanning.
 
-Any city with a dedicated food street in its center is awesome. Chengdu lacks exactly this, which is why I find Chengdu boring — I don't know what outsiders are talking about when they rave about Chengdu's food scene. Hot pot, maocai, skewers, BBQ, Sichuan cuisine — everything is blazingly spicy. And yet, you still complain while eating. But in the Muslim Quarter, surrounded by all my favorite wheat-based foods — biangbiang noodles, mutton paomo, wide belt noodles — I was so happy my bones were bubbling. So the siblings and I ate our way through the entire street until we were stuffed.
+Jede Stadt mit einer eigenen Fressmeile im Zentrum ist großartig. Chengdu fehlt genau das, weshalb ich Chengdu langweilig finde – ich weiß nicht, wovon Auswärtige reden, wenn sie von Chengdus Essensszene schwärmen. Hotpot, Maocai, Spieße, BBQ, Sichuan-Küche – alles ist höllisch scharf. Und trotzdem beschwert man sich beim Essen. Aber im Muslim-Viertel, umgeben von all meinen Lieblingsweizengerichten – Biangbiang-Nudeln, Lamm-Paomo, breite Gürtelnudeln – war ich so glücklich, dass meine Knochen blubberten. Also aßen meine Geschwister und ich uns die ganze Straße entlang, bis wir vollgestopft waren.
 
 ![1427474866279491.jpg](https://i.190808.xyz/bim/1427474866279491.jpg)
 
 ![1427474990823827.jpg](https://i.190808.xyz/bim/1427474990823827.jpg)
 
-With tight time constraints, we had to return to Nanchong the next day, so we couldn't visit many of Xi'an's attractions. We wandered through the Muslim Quarter again at noon, bought a big bag of provisions, and drove back home on the expressway the whole way — seven hours, only 270 yuan in fuel for the one-way trip. [THE END]
+Da die Zeit knapp war, mussten wir am nächsten Tag nach Nanchong zurückkehren, also konnten wir nicht viele von Xi'ans Sehenswürdigkeiten besuchen. Wir schlenderten mittags noch einmal durch das Muslim-Viertel, kauften einen großen Beutel Proviant und fuhren die ganze Strecke auf der Autobahn zurück nach Hause – sieben Stunden, nur 270 Yuan Benzin für die einfache Fahrt. [ENDE]

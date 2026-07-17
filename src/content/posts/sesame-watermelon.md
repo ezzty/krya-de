@@ -1,20 +1,20 @@
 ---
-title: Got the Sesame, Lost the Watermelon
+title: Den Sesam bekommen, die Wassermelone verloren
 pubDate: '2015-01-13'
 author: jin
 draft: false
 categories:
-  - Life
+- Leben
 tags:
-  - Wage Collection Stories
+- Inkasso-Geschichten
 ---
 
-One Monday evening, while I was washing dishes and my mind was wandering, I suddenly remembered a bizarre text message a client had sent the evening before: "Got the sesame, no watermelon." Without much thought, I texted back: "Lao Huang, what does your message mean?" The reply vanished like a stone in the ocean, and I didn't think much of it. It wasn't until today that it suddenly clicked—Lao Huang was saying I'd "picked up the sesame seeds and lost the watermelon."
+An einem Montagabend, während ich Geschirr spülte und meine Gedanken schweiften, erinnerte ich mich plötzlich an eine kuriose SMS, die ein Kunde am Vorabend geschickt hatte: „Den Sesam bekommen, keine Wassermelone.“ Ohne groß nachzudenken, antwortete ich: „Lao Huang, was bedeutet deine Nachricht?“ Die Antwort verschwand wie ein Stein im Meer, und ich machte mir keine weiteren Gedanken. Erst heute fiel es mir wie Schuppen von den Augen – Lao Huang meinte, ich hätte „den Sesam aufgehoben und die Wassermelone verloren“.
 
-I got angry immediately. After finishing the dishes, I sat at my desk and re-read yesterday's messages to make sure I hadn't misread. No mistake—Lao Huang meant he wouldn't be asking me for design work anymore. Judging by his tone, I'd lost a valuable contact. But I didn't regret losing this client. After all, knowing him was accidental, and I hadn't gained much from him up to this point. From my current perspective, the future remains in a Schrödinger's cat state. Lao Huang's departure simply returns me to the parallel universe I was in before I met him, so life goes on as before.
+Ich wurde sofort wütend. Nach dem Abwasch setzte ich mich an meinen Schreibtisch und las die Nachrichten von gestern noch einmal durch, um sicherzugehen, dass ich nichts falsch verstanden hatte. Kein Zweifel – Lao Huang wollte mir damit sagen, dass er mich nicht mehr mit Designarbeiten beauftragen würde. Seinem Ton nach hatte ich einen wertvollen Kontakt verloren. Aber ich bereute es nicht, diesen Kunden zu verlieren. Schließlich war die Bekanntschaft mit ihm eher zufällig gewesen, und ich hatte bis dahin nicht viel von ihm profitiert. Aus meiner heutigen Sicht befindet sich die Zukunft noch im Zustand von Schrödingers Katze. Lao Huangs Weggang bringt mich einfach in das Paralleluniversum zurück, in dem ich war, bevor ich ihn traf – also läuft das Leben weiter wie zuvor.
 
-So why was I angry? It was really about another person—Lao Du, who often plays cards and drinks with Lao Huang and owes me half a year's payment. I can't guess exactly what Lao Du told Lao Huang, but I suspect he complained about me calling him every day to demand repayment.
+Warum war ich dann so wütend? Es ging eigentlich um eine andere Person – Lao Du, der oft mit Lao Huang Karten spielt und trinkt und mir seit einem halben Jahr Geld schuldet. Ich kann nicht genau sagen, was Lao Du Lao Huang erzählt hat, aber ich vermute, er hat sich darüber beschwert, dass ich ihn jeden Tag anrufe, um mein Geld einzufordern.
 
-Actually, none of this is a big deal. Lao Du owes me 2,000 yuan for design work, always saying he'd pay, but half a year went by with nothing. I happened to be short on cash recently, so I called him every day to collect. After a week of this, I lost my temper and told him: "2,000 yuan isn't much—just tell your finance department to process it, it takes a few minutes. I shouldn't have to make a special trip to the office for 2,000 yuan, and that's embarrassing for everyone!" That damaged the relationship—but honestly, I was already prepared for that. You meet too many people in life; one less is fine.
+Eigentlich ist das alles keine große Sache. Lao Du schuldet mir 2.000 Yuan für Designarbeiten, hat immer gesagt, er würde zahlen, aber ein halbes Jahr verging, ohne dass etwas passierte. Ich war zufällig in letzter Zeit knapp bei Kasse, also rief ich ihn jeden Tag an, um einzutreiben. Nach einer Woche verlor ich die Geduld und sagte zu ihm: „2.000 Yuan sind nicht viel – sag einfach deiner Finanzabteilung, sie sollen es überweisen, das dauert ein paar Minuten. Ich sollte nicht extra ins Büro kommen müssen für 2.000 Yuan, das ist doch peinlich für uns beide!“ Das hat die Beziehung belastet – aber ehrlich gesagt, war ich darauf schon vorbereitet. Man trifft im Leben zu viele Menschen; einer weniger ist auch in Ordnung.
 
-Later, I planned to send Lao Huang a comparison image of a pile of sesame seeds next to a watermelon to show him which is bigger—a pile of sesame seeds or one watermelon. But then I thought about it again—since we won't be working together anymore, saying more would just be nonsense.
+Später hatte ich vor, Lao Huang ein Vergleichsbild von einem Haufen Sesam neben einer Wassermelone zu schicken, um ihm zu zeigen, was größer ist – ein Haufen Sesam oder eine Wassermelone. Aber dann dachte ich nochmal darüber nach – da wir nicht mehr zusammenarbeiten werden, wäre jedes weitere Wort nur Unsinn.

@@ -1,26 +1,26 @@
 ---
-title: Unofficial Blog History S01E01
+title: Inoffizielle Blog-Geschichte S01E01
 pubDate: '2014-07-29'
 author: jin
 draft: false
 categories:
-  - Life
+- Leben
 tags:
-  - Blog
+- Blog
 ---
 
-This is the third time I've changed my domain name and blog title. The content hasn't diminished much, and my writing hasn't undergone any qualitative leap, so it hardly counts as a rebirth. The previous name, "Kong Shan Xin Yu" (New Words from the Empty Mountain), was probably inspired by the line "After fresh rain in the empty mountains" — I had just returned from Meili Snow Mountain in the autumn of 2012 and was still immersed in the ancient, tranquil atmosphere of that rain-dappled mountain valley. Combined with my desire to write something different and stand out ("biao xin li yi" — striking out on a new path), and perhaps hearing a Sun Yanzi song or remembering the book *A New Account of the Tales of the World* (*Shishuo Xinyu*), I came up with that name.
+Zum dritten Mal habe ich meine Domain und den Blogtitel geändert. Der Inhalt hat sich kaum verändert, mein Schreiben keinen qualitativen Sprung gemacht – von einer Neugeburt kann also keine Rede sein. Der alte Name „Kong Shan Xin Yu“ (Neue Worte aus dem leeren Berg) kam wohl von der Zeile „Nach frischem Regen in den leeren Bergen“ – ich war gerade im Herbst 2012 vom Meili-Schneeberg zurück und noch ganz in der uralten, stillen Atmosphäre dieses verregneten Bergtals gefangen. Dazu der Wunsch, etwas Besonderes zu schreiben und aus der Masse herauszustechen („biao xin li yi“ – einen neuen Weg einschlagen), vielleicht ein Sun-Yanzi-Lied im Ohr oder die Erinnerung an das Buch *Eine neue Abhandlung über die Geschichten der Welt* (*Shishuo Xinyu*) – so kam der Name zustande.
 
-Originally, my blog's slogan was "Recording life and convincing myself." Later I found a passage by Wang Xiaobo that expressed it far more profoundly. In the preface to *The Silent Majority*, he wrote:
+Ursprünglich lautete das Motto meines Blogs: „Leben aufzeichnen und mich selbst überzeugen.“ Später fand ich eine Passage von Wang Xiaobo, die das viel tiefgründiger ausdrückte. Im Vorwort zu *Die schweigende Mehrheit* schrieb er:
 
-> `"My main occupation is writing fiction, but I also occasionally write essays to express my views on the world. As an ordinary person, my opinions may not be worth others' attention, but they matter a great deal to me. They show that I have my own likes and dislikes, loves and hates, and so on. Without those, there would be no flavor to being human."`
+> „Meine Hauptbeschäftigung ist das Schreiben von Romanen, aber ich schreibe auch gelegentlich Essays, um meine Sicht auf die Welt auszudrücken. Als gewöhnlicher Mensch mögen meine Meinungen für andere nicht von Bedeutung sein, aber für mich sind sie enorm wichtig. Sie zeigen, dass ich meine eigenen Vorlieben und Abneigungen, Lieben und Hasse habe und so weiter. Ohne das hätte das Menschsein keinen Geschmack.“
 
-I used to be more restless (or perhaps just bored) than I am now, venting everything all at once. Later I realized that was rather pointless — much like a reader who starts out with grand ambitions but, the more they read, the more they feel their own poverty and insignificance, and end up becoming humble. Put another way, many people like me, when first encountering something new, feel their minds are wide open and their ideas abundant, ready to comment on everything they see. But as we experience and learn more, we realize there are plenty of people far more capable than us, and our earlier bravado was nothing but silly self-entertainment. After recognizing this, my productivity has steadily declined — but I'm not worried. If I want to be an interesting person, I can't keep doing that anymore.
+Früher war ich unruhiger (oder vielleicht einfach gelangweilter) als heute und ließ alles auf einmal raus. Später merkte ich, dass das ziemlich sinnlos war – ähnlich wie ein Leser, der mit großen Ambitionen startet, aber je mehr er liest, desto mehr fühlt er seine eigene Armut und Bedeutungslosigkeit und wird am Ende demütig. Anders gesagt: Viele Leute wie ich fühlen sich beim ersten Kontakt mit etwas Neuem, als hätten sie einen offenen Geist und unendlich viele Ideen, und kommentieren alles, was ihnen vor die Augen kommt. Aber je mehr wir erleben und lernen, desto mehr erkennen wir, dass es jede Menge Leute gibt, die weit fähiger sind als wir, und dass unsere frühere Angeberei nichts als alberne Selbstbespaßung war. Nach dieser Erkenntnis ist meine Produktivität stetig gesunken – aber ich mache mir keine Sorgen. Wenn ich ein interessanter Mensch sein will, kann ich so nicht weitermachen.
 
-A lack of genuine humility is just another form of grandstanding. You might think the paragraph above isn't sincere — so let me confess further. I like Wang Xiaobo. I bought six of his books and haven't finished a single one, though I've re-read the famous passages several times. When the moment is right, I always remember a few lines. As for my current state of mind, a quote from *The Golden Age* fits perfectly:
+Ein Mangel an echter Demut ist nur eine andere Form von Angeberei. Du denkst vielleicht, der obige Absatz sei nicht aufrichtig – also gestehe ich weiter. Ich mag Wang Xiaobo. Ich habe sechs seiner Bücher gekauft und keins davon zu Ende gelesen, obwohl ich die berühmten Passagen mehrmals wiederholt habe. Wenn der Moment günstig ist, fallen mir immer ein paar Zeilen ein. Was meinen aktuellen Gemütszustand angeht, passt ein Zitat aus *Das goldene Zeitalter* perfekt:
 
-> `"That year I was twenty-one, in the golden age of my life. I had so many extravagant hopes. I wanted to love, I wanted to eat, I wanted to turn into a half-lit cloud in the sky in an instant. Only later did I realize that life is a slow process of being hammered — people grow older day by day, and hopes fade away day by day, until in the end you become like a hammered ox. But when I turned twenty-one, I didn't foresee any of this. I thought I would stay fierce forever, and nothing could hammer me down."`
+> „In jenem Jahr war ich einundzwanzig, im goldenen Zeitalter meines Lebens. Ich hatte so viele überschwängliche Hoffnungen. Ich wollte lieben, ich wollte essen, ich wollte mich im Nu in eine halb beleuchtete Wolke am Himmel verwandeln. Erst später begriff ich, dass das Leben ein langsamer Prozess des Gehämmertwerdens ist – die Menschen werden Tag für Tag älter, und die Hoffnungen schwinden Tag für Tag, bis man am Ende wie ein gehämmertes Rind ist. Aber als ich einundzwanzig wurde, ahnte ich nichts davon. Ich dachte, ich würde für immer wild bleiben und nichts könnte mich kleinkriegen.“
 
-I, too, have so many extravagant hopes. Even knowing that life is a process of being hammered, I'll try to keep a bit of joy along the way.
+Auch ich habe so viele überschwängliche Hoffnungen. Selbst wenn ich weiß, dass das Leben ein Prozess des Gehämmertwerdens ist, werde ich versuchen, mir ein bisschen Freude auf dem Weg zu bewahren.
 
-(Last updated March 20, 2020)
+(Zuletzt aktualisiert am 20. März 2020)

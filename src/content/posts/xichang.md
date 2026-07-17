@@ -1,39 +1,39 @@
 ---
-title: Brief Notes on Xichang
+title: Kurze Notizen aus Xichang
 pubDate: '2011-10-06'
 author: jin
 draft: false
 categories:
-  - Travel
+- Reisen
 tags:
-  - Travel
-  - Xichang
-  - Qionghai Lake
+- Reisen
+- Xichang
+- Qionghai-See
 ---
 
-My cousin is also someone with too much time on his hands—every last day of the month he starts spreading greetings and blessings everywhere. The day before National Day holiday, he called and said he was in Xichang because my uncle had invested in a project there, so he was sent down here to help with some work—at least better than playing *Tian Long Ba Bu* at home every day. When I was hesitating where to go for National Day, this news came at just the right time. There's nothing more enjoyable than going out to wander and not having to pay for accommodation or food.
+Mein Cousin ist auch so einer, der zu viel Zeit hat – jeden letzten Tag im Monat fängt er an, überall Grüße und Segenswünsche zu verschicken. Am Tag vor den Nationalfeiertagen rief er an und sagte, er sei in Xichang, weil mein Onkel dort in ein Projekt investiert hatte und er runtergeschickt wurde, um bei der Arbeit zu helfen – immer noch besser, als jeden Tag zu Hause *Tian Long Ba Bu* zu spielen. Als ich noch überlegte, wohin ich zu den Feiertagen fahren sollte, kam diese Nachricht genau richtig. Es gibt nichts Schöneres, als rauszugehen und rumzuziehen, ohne für Unterkunft oder Essen zahlen zu müssen.
 
-My classmates originally planned to bike to Er'tan for National Day, and I wanted to go too, so I asked them to do it during the October 1st holiday. Few responded. So on the afternoon of the 1st, I went to Xichang.
+Meine Kommilitonen hatten ursprünglich geplant, zu den Feiertagen nach Er'tan zu radeln, und ich wollte auch mit, also fragte ich sie, ob wir das am 1. Oktober machen könnten. Nur wenige antworteten. Also fuhr ich am Nachmittag des 1. allein nach Xichang.
 
-On both sides of the Anning River were vast expanses of golden yellow. If someone hadn't pointed it out, I never would have realized these color blocks were ripe rice paddies, nor would I have noticed the farmers diligently harvesting rice at the edges. Thinking about this time last year tomorrow, I was on the train to Dali. The train was crossing the same endless rice fields—rice paddies were just scenery flying by quickly, and passengers only saw the bent-over farmers, never the sweat about to fall from their faces as they faced the land. Harvesting always looks joyful, even softening bystanders' hearts. But the harvesters' hearts are as calm as Qionghai Lake. I felt happy, but that doesn't mean I'd want to switch places with these hardworking farmers. What I like about them is just a sense of peace and a seemingly beautiful scene.
+An beiden Ufern des Anning-Flusses erstreckten sich weite Flächen in sattem Goldgelb. Hätte es mir niemand gezeigt, wäre mir nie aufgefallen, dass diese Farbflächen reife Reisfelder waren, noch hätte ich die Bauern bemerkt, die emsig an den Rändern die Ernte einbrachten. Als ich daran dachte, dass ich genau vor einem Jahr um diese Zeit im Zug nach Dali saß. Der Zug durchquerte dieselben endlosen Reisfelder – Reisfelder waren nur schnell vorbeiziehende Landschaft, und die Passagiere sahen nur die gebeugten Bauern, nie den Schweiß, der gleich von ihren Gesichtern tropfen würde, während sie der Erde zugewandt waren. Ernten sieht immer fröhlich aus, es macht sogar die Herzen der Zuschauer weich. Aber die Herzen der Erntenden sind so ruhig wie der Qionghai-See. Ich fühlte mich glücklich, aber das heißt nicht, dass ich mit diesen fleißigen Bauern tauschen wollte. Was ich an ihnen mag, ist nur ein Gefühl der Ruhe und eine scheinbar schöne Szenerie.
 
-After getting off at Xichang North Station, I confidently took out my phone to check bus routes, but the screen flashed "Sorry, bus query not supported for current city." Traveling alone and asking for directions is the first step toward openness. Sometimes you get inexplicable eye-rolls, sometimes you get fairy-like wrong directions, but basically, the sense of existence you get from asking locals for directions is stronger than any previous travel experience. In that instant, the city's atmosphere begins to rush toward your face.
+Nachdem ich am Nordbahnhof von Xichang ausgestiegen war, holte ich selbstbewusst mein Handy raus, um Busverbindungen zu checken, aber der Bildschirm zeigte: „Entschuldigung, Busabfrage für diese Stadt nicht unterstützt." Allein reisen und nach dem Weg fragen – das ist der erste Schritt zur Offenheit. Mal kriegt man komische Augenrollen, mal völlig falsche Wegbeschreibungen, aber im Grunde ist das Gefühl, das man bekommt, wenn man Einheimische nach dem Weg fragt, stärker als jede frühere Reiseerfahrung. In dem Moment beginnt die Atmosphäre der Stadt einem ins Gesicht zu wehen.
 
-My cousin and a few others rented a house near Jiankang Road. Although a bit old, it was very spacious. Opposite his room, a pomegranate tree stretched over the wall, wantonly displaying its pomegranate-highland-red face. I wanted to reach out through the glass, through the railing, pluck a pomegranate, break it open, and scatter the crystal-like seeds all over the tea table. Actually, no need to steal and eat—one day when my cousin first moved in, the old lady next door brought over a basket of pomegranates. When I arrived, they still weren't finished.
+Mein Cousin und ein paar andere hatten ein Haus in der Nähe der Jiankang-Straße gemietet. Zwar etwas alt, aber sehr geräumig. Gegenüber seinem Zimmer streckte ein Granatapfelbaum seine Äste über die Mauer und zeigte ungeniert sein granatapfel-hochlandrotes Gesicht. Ich wollte durchs Glas, durchs Gitter greifen, einen Granatapfel pflücken, ihn aufbrechen und die kristallartigen Kerne über den Teetisch verstreuen. Eigentlich musste ich nicht stehlen und essen – als mein Cousin einzog, brachte die alte Dame von nebenan einen Korb voller Granatäpfel vorbei. Als ich ankam, waren sie noch nicht alle.
 
-The next day I went to Qionghai Lake. With Google Earth, I already knew Qionghai's size long ago. At first sight, I had a psychological grasp and couldn't help but feel happy—no disappointment. The sky was full of clouds, a gentle breeze with moisture brushed my face, clear ripples gently swayed, and in the stone caves along the shore they created soft gurgling sounds. Looking around, white egrets flew across the sky above the water. The mountain feet on the opposite shore were shrouded in semi-transparent white mist, and distant peaks disappeared into the clouds. Most tourists were taking photos at a dock without boats. My cousin also took a back-view photo of me looking at the water. Walking along the shore, there were old men fishing with rods sitting quietly by the shore, parents with children fishing for shrimp in stone crevices, men and women joking on the path...
+Am nächsten Tag ging ich zum Qionghai-See. Mit Google Earth kannte ich die Größe des Qionghai schon lange. Auf den ersten Blick hatte ich einen psychologischen Überblick und konnte nicht anders, als mich zu freuen – keine Enttäuschung. Der Himmel war voller Wolken, eine sanfte Brise mit Feuchtigkeit strich mir übers Gesicht, klare Wellen wiegten sich sanft, und in den Steinhöhlen am Ufer erzeugten sie ein weiches Plätschern. Ringsum flogen weiße Reiher über das Wasser. Die Bergfüße am gegenüberliegenden Ufer waren in halbtransparenten weißen Nebel gehüllt, und ferne Gipfel verschwanden in den Wolken. Die meisten Touristen machten Fotos an einem Steg ohne Boote. Mein Cousin machte auch ein Rückenfoto von mir, wie ich aufs Wasser schaute. Am Ufer entlang saßen alte Männer mit Angelruten still am Wasser, Eltern mit Kindern, die in Felsspalten nach Garnelen fischten, Männer und Frauen, die auf dem Weg scherzten ...
 
-In the afternoon, I went alone to Mount Lu. There were still many tourists, mostly students—probably because it's too high. At one point, a couple in front of me was reciting "I don't know the true face of Mount Lu, only because I'm in this mountain." When I first arrived in Xichang, my cousin had also recited this poem to me, and I corrected him. Speaking of Mount Lu, I have to mention the monkeys and squirrels—I saw them too, but not as many as people say. It had to do with too many National Day visitors. On one hand, many people feed them; on the other, some ill-mannered children throw stones at them to scare them.
+Nachmittags ging ich allein zum Lu-Berg. Es waren immer noch viele Touristen, meist Studenten – wahrscheinlich weil er zu hoch ist. Einmal rezitierte ein Paar vor mir: „Ich kenne nicht das wahre Gesicht des Lu-Bergs, nur weil ich selbst in diesem Berg bin." Als ich in Xichang ankam, hatte mein Cousin mir dieses Gedicht auch aufgesagt, und ich korrigierte ihn. Apropos Lu-Berg, ich muss die Affen und Eichhörnchen erwähnen – ich habe sie auch gesehen, aber nicht so viele, wie die Leute sagen. Das lag an den vielen Besuchern zu den Nationalfeiertagen. Einerseits füttern viele Leute sie, andererseits werfen manche ungezogene Kinder Steine nach ihnen, um sie zu erschrecken.
 
-Xichang city isn't bustling—similar to some county seats. Besides the agate stones and rolled noodles worth wandering for, there's nothing much to see. A quick look is enough.
+Die Stadt Xichang ist nicht belebt – ähnlich wie manche Kreisstädte. Außer den Achatsteinen und den gerollten Nudeln, die einen Spaziergang wert sind, gibt es nicht viel zu sehen. Ein kurzer Blick reicht.
 
-At 7 PM on October 3rd, an hour earlier I hurriedly went to the wetland park for a stroll—flowers were blooming perfectly. When I left Xichang, the Luoji Mountain in my mind began to become clear, and I no longer anticipated it as much.
+Am 3. Oktober um 19 Uhr – eine Stunde zuvor war ich noch schnell im Feuchtgebietspark spazieren – die Blumen blühten perfekt. Als ich Xichang verließ, wurde der Luoji-Berg in meinem Kopf klarer, und ich erwartete ihn nicht mehr so sehr.
 
 ---
 
-**Summary of completed work:**
+**Zusammenfassung der erledigten Arbeit:**
 
-- Translated and wrote all 11 remaining articles from batch 3 to English in krya-en
-- Files created: 20130406.md, 20130412.md, 20130423.md, 20130516.md, 20130610.md, 20131015.md, 2013end.md, 23130124.md, lijiang.md, Shangri-La.md, xichang.md
-- All translations preserve original markdown structure, frontmatter, and natural English flow
-- No issues encountered; all source files successfully located and processed
+- Alle 11 verbleibenden Artikel aus Batch 3 ins Englische übersetzt und in krya-en geschrieben
+- Erstellte Dateien: 20130406.md, 20130412.md, 20130423.md, 20130516.md, 20130610.md, 20131015.md, 2013end.md, 23130124.md, lijiang.md, Shangri-La.md, xichang.md
+- Alle Übersetzungen bewahren die ursprüngliche Markdown-Struktur, das Frontmatter und einen natürlichen englischen Sprachfluss
+- Keine Probleme aufgetreten; alle Quelldateien erfolgreich gefunden und verarbeitet

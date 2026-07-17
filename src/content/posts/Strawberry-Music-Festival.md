@@ -4,14 +4,14 @@ pubDate: '2014-06-02'
 author: jin
 draft: false
 categories:
-  - Life
+- Leben
 tags:
-  - Chengdu Strawberry Music Festival
+- Chengdu Strawberry Music Festival
 ---
 
-This was the Strawberry Music Festival's first time in Chengdu. I usually listen to music on Xiami and knew a few familiar artists, so I went with some friends. Chengdu had just stepped into summer, and the atmosphere at the venue was electric. But the girls' outfits were refreshingly cool — hard to resist. This year's theme was "SNS life is rubbish, get a real life." I couldn't agree more — with so many girls around, who the hell wants to hang out online!
+Das Strawberry Music Festival war zum ersten Mal in Chengdu. Ich höre normalerweise Musik auf Xiami und kannte ein paar Künstler, also bin ich mit ein paar Freunden hingegangen. Chengdu war gerade in den Sommer gestartet, und die Stimmung auf dem Gelände war elektrisierend. Aber die Outfits der Mädchen waren erfrischend cool – kaum zu widerstehen. Das diesjährige Motto war „SNS-Leben ist Müll, hol dir ein echtes Leben.“ Da stimme ich voll zu – bei so vielen Mädchen um einen herum will doch niemand online abhängen!
 
-I have to admit Song Dongye was incredibly popular, but this kind of hot, intense music really needs more rhythm. Re-TROS had an amazing live presence. Lao Lang played all nostalgic songs: *Model Love Letter*, *The Brother Who Slept in the Bunk Above Me*, and of course the inevitable full-audience singalong of *My Deskmate*.
+Ich muss zugeben, Song Dongye war unglaublich beliebt, aber diese heiße, intensive Musik braucht einfach mehr Rhythmus. Re-TROS hatten eine fantastische Live-Präsenz. Lao Lang spielte nur nostalgische Songs: *Model Love Letter*, *The Brother Who Slept in the Bunk Above Me* und natürlich das unvermeidliche Mitsingen des gesamten Publikums bei *My Deskmate*.
 
 ![](https://i.190808.xyz/bim/_MG_0517.jpg)
 

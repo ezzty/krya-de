@@ -1,50 +1,50 @@
 ---
-title: That Poor Kid Still Lives in Your Stomach
+categories:
+- Leben
+tags:
+- Armes Kind
+title: Dieses arme Kind lebt immer noch in deinem Bauch
 pubDate: '2026-04-01'
 author: jin
 draft: false
-categories:
-  - Life
-tags:
-  - Poor Kid
 ---
 
 ![ms-1.avif](https://user0102.cn.imgto.link/public/20260422/ms-1.avif)
 
-**01. The Dietary Underpinnings That Wealth Can't Mask**
+**01. Die Ernährungsmuster, die Geld nicht überdecken kann**
 
-I used to think that people nearing financial independence would be particularly refined about their eating habits. Even if they weren't dining on abalone and lobster every meal, they would at least leave behind the crude indulgence of high carbs and heavy oil and salt.
+Ich dachte früher, dass Menschen, die kurz vor der finanziellen Unabhängigkeit stehen, besonders verfeinert essen würden. Selbst wenn sie nicht bei jeder Mahlzeit Abalone und Hummer essen, würden sie zumindest die grobe Genuss-Sucht nach vielen Kohlenhydraten, viel Fett und Salz hinter sich lassen.
 
-But then I discovered that some very wealthy individuals remain wildly obsessed with heavy-flavored fats and carbs. This is very likely a hangover from growing up poor: in those days of scarcity, filling your stomach was synonymous with happiness.
+Aber dann entdeckte ich, dass einige sehr wohlhabende Menschen immer noch wild auf schwere, fettige Kohlenhydrate versessen sind. Das ist sehr wahrscheinlich ein Überbleibsel aus einer armen Kindheit: In jenen Tagen der Knappheit war es gleichbedeutend mit Glück, den Bauch vollzuschlagen.
 
-**02. The Childhood Trauma Ruled by Congee**
+**02. Das von Brei beherrschte Kindheitstrauma**
 
-I grew up in the countryside with my grandparents. My three daily meals as a child were basically congee, noodles, and rice.
+Ich bin auf dem Land bei meinen Großeltern aufgewachsen. Meine drei täglichen Mahlzeiten als Kind bestanden im Grunde aus Brei, Nudeln und Reis.
 
-Breakfast was always congee — especially sweet potato congee, which left an indelible mark of childhood trauma. Thin, watery broth paired with pickled cowpeas — it made me gag! I wished every meal could be plain white rice — not for any reason other than that there'd always be meat to go with it.
+Das Frühstück war immer Brei – besonders Süßkartoffelbrei, der ein unauslöschliches Kindheitstrauma hinterlassen hat. Dünne, wässrige Brühe mit eingelegten Kuherbsen – das hat mich gewürgt! Ich wünschte mir, jede Mahlzeit könnte einfach nur weißer Reis sein – nicht aus einem anderen Grund, als dass es dann immer Fleisch dazu gab.
 
-I remember eating chili fried pork on a summer noon. I ran full speed under the scorching sun to the vegetable patch, grabbed a handful of crooked green chilies, and sprinted back. As a kid, I couldn't handle spice — those chilies felt a hundred times hotter back then. But I didn't care. I dug through the chili pile, found the thickest, glistening piece of pork, shoved it in my mouth, and frantically shoveled rice. Veins bulging, snot running, sweat pouring.
+Ich erinnere mich, wie ich an einem Sommer-Mittag scharf gebratenes Schweinefleisch mit Chili gegessen habe. Ich rannte mit voller Geschwindigkeit unter der sengenden Sonne zum Gemüsebeet, schnappte mir eine Handvoll krummer grüner Chilis und rannte zurück. Als Kind konnte ich Schärfe nicht vertragen – diese Chilis kamen mir damals hundertmal schärfer vor. Aber das war mir egal. Ich wühlte durch den Chili-Haufen, fand das dickste, glänzende Stück Schweinefleisch, stopfte es mir in den Mund und schaufelte wie verrückt Reis. Die Adern traten hervor, die Nase lief, der Schweiß floss.
 
-That was the pinnacle of enjoyment in a life of deprivation. It felt absolutely incredible!
+Das war der Gipfel des Genusses in einem Leben der Entbehrung. Es fühlte sich absolut unglaublich an!
 
-**03. The "Compensation Psychology" in a Carbohydrate Paradise**
+**03. Die „Kompensationspsychologie" im Kohlenhydrat-Paradies**
 
-Unfortunately, those happiness-overloaded moments were not the norm. Fantasizing about eating white rice every day was a luxury. But as long as it wasn't congee, even eating noodles twice a day was fine. A few vegetable leaves in the noodles, seasoned with salt, soy sauce, chili oil, and scallions — this kind of heavy-flavored stimulation was enough to mask the blandness of life. There were better noodle dishes too: my grandmother sometimes made dough drop soup, dumplings, steamed buns, and cured-meat pies. But these were less frequent — no refrigerator, no running to the store anytime you wanted. Everything had to be made from scratch, which took time and effort.
+Leider waren diese glücksüberladenen Momente nicht die Norm. Davon zu träumen, jeden Tag weißen Reis zu essen, war ein Luxus. Aber solange es kein Brei war, war es in Ordnung, sogar zweimal am Tag Nudeln zu essen. Ein paar Gemüseblätter in den Nudeln, gewürzt mit Salz, Sojasauce, Chiliöl und Frühlingszwiebeln – diese Art von intensiver Geschmacksstimulation reichte aus, um die Eintönigkeit des Lebens zu überdecken. Es gab auch bessere Nudelgerichte: Meine Großmutter machte manchmal Mehlklößchensuppe, Teigtaschen, gedämpfte Brötchen und Pasteten mit gepökeltem Fleisch. Aber die gab es seltener – kein Kühlschrank, kein schneller Gang zum Laden, wann immer man wollte. Alles musste von Grund auf selbst gemacht werden, was Zeit und Mühe kostete.
 
-This dietary habit was stamped into my genes like a brand. Even after my living conditions improved, I remained almost obsessively passionate about meat and wheat-based foods.
+Diese Essgewohnheit brannte sich wie ein Brandmal in meine Gene. Selbst nachdem sich meine Lebensbedingungen verbessert hatten, blieb ich fast zwanghaft leidenschaftlich, was Fleisch und Weizengerichte anging.
 
-When I went to Xi'an, the "carbohydrate capital," and saw the dazzling array of noodle dishes — oil-splashed noodles, saozi noodles, roujiamo — it was like falling into a dopamine vortex. In that moment, I was still that boy sprinting under the blazing sun, chasing nothing more than a piece of fatty pork. This raw pleasure, born from the combination of carbs and fat, precisely hit the switch labeled "scarcity" in my cerebral cortex.
+Als ich nach Xi'an ging, der „Kohlenhydrat-Hauptstadt", und die schillernde Vielfalt an Nudelgerichten sah – ölgetränkte Nudeln, Saozi-Nudeln, Roujiamo – war es, als würde ich in einen Dopamin-Sog fallen. In diesem Moment war ich immer noch der Junge, der unter der gleißenden Sonne rannte und nichts anderes jagte als ein Stück fettes Schweinefleisch. Diese rohe Freude, geboren aus der Kombination von Kohlenhydraten und Fett, traf genau den Schalter, der in meiner Großhirnrinde mit „Knappheit" beschriftet war.
 
-**04. Awakening: The Body's Invoice and a Cognitive Revolution**
+**04. Erwachen: Die Rechnung des Körpers und eine kognitive Revolution**
 
-But the adult body is honest.
+Aber der erwachsene Körper ist ehrlich.
 
-When the arrows on my health checkup report started nervously jumping around, I suddenly woke up: I thought I was enjoying freedom, but I was actually being enslaved by past hunger. Those preferences for high sugar, high oil, and high carbs are essentially "survival energy packs" left over from agricultural civilization for physical laborers. But placed in today's world of infinite supply, they've become invisible killers of health.
+Als die Pfeile in meinem Gesundheitscheck-Bericht nervös zu hüpfen begannen, wachte ich plötzlich auf: Ich dachte, ich genösse die Freiheit, aber in Wirklichkeit wurde ich von vergangenem Hunger versklavt. Diese Vorlieben für viel Zucker, viel Fett und viele Kohlenhydrate sind im Wesentlichen „Überlebens-Energiepakete", die die landwirtschaftliche Zivilisation für körperlich Arbeitende hinterlassen hat. Aber in die heutige Welt des unendlichen Angebots gestellt, sind sie zu unsichtbaren Killern der Gesundheit geworden.
 
-Given the choice between steaming, boiling, or light stewing — why always choose fiery stir-frying? Already finished one bowl of rice, why add another? Already full, why can't you put down your chopsticks? We're not just eating food — we're eating a "habit" inherited from our elders, eating a sense of "security." If we don't stuff ourselves to the brim, if our faces aren't glistening with oil, there seems to be a deep-seated feeling that we haven't yet escaped hardship.
+Wenn man die Wahl zwischen Dämpfen, Kochen oder leichtem Schmoren hat – warum immer das feurige Scharfbraten wählen? Schon eine Schale Reis gegessen, warum noch eine zweite nehmen? Schon satt, warum kann man die Stäbchen nicht weglegen? Wir essen nicht nur Nahrung – wir essen eine von den Älteren übernommene „Gewohnheit", wir essen ein Gefühl von „Sicherheit". Wenn wir uns nicht bis zum Rand vollstopfen, wenn unsere Gesichter nicht vor Fett glänzen, scheint tief in uns das Gefühl zu stecken, dass wir die Entbehrungen noch nicht hinter uns gelassen haben.
 
-**05. Passing It On: Breaking That Chain of Scarcity**
+**05. Weitergabe: Diese Kette der Knappheit durchbrechen**
 
-Dietary habits are a family's most profound invisible inheritance. Often, we think we're choosing food, but we're actually obeying the inertia in our genes. That compulsion to eat until your face is shiny with oil before you feel you've "lived well" is the most secretive legacy our elders left us — and also the sharpest chain. Our generation took decades to walk out of the shadow of "not having enough to eat." The next generation's challenge is learning restraint in a world of "too many temptations."
+Essgewohnheiten sind das tiefgründigste unsichtbare Erbe einer Familie. Oft denken wir, wir wählen das Essen, aber in Wirklichkeit gehorchen wir der Trägheit in unseren Genen. Dieser Drang, so lange zu essen, bis das Gesicht vor Fett glänzt, bevor man das Gefühl hat, „gut gelebt zu haben", ist das geheimnisvollste Vermächtnis, das uns unsere Älteren hinterlassen haben – und auch die schärfste Kette. Unsere Generation brauchte Jahrzehnte, um aus dem Schatten des „Nicht-satt-Werdens" herauszutreten. Die Herausforderung der nächsten Generation ist es, in einer Welt der „zu vielen Versuchungen" Zurückhaltung zu lernen.
 
-As a father, I know how stubborn these habits are. But I want my child to eat less rice and more quality protein and vegetables. I try to instill in her a light philosophy of "the true taste of food" — less heavy sugar and salt. I teach her to read ingredient labels and recognize the maze of additives hidden behind delicious flavors. If I don't cut this off at the dinner table, my child might still be searching for so-called happiness in a fog of high sugar and high oil. A person's life is not only about wealth — it also requires a healthy diet to improve the quality of life. Starting from every bite of light, clean food, completely sever that chain of "scarcity" that has stretched across decades.
+Als Vater weiß ich, wie hartnäckig diese Gewohnheiten sind. Aber ich möchte, dass mein Kind weniger Reis und mehr hochwertiges Eiweiß und Gemüse isst. Ich versuche, ihr eine leichte Philosophie des „wahren Geschmacks der Nahrung" zu vermitteln – weniger Zucker und Salz. Ich bringe ihr bei, Zutatenlisten zu lesen und das Labyrinth der Zusatzstoffe zu erkennen, das sich hinter köstlichen Aromen verbirgt. Wenn ich das nicht am Esstisch unterbreche, wird mein Kind vielleicht immer noch in einem Nebel aus Zucker und Fett nach dem sogenannten Glück suchen. Das Leben eines Menschen besteht nicht nur aus Wohlstand – es braucht auch eine gesunde Ernährung, um die Lebensqualität zu verbessern. Angefangen bei jedem Bissen leichter, sauberer Nahrung, gilt es, diese Kette der „Knappheit", die sich über Jahrzehnte erstreckt hat, vollständig zu durchtrennen.

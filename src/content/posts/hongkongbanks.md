@@ -1,51 +1,51 @@
 ---
-title: "Opening a Hong Kong Bank Account in 2025: A Step-by-Step Guide"
+title: 'Hongkonger Bankkonto eröffnen 2025: Eine Schritt-für-Schritt-Anleitung'
 pubDate: '2025-02-24'
 author: jin
 draft: false
 categories:
-  - Finance
+- Finanzen
 tags:
-  - HK Bank Card Opening
-  - HK Account Opening
-  - HSBC HK Account Opening
-  - BOC HK Account Opening
+- HK Bankkontoeröffnung
+- Kontoeröffnung Hongkong
+- HSBC Hongkong Kontoeröffnung
+- BOC Hongkong Kontoeröffnung
 ---
 
 ![hkca2.jpg](https://i.190808.xyz/typecho/2025/02/24/hkca2.jpg)
 
-For years now, I've been holding some **cryptocurrency** and **US stocks**. Not a fortune, but with no convenient way to deposit or withdraw, the money just sat idle. Last year, I noticed more and more people heading to Hong Kong to open bank accounts, and HK bank cards happen to solve exactly this problem. So a trip to Hong Kong became urgent. But work got in the way, and it wasn't until after the 2025 Spring Festival that I finally had the time. During the waiting period, I watched Hong Kong stocks surge. So I gave this trip an even nobler mission: **open a Hong Kong bank account, buy Xiaomi!** Yes — Xiaomi's stock price was climbing a rung higher every day. As the only company on Earth that's all-in on clothing, food, housing, and transportation, it was valued at just 1 trillion HKD. Compared to US-listed companies, it was an absolute bargain!
+Seit Jahren halte ich etwas **Kryptowährung** und **US-Aktien**. Kein Vermögen, aber ohne vernünftige Möglichkeit, Geld einzuzahlen oder abzuheben, lag es einfach brach. Letztes Jahr fiel mir auf, dass immer mehr Leute nach Hongkong reisten, um ein Bankkonto zu eröffnen – und HK-Bankkarten lösen genau dieses Problem. Also wurde eine Reise nach Hongkong dringend. Aber die Arbeit kam dazwischen, und erst nach dem chinesischen Neujahr 2025 hatte ich endlich Zeit. Während der Wartezeit sah ich zu, wie Hongkong-Aktien durch die Decke gingen. Also gab ich der Reise eine noch edlere Mission: **Ein Hongkonger Bankkonto eröffnen, Xiaomi kaufen!** Ja – der Aktienkurs von Xiaomi kletterte jeden Tag eine Stufe höher. Als einziges Unternehmen auf der Erde, das sich auf Kleidung, Essen, Wohnen und Transport spezialisiert hat, war es mit nur 1 Billion HKD bewertet. Verglichen mit US-amerikanischen Firmen war das ein absolutes Schnäppchen!
 
-Lately, tons of people have been traveling to Hong Kong to open accounts. In tourist-heavy areas like Tsim Sha Tsui and Central, there are queues outside nearly every bank every morning. If you plan to open an account in these areas, book ahead via the mobile app. If you want to walk in without an appointment, go to a less popular branch and queue up by 8:30 AM — otherwise you'll be hopping from bank to bank testing your luck.
+In letzter Zeit reisen unzählige Leute nach Hongkong, um Konten zu eröffnen. In touristischen Gegenden wie Tsim Sha Tsui und Central stehen fast jeden Morgen Schlangen vor den Banken. Wenn du dort ein Konto eröffnen willst, buche vorher über die App. Falls du ohne Termin vorbeischauen möchtest, geh zu einer weniger bekannten Filiale und stell dich bis 8:30 Uhr an – sonst wanderst du von Bank zu Bank und hoffst auf Glück.
 
-Here's what you should prepare and print before heading to a Hong Kong bank for account opening. You might not need everything, but without it, you'll definitely get turned away:
+Hier ist, was du vorbereiten und ausdrucken solltest, bevor du zu einer Hongkonger Bank zur Kontoeröffnung gehst. Du brauchst vielleicht nicht alles, aber ohne wirst du definitiv abgewiesen:
 
-**1. The Essential Travel Trio**
-Mainland-Hong Kong Travel Permit, ID card, and the entry receipt (the little white slip you get after clearing Hong Kong customs)
+**1. Die drei wichtigsten Reisedokumente**
+Reiseerlaubnis für Festland-Hongkong, Personalausweis und der Einreisebeleg (der kleine weiße Zettel nach der Zollkontrolle in Hongkong)
 
-**2. Proof of Address:**
-Utility bills (water, electricity, gas), credit card statements with bank stamps — anything that proves your current residential address. If you don't have these, your ID card address will do, but you won't be able to receive the mailed bank card conveniently.
+**2. Adressnachweis:**
+Strom-, Wasser-, Gasrechnungen, Kreditkartenabrechnungen mit Bankstempel – alles, was deine aktuelle Wohnadresse belegt. Falls du nichts davon hast, tut es auch die Adresse auf deinem Personalausweis, aber dann bekommst du die Bankkarte nicht bequem per Post.
 
-**3. Proof of Assets**
-Bank salary statements, income/expense records
+**3. Vermögensnachweis**
+Gehaltsabrechnungen der Bank, Einnahmen-/Ausgabenaufzeichnungen
 
-**4. Proof of Investment**
-A-share transaction records, fund purchase receipts — staff may ask you to open the app and verify on the spot
+**4. Investitionsnachweis**
+Aktientransaktionen aus dem A-Markt, Fonds-Kaufbelege – die Mitarbeiter könnten dich bitten, die App zu öffnen und es vor Ort zu überprüfen
 
-The only acceptable reason for opening an account is investment. Hong Kong banks don't welcome customers who just want to save deposits, even though the interest rates are indeed attractive. Though once you've opened the account, nobody stops you from making fixed deposits.
+Der einzige akzeptable Grund für eine Kontoeröffnung ist Investition. Hongkonger Banken heißen Kunden, die nur Einlagen tätigen wollen, nicht willkommen – auch wenn die Zinssätze tatsächlich verlockend sind. Aber sobald das Konto eröffnet ist, hindert dich niemand daran, Festgelder anzulegen.
 
-Top recommended banks to open: Bank of China Hong Kong (free cross-border remittances from mainland China, no fees or losses), HSBC. Both have no account management fees and numerous branches — definitely open at least one of these. Other options include Standard Chartered, Hang Seng, Citibank, China Merchants Wing Lung, and countless others — it comes down to personal preference and your asset profile. Several digital banks can be opened online, such as ZA Bank, Airstar, and WeLab. Since you're already here, spending 10 minutes to open one doesn't hurt. After opening a digital bank account, you can transfer a few dozen yuan into it and apply for a physical card to be mailed to you.
+Die am meisten empfohlenen Banken: Bank of China Hongkong (kostenlose Überweisungen aus Festlandchina, keine Gebühren oder Verluste), HSBC. Beide haben keine Kontoführungsgebühren und zahlreiche Filialen – eröffne auf jeden Fall mindestens eine davon. Weitere Optionen sind Standard Chartered, Hang Seng, Citibank, China Merchants Wing Lung und unzählige andere – es kommt auf persönliche Vorlieben und dein Vermögensprofil an. Einige Digitalbanken können online eröffnet werden, wie ZA Bank, Airstar und WeLab. Da du schon hier bist, schadet es nicht, 10 Minuten für eine zu investieren. Nach der Eröffnung eines Digitalkontos kannst du ein paar Dutzend Yuan überweisen und eine physische Karte beantragen, die dir zugeschickt wird.
 
-If you need to open a ZA Bank account, feel free to use my referral code: **LD8835**
+Wenn du ein ZA-Bank-Konto eröffnen möchtest, nutze gern meinen Empfehlungscode: **LD8835**
 
-**My Personal Account Opening Experience**
+**Meine persönliche Erfahrung bei der Kontoeröffnung**
 
 ![yl2.jpg](https://i.190808.xyz/typecho/2025/02/24/yl2.jpg)
 
-Before Spring Festival, I booked appointments at HSBC (West Kowloon) at 9 AM and Bank of China Hong Kong (Jordan) at 10:30 AM on the same day. After arriving in Hong Kong, I wanted to leave enough time for the second bank, so I reached HSBC West Kowloon by 8 AM — already the second person in line. The HSBC staff only checked the Essential Travel Trio (ID card, travel permit, entry slip). I showed my business license (I didn't provide proof of address here). HSBC opened the account on the spot, handed me the card, and helped me apply for a Blue Lion card — the whole process took about 30 minutes.
+Vor dem chinesischen Neujahr buchte ich Termine bei HSBC (West Kowloon) um 9 Uhr und bei der Bank of China Hongkong (Jordan) um 10:30 Uhr am selben Tag. Nach der Ankunft in Hongkong wollte ich genug Zeit für die zweite Bank einplanen, also war ich um 8 Uhr bei HSBC West Kowloon – schon die zweite Person in der Schlange. Die HSBC-Mitarbeiter prüften nur die drei wichtigsten Reisedokumente (Personalausweis, Reiseerlaubnis, Einreisebeleg). Ich zeigte meinen Gewerbeschein (hier brauchte ich keinen Adressnachweis). HSBC eröffnete das Konto sofort, gab mir die Karte und half mir, eine Blue-Lion-Karte zu beantragen – der ganze Vorgang dauerte etwa 30 Minuten.
 
-Then I power-walked to Jordan to open the BOC account. They started processing before my appointment time. BOC was more thorough — they checked the travel trio, bank statements, and proof of address. They asked about my job, investment experience, and purpose for opening the card. My answer: "To buy Xiaomi stock." BOC's service was just as good as HSBC's. About 40 minutes later, I walked out with the card in hand. Both banks done in 2 hours total.
+Dann eilte ich nach Jordan, um das BOC-Konto zu eröffnen. Sie begannen noch vor meinem Termin. BOC war gründlicher – sie prüften die Reisedokumente, Kontoauszüge und den Adressnachweis. Sie fragten nach meinem Job, meiner Erfahrung mit Investitionen und dem Zweck der Karte. Meine Antwort: "Um Xiaomi-Aktien zu kaufen." Der Service bei BOC war genauso gut wie bei HSBC. Etwa 40 Minuten später verließ ich die Filiale mit der Karte in der Hand. Beide Banken in insgesamt 2 Stunden erledigt.
 
-Channeling the "since we're already here" spirit, I visited China Merchants Wing Lung's Tsim Sha Tsui branch the next day. Even though I held a mainland Golden Sunflower card, the Wing Lung staff made me open both my banking app and stock account for inspection. They ultimately told me I could only open a standard account and would need to deposit 10,000 HKD to waive the 100 HKD monthly management fee. The service attitude at Wing Lung left me deeply ashamed of my financial situation. In the end, I guiltily said, "Since we're already here, let's just do it!" Then came another hiccup: Wing Lung said my two-character name matched another existing account and needed additional review. That review dragged on for over 10 days, and by the time I got home, it still hadn't been completed.
+Ganz im Sinne von "da wir schon mal hier sind", besuchte ich am nächsten Tag die Tsim-Sha-Tsui-Filiale von China Merchants Wing Lung. Obwohl ich eine Festland-Goldene-Sonnenblumen-Karte hatte, ließen mich die Wing-Lung-Mitarbeiter sowohl meine Banking-App als auch mein Aktienkonto zur Überprüfung öffnen. Letztendlich sagten sie mir, ich könne nur ein Standardkonto eröffnen und müsste 10.000 HKD einzahlen, um die monatliche Verwaltungsgebühr von 100 HKD zu vermeiden. Der Service bei Wing Lung ließ mich mich zutiefst für meine finanzielle Situation schämen. Am Ende sagte ich schuldbewusst: "Da wir schon mal hier sind, machen wir es einfach!" Dann kam der nächste Haken: Wing Lung meinte, mein zweistelliger Name stimme mit einem bestehenden Konto überein und benötige eine zusätzliche Prüfung. Diese Prüfung zog sich über 10 Tage hin, und als ich zu Hause ankam, war sie immer noch nicht abgeschlossen.
 
-The HSBC Blue Lion card was mailed via EMS to my home address — it actually arrived before I even got back from Hong Kong. Later, I applied for a debit card through the BOC Hong Kong app, and everything went smoothly.
+Die HSBC-Blue-Lion-Karte wurde per EMS an meine Heimatadresse geschickt – sie kam tatsächlich an, bevor ich aus Hongkong zurück war. Später beantragte ich über die BOC-Hongkong-App eine Debitkarte, und alles lief reibungslos.

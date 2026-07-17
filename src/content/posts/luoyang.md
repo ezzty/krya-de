@@ -1,65 +1,65 @@
 ---
-title: Spring Break Road Trip to Luoyang
+title: Frühlingsferien-Roadtrip nach Luoyang
 pubDate: '2026-04-08'
 author: jin
 draft: false
 categories:
-  - Travel
+- Reisen
 tags:
-  - Henan Travel
-  - Luoyang Travel
-  - Pangdonglai Xuchang
-  - Xiangyang Ancient City
+- Henan Reisen
+- Luoyang Reisen
+- Pangdonglai Xuchang
+- Xiangyang Altstadt
 ---
 
-My kid got six days off for spring break, but I couldn't snag any high-speed rail tickets, so we drove instead. I picked up the kid from school on Friday and headed north. Our route took us through Hanzhong, Xi'an, and Luoyang. Then we figured — since we were already in Henan, why not swing by Xuchang to check out Pangdonglai? On the way back to Chengdu, we passed through Xiangyang and Ankang. The entire trip covered roughly 2,500 kilometers.
+Mein Kind hatte sechs Tage Frühlingsferien, aber ich bekam keine Hochgeschwindigkeitszugtickets mehr, also sind wir gefahren. Freitags holte ich das Kind von der Schule ab und fuhr Richtung Norden. Unsere Route führte uns über Hanzhong, Xi'an und Luoyang. Und dann dachten wir – da wir schon in Henan waren, warum nicht einen Abstecher nach Xuchang machen und Pangdonglai besuchen? Auf dem Rückweg nach Chengdu kamen wir durch Xiangyang und Ankang. Die gesamte Reise umfasste etwa 2.500 Kilometer.
 
-Road trips have just one real advantage over train travel: freedom. Stop wherever you want. On day two, driving from Hanzhong to Luoyang, we spotted the Terracotta Warriors right off the highway. A quick right turn, a few extra kilometers, and we were off the expressway visiting the Mausoleum of the First Qin Emperor. At Sanmenxia, we stopped by the Yellow River for some photos. After visiting the White Horse Temple in Luoyang, my wife and kid were too sun-exhausted to move, so we cancelled the Shaolin Temple plan on the spot and headed straight to Xuchang to experience Pangdonglai. On the way home, we stumbled upon Xiangyang Ancient City and thought it looked great, so we stayed an extra day and flew Kongming lanterns by the ancient city wall at night.
+Roadtrips haben genau einen echten Vorteil gegenüber Zugreisen: Freiheit. Anhalten, wo immer man will. Am zweiten Tag, auf der Fahrt von Hanzhong nach Luoyang, sahen wir die Terrakotta-Armee direkt an der Autobahn. Eine schnelle Rechtskurve, ein paar Extrakilometer, und schon verließen wir die Schnellstraße, um das Mausoleum des Ersten Kaisers von Qin zu besichtigen. In Sanmenxia hielten wir am Gelben Fluss für ein paar Fotos. Nach dem Besuch des Weißen Pferdetempels in Luoyang waren meine Frau und mein Kind von der Sonne so erschöpft, dass sie sich kaum bewegen konnten. Also strichen wir den Shaolin-Tempelplan auf der Stelle und fuhren direkt nach Xuchang, um Pangdonglai zu erleben. Auf dem Heimweg stießen wir zufällig auf die Altstadt von Xiangyang, fanden sie toll, blieben einen zusätzlichen Tag und ließen nachts an der alten Stadtmauer Himmelslaternen steigen.
 
-For the past few years, our travels have been confined to areas south of Sichuan. The farthest north we'd been was Xi'an — we hadn't really explored other parts of the north. So I'd always wanted to experience the vast North China Plain and soak in the northern atmosphere.
+In den letzten Jahren waren unsere Reisen auf Gebiete südlich von Sichuan beschränkt. Der nördlichste Punkt, den wir erreicht hatten, war Xi'an – wir hatten andere Teile des Nordens nicht wirklich erkundet. Deshalb wollte ich schon immer die weite Nordchinesische Ebene erleben und die nördliche Atmosphäre aufsaugen.
 
 ![5.avif](https://user0102.cn.imgto.link/public/20260422/5-1.avif)
 ![4.jpg](https://i.190808.xyz/typecho/2026/04/07/4.jpg)
 
-> 📷 Terracotta Warriors of Qin Shi Huang
+> 📷 Terrakotta-Armee von Qin Shihuang
 
 ![11.jpg](https://i.190808.xyz/typecho/2026/04/07/11.jpg)
 
-> 📷 First time seeing the Yellow River. The opposite bank is Shanxi Province.
+> 📷 Zum ersten Mal den Gelben Fluss gesehen. Das gegenüberliegende Ufer gehört zur Provinz Shanxi.
 
 ![DSC04808.jpg](https://i.190808.xyz/typecho/2026/04/07/DSC04808.jpg)
 ![DSC04867.jpg](https://i.190808.xyz/typecho/2026/04/07/DSC04867.jpg)
 
-> 📷 Longmen Grottoes in Luoyang — the Vairocana Buddha
+> 📷 Longmen-Grotten in Luoyang – der Vairocana-Buddha
 
 ![DSC05043.jpg](https://i.190808.xyz/typecho/2026/04/07/DSC05043.jpg)
 
-> 📷 White Horse Temple in Luoyang, the first Buddhist temple in the Central Plains
+> 📷 Weißer Pferdetempel in Luoyang, der erste buddhistische Tempel in der Zentralebene
 
 ![bms.jpg](https://i.190808.xyz/typecho/2026/04/08/bms.jpg)
 
-> 📷 Thai-style temple within White Horse Temple
+> 📷 Thai-Stil-Tempel im Weißen Pferdetempel
 
 ![12.jpg](https://i.190808.xyz/typecho/2026/04/07/12.jpg)
 
-> 📷 Luoyang Peonies
+> 📷 Luoyang-Pfingstrosen
 
 ![3.jpg](https://i.190808.xyz/typecho/2026/04/07/3.jpg)
 ![pd.jpg](https://i.190808.xyz/typecho/2026/04/08/pd.jpg)
 
 > 📷 Pangdonglai in Xuchang
 
-Last year I really wanted to visit Pangdonglai in Xuchang, and this time it finally happened. The Pangdonglai at Xuchang Times Square might be the most popular location — but precisely because of that, the shopping experience wasn't great. It was overwhelmingly crowded — not a place to stand, rivaling Sam's Club before Spring Festival. Customers weren't so much shopping as they were restocking wholesale. The store-brand dish soap, pastries, and meat sausages were being carted away by the load.
+Letztes Jahr wollte ich unbedingt Pangdonglai in Xuchang besuchen, und diesmal hat es endlich geklappt. Das Pangdonglai am Xuchang Times Square ist vielleicht der beliebteste Standort – aber genau deshalb war das Einkaufserlebnis nicht großartig. Es war überwältigend voll – kein Platz zum Stehen, fast so schlimm wie Sam's Club vor dem Frühlingsfest. Die Kunden kauften nicht so sehr ein, sondern deckten sich im Großhandel ein. Die Eigenmarken-Spülmittel, Gebäck und Fleischwürste wurden schubweise abtransportiert.
 
-The product displays at Pangdonglai would cure anyone's OCD — colors perfectly aligned, genuinely pleasing to the eye. Many of their private-label products, like face towels, soy sauce, and dish soap, are excellent quality at great prices — well worth buying.
+Die Produktpräsentation bei Pangdonglai würde bei jedem die Zwangsstörung heilen – Farben perfekt ausgerichtet, wirklich eine Augenweide. Viele ihrer Eigenmarkenprodukte, wie Gesichtstücher, Sojasauce und Spülmittel, sind von hervorragender Qualität zu tollen Preisen – definitiv kaufenswert.
 
-What I think is truly distinctive is the deli section. The variety of prepared foods surpasses any supermarket I've ever visited. Not just the range, but the taste is fantastic too — our entire dinner was sorted by Pangdonglai. An 8.9 yuan braised sausage, one of which fills you up, with five flavors to choose from. A 19 yuan box of Liaoji's Bobo Chicken, authentically delicious! Their in-house pastries are no worse than Holiland's. If my family lived next to a Pangdonglai, we might never cook again — why not just treat it as our cafeteria?
+Was ich wirklich einzigartig finde, ist die Feinkostabteilung. Die Auswahl an Fertiggerichten übertrifft jeden Supermarkt, den ich je besucht habe. Nicht nur die Vielfalt, sondern auch der Geschmack ist fantastisch – unser gesamtes Abendessen wurde von Pangdonglai bestritten. Eine 8,9 Yuan große Brühwurst, von der eine schon satt macht, in fünf Geschmacksrichtungen. Eine 19 Yuan Box mit Liaoji's Bobo-Hühnchen, authentisch lecker! Ihr hauseigenes Gebäck steht Holiland in nichts nach. Wenn meine Familie neben einem Pangdonglai wohnen würde, würden wir wahrscheinlich nie wieder kochen – warum es nicht einfach als unsere Kantine betrachten?
 
-Pangdonglai doesn't just run supermarkets — they also operate jewelry stores, optical shops, and pharmacies. Every Pangdonglai supermarket is wildly successful. Their affordable, high-quality products and food are incredibly friendly to the people of Xuchang, but it's been a disaster for other local businesses. Through exceptional service, supply chain mastery, and an employee stock ownership plan, Pangdonglai has taken its business model to the extreme — and other retailers simply can't compete.
+Pangdonglai betreibt nicht nur Supermärkte – sie haben auch Juweliergeschäfte, Optiker und Apotheken. Jeder Pangdonglai-Supermarkt ist ein voller Erfolg. Ihre erschwinglichen, hochwertigen Produkte und Lebensmittel sind unglaublich freundlich zu den Menschen in Xuchang, aber eine Katastrophe für andere lokale Geschäfte. Durch außergewöhnlichen Service, Meisterschaft in der Lieferkette und einen Mitarbeiteraktienplan hat Pangdonglai sein Geschäftsmodell auf die Spitze getrieben – und andere Einzelhändler können einfach nicht mithalten.
 
 ![1.jpg](https://i.190808.xyz/typecho/2026/04/07/1.jpg)
 ![2.jpg](https://i.190808.xyz/typecho/2026/04/07/2.jpg)
 
-> 📷 Flying Kongming lanterns at Xiangyang Ancient City
+> 📷 Himmelslaternen steigen lassen an der Altstadt von Xiangyang
 
-Discovering Xiangyang Ancient City was an unexpected delight. Though it's not as ancient as Langzhong or Lijiang — most of the buildings probably date to the 70s and 80s — it has a genuine lived-in atmosphere that other "ancient cities" lack. Wake up in the morning, have a bowl of Xiangyang beef noodles, drink some morning baijiu, stroll down to the city wall. In the evening, look up at the sky full of Kongming lanterns. It's deeply romantic.
+Die Entdeckung der Altstadt von Xiangyang war eine unerwartete Freude. Obwohl sie nicht so alt ist wie Langzhong oder Lijiang – die meisten Gebäude stammen wahrscheinlich aus den 70er und 80er Jahren – hat sie eine echte, gelebte Atmosphäre, die anderen „Altstädten" fehlt. Morgens aufwachen, eine Schale Xiangyang-Rindfleischnudeln essen, etwas Morgen-Baijiu trinken, zur Stadtmauer schlendern. Abends in den Himmel voller Himmelslaternen schauen. Es ist zutiefst romantisch.

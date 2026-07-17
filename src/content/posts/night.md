@@ -1,16 +1,16 @@
 ---
-title: Night
+title: Nacht
 pubDate: '2016-08-24'
 author: jin
 draft: false
 categories:
-  - Life
+- Leben
 tags:
-  - Sketching
+- Skizzieren
 ---
 
-It was a night at the end of summer, after watching two episodes of the TV adaptation of *The Girl Who Leapt Through Time*. I leaned against the windowsill, stepped out onto the balcony, and let the breeze hit me.
+Es war eine Nacht am Ende des Sommers, nachdem ich zwei Folgen der Serienadaption von *Das Mädchen, das durch die Zeit sprang* gesehen hatte. Ich lehnte mich gegen die Fensterbank, trat auf den Balkon und ließ den Wind auf mich wirken.
 
-A gentle wind swept through the neighborhood garden, carrying away the stifling air. The banyan trees swayed their slender branches comfortably, casting blurry shadows on the ground. Nameless creatures in the corners sang their uneven songs, rising and falling in waves. The air conditioning units on the walls around the garden hummed restlessly — "buzz, buzz, buzz..." — telling stories of summer. Occasionally, lightning flickered across the dusky sky from the other side of the city.
+Ein sanfter Wind strich durch den Garten der Nachbarschaft und nahm die drückende Luft mit sich. Die Banyanbäume wiegten ihre schlanken Äste behaglich hin und her und warfen verschwommene Schatten auf den Boden. Namenlose Kreaturen in den Ecken sangen ihre ungleichmäßigen Lieder, auf und ab in Wellen. Die Klimaanlagen an den Wänden rund um den Garten summten unruhig vor sich hin – „summ, summ, summ …“ – und erzählten Geschichten vom Sommer. Hin und wieder zuckte ein Blitz über den dämmrigen Himmel von der anderen Seite der Stadt.
 
-I thought that in this moment, in this scene, I might glimpse a trace of zen. But with not a single human voice to be heard, it was just fucking quiet!
+Ich dachte, in diesem Moment, in dieser Szene, könnte ich eine Spur von Zen erhaschen. Aber kein einziger menschlicher Laut war zu hören – es war einfach verdammt still!

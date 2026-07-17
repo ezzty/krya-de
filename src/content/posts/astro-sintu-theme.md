@@ -1,59 +1,59 @@
 ---
-title: How to deploy a static blog for free using Astro
+title: So stellst du einen statischen Blog mit Astro kostenlos online
 pubDate: '2026-04-20'
 author: jin
 draft: false
 categories:
-  - Tech
+- Technik
 tags:
-  - Blog
-  - Astro
-  - Typecho
-  - Migration
+- Blog
+- Astro
+- Typecho
+- Migration
 ---
 
 ![as-3.avif](https://user0102.cn.imgto.link/public/20260422/as-3.avif)
 
-With dynamic blogs, I was always worried about forgetting to renew the server or running into issues during program upgrades. After discovering static blogs, I realized this was an ideal solution. After comparing Hugo, Hexo, and Astro, I ultimately chose Astro.
+Bei dynamischen Blogs hatte ich immer Sorge, den Server zu vergessen oder bei Programm-Updates auf Probleme zu stoßen. Als ich statische Blogs entdeckte, wurde mir klar: Das ist die ideale Lösung. Nachdem ich Hugo, Hexo und Astro verglichen hatte, entschied ich mich letztlich für Astro.
 
-### Advantages of Static Blogs
+### Vorteile statischer Blogs
 
-1. **Free Hosting** - Apart from the domain name, major tech companies offer free hosting services for individual developers.
-2. **Zero Maintenance** - Articles are stored on your own computer. As long as the hosting platform doesn't shut down, your blog can run forever.
-3. **Pre-rendered** - Static blogs generate pure HTML/CSS/JS files before deployment, with no backend.
-4. **CDN Compatible** - Since everything is static files, distributing them to global edge nodes means millisecond-level loading for users worldwide.
+1. **Kostenloses Hosting** – Abgesehen von der Domain bieten große Tech-Konzerne Einzelentwicklern kostenloses Hosting an.
+2. **Null Wartung** – Die Artikel liegen auf deinem eigenen Rechner. Solange die Hosting-Plattform nicht eingestellt wird, läuft dein Blog für immer.
+3. **Vorgerendert** – Statische Blogs erzeugen vor dem Deployment reine HTML/CSS/JS-Dateien – kein Backend nötig.
+4. **CDN-kompatibel** – Da alles statische Dateien sind, verteilst du sie auf globale Edge-Knoten, sodass Nutzer weltweit millisekundenschnell laden.
 
-### Why Choose Astro
+### Warum Astro?
 
-1. **Static-First** - Generates pure HTML files, no database or server needed.
-2. **Excellent Performance** - Zero JavaScript by default, extremely fast loading.
-3. **High Flexibility** - Supports Markdown, MDX, and mixed frameworks.
-4. **Active Ecosystem** - Vibrant community, comprehensive documentation, rich plugin library.
+1. **Static-First** – Erzeugt reine HTML-Dateien, keine Datenbank oder Server erforderlich.
+2. **Hervorragende Performance** – Standardmäßig null JavaScript, extrem schnelles Laden.
+3. **Hohe Flexibilität** – Unterstützt Markdown, MDX und gemischte Frameworks.
+4. **Aktives Ökosystem** – Lebendige Community, umfassende Dokumentation, reichhaltige Plugin-Bibliothek.
 
-### The Sintu Single-Column Theme for Astro
+### Das Sintu-Einspalter-Theme für Astro
 
-This Astro single-column template theme was designed and built by myself. I recently had Hermes migrate it from Typecho to Astro. During the migration, I made quite a few feature upgrades, and the code is now one-third more concise than before. I'll take this opportunity to remark on how the popularization of AI has made previously complex tasks much simpler — development progress has been almost godlike, code quality is near perfect, and it brings me infinitely close to the level of a genius programmer 😂.
+Dieses Astro-Einspalter-Vorlagen-Theme habe ich selbst designt und gebaut. Vor Kurzem habe ich es von Typecho nach Astro migrieren lassen – Hermes hat das übernommen. Bei der Migration habe ich einige Funktionen aufgewertet, und der Code ist jetzt um ein Drittel schlanker als zuvor. Ich nutze die Gelegenheit, um anzumerken: Die Verbreitung von KI hat früher komplexe Aufgaben enorm vereinfacht – die Entwicklungsgeschwindigkeit war fast göttlich, die Codequalität nahezu perfekt, und sie bringt mich unendlich nah an das Niveau eines genialen Programmierers heran 😂.
 
-#### Feature Highlights
+#### Funktionshighlights
 
-1. **Perfect Performance** - Millisecond-level loading, Google Lighthouse scores a perfect 100 on both mobile and desktop.
-2. **Dark Mode** - Added a dark mode toggle next to the logo.
-3. **Thumbnail Hover Zoom** - Besides zooming in, clicking the image navigates to the article page.
-4. **No Preview Images on Mobile** - Controls resource loading based on screen size, saving bandwidth.
-5. **Aliyun OSS Image Processing** - Images are processed via OSS, with parameters added after HTML rendering, saving bandwidth.
-6. **Performance Optimization** - CSS bundled via Vite, image lazy loading.
-7. **Responsive Design** - Perfect adaptation for desktop and mobile, using a unified grid system.
-8. **Comment Box** - Integrated using the official Twikoo solution.
+1. **Perfekte Performance** – Millisekunden-Ladezeit, Google Lighthouse erreicht auf Mobilgeräten und Desktop jeweils 100 Punkte.
+2. **Dark Mode** – Neben dem Logo habe ich einen Schalter für den Dark Mode eingebaut.
+3. **Thumbnail-Hover-Zoom** – Neben dem Vergrößern führt ein Klick auf das Bild zur Artikelseite.
+4. **Keine Vorschaubilder auf Mobilgeräten** – Steuert den Ressourcen-Ladeprozess je nach Bildschirmgröße, spart Bandbreite.
+5. **Aliyun OSS-Bildverarbeitung** – Bilder werden über OSS verarbeitet, Parameter werden nach dem HTML-Rendering hinzugefügt, spart Bandbreite.
+6. **Performance-Optimierung** – CSS wird über Vite gebündelt, Bilder mit Lazy Loading.
+7. **Responsive Design** – Perfekte Anpassung an Desktop und Mobilgeräte mit einem einheitlichen Grid-System.
+8. **Kommentarfeld** – Integriert über die offizielle Twikoo-Lösung.
 
-### Publishing Workflow
+### Veröffentlichungs-Workflow
 
-1. Write your Markdown article locally.
-2. Send a message to Hermes Agent to push to the GitHub repository (or push it yourself via GitHub).
-3. Tencent EdgeOne, Vercel, Netlify, or Cloudflare Pages automatically pull the update and build.
-4. Auto-deployed to global CDN nodes.
+1. Schreibe deinen Markdown-Artikel lokal.
+2. Sende eine Nachricht an den Hermes-Agenten, um ins GitHub-Repository zu pushen (oder pushe selbst über GitHub).
+3. Tencent EdgeOne, Vercel, Netlify oder Cloudflare Pages ziehen das Update automatisch und bauen es.
+4. Automatisch auf globale CDN-Knoten deployed.
 
 ### Open Source
 
-This theme is open source. If you like it, you can also tip the author:
+Dieses Theme ist Open Source. Wenn es dir gefällt, kannst du den Autor auch unterstützen:
 
 [https://github.com/ezzty/krya-en](https://github.com/ezzty/krya-en)

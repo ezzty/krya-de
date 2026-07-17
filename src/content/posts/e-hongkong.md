@@ -1,16 +1,16 @@
 ---
-title: "My Electronic Hometown — Hong Kong"
+title: Meine elektronische Heimat – Hongkong
 pubDate: '2025-03-01'
 author: jin
 draft: false
 categories:
-  - Travel
+- Reisen
 tags:
-  - Victoria Harbour
-  - Hong Kong
+- Victoria Harbour
+- Hongkong
 ---
 
-Why do I say Hong Kong is my electronic hometown? Because over the years, I've always maintained several Hong Kong VPS servers: hosting websites, blogs, and internet access. My phone even has a Hong Kong SIM card. Last year, my investments weren't doing well, and I felt I needed better wealth management methods, so I started researching asset allocation — Hong Kong stocks, US stocks, BTC, and so on. But no matter what method you choose, the first step in every tutorial is to go to Hong Kong to open a bank account. So, I took my wife and kids to Hong Kong during the Spring Festival holiday to open a bank account, and visited Disneyland and Ocean Park along the way.
+Warum sage ich, dass Hongkong meine elektronische Heimat ist? Weil ich über die Jahre hinweg immer mehrere Hongkong-VPS-Server betrieben habe: zum Hosten von Websites, Blogs und für den Internetzugang. Mein Handy hat sogar eine Hongkong-SIM-Karte. Letztes Jahr liefen meine Investitionen nicht gut, und ich hatte das Gefühl, bessere Methoden zur Vermögensverwaltung zu brauchen. Also fing ich an, mich mit Asset-Allokation zu beschäftigen – Hongkong-Aktien, US-Aktien, BTC und so weiter. Aber egal, für welche Methode du dich entscheidest, der erste Schritt in jedem Tutorial ist: nach Hongkong reisen, um ein Bankkonto zu eröffnen. Also nahm ich meine Frau und die Kinder über die Frühlingsfestferien mit nach Hongkong, um ein Konto zu eröffnen, und besuchten nebenbei Disneyland und Ocean Park.
 
 ![DSC02084.jpg](https://i.190808.xyz/typecho/2025/10/25/DSC02084.jpg)
 

@@ -1,37 +1,37 @@
 ---
-title: "Cross-Border Stock Trading Gets Hammered—I’m Left to Tough It Out"
+title: Cross-Border-Aktienhandel wird abgestraft – ich muss durchhalten
 pubDate: '2026-05-23'
 author: jin
 draft: false
 categories:
-  - Finance
+- Finanzen
 tags:
-  - Cross-Border Finance
-  - HK Stock Account
-  - Investment Pitfalls
-  - Interactive Brokers
+- Cross-Border-Finanzen
+- HK-Aktienkonto
+- Investment-Fallstricke
+- Interactive Brokers
 ---
 
 ![image](https://i.190808.xyz/img/m/20260608/4da365.png)
 
-In 2020 I opened a Tiger Brokers account; at the same time I also opened a U.S. account with East West Bank, but the maintenance costs on that bank account were too high, so I eventually closed it.
+2020 habe ich ein Konto bei Tiger Brokers eröffnet; gleichzeitig eröffnete ich auch ein US-Konto bei der East West Bank, aber die Unterhaltskosten für dieses Bankkonto waren zu hoch, also habe ich es irgendwann geschlossen.
 
-In February 2025, I went on to open Futu Securities, Longbridge Securities, and Interactive Brokers (IBKR) accounts one after another, and also got a bunch of Hong Kong bank cards.
+Im Februar 2025 habe ich dann nacheinander Konten bei Futu Securities, Longbridge Securities und Interactive Brokers (IBKR) eröffnet und mir auch eine Reihe Hongkonger Bankkarten besorgt.
 
-In reality, opening these accounts wasn’t driven by any need for large cross-border transfers. I’d toyed with the idea of becoming a digital nomad, but never followed through. My life, family, income, and expenses are all in mainland China—I can’t just walk away for now.
+Ehrlich gesagt, diese Konten zu eröffnen, lag nicht an einem großen Bedarf für grenzüberschreitende Überweisungen. Ich hatte mal mit dem Gedanken gespielt, digitaler Nomade zu werden, aber nie umgesetzt. Mein Leben, meine Familie, mein Einkommen und meine Ausgaben sind alle auf dem chinesischen Festland – ich kann da jetzt nicht einfach weg.
 
-I have a quirk: I love collecting cards—gathering all sorts of oddball accounts. As long as the barrier isn’t too high and I can set one up in fifteen or twenty minutes, I’ll happily open it. To manage hundreds of accounts and random passwords, I even bought 1Password. I also enjoy collecting various email suffixes and hoarding short domain names—including the blog domain you’re looking at right now, which cost me several thousand yuan and ranks as my second-biggest writing-related expense.
+Ich habe eine Marotte: Ich sammle wahnsinnig gerne Karten – allerlei ausgefallene Konten. Solange die Hürde nicht zu hoch ist und ich so ein Konto in fünfzehn, zwanzig Minuten einrichten kann, mache ich das gerne. Um die vielen Konten und kryptischen Passwörter zu verwalten, habe ich mir sogar 1Password gekauft. Ich sammle auch gerne verschiedene E-Mail-Endungen und horte kurze Domainnamen – inklusive der Blog-Domain, die du gerade siehst, die mich mehrere tausend Yuan gekostet hat und mein zweitgrößter schreibbezogener Ausgabenposten ist.
 
-That said, getting in early really does pay off. When something new first emerges, the doors are wide open; once the crowds arrive, the path gradually gets blocked. Like China Telecom’s Macau student plan—I signed up for one on a whim back then and ended up reluctant to switch after four or five years of use. Or DMIT’s servers, which became discontinued while I was still using them. Or the Mac mini I bought not long ago, which has now turned into something of an investment asset.
+Trotzdem: Früh dran sein zahlt sich wirklich aus. Wenn etwas Neues auftaucht, sind die Türen weit offen; sobald die Massen kommen, wird der Weg nach und nach versperrt. Wie der Macau-Studententarif von China Telecom – den habe ich mir damals aus einer Laune heraus geholt und bin nach vier, fünf Jahren Nutzung immer noch nicht bereit zu wechseln. Oder die DMIT-Server, die eingestellt wurden, während ich sie noch nutzte. Oder der Mac mini, den ich vor Kurzem gekauft habe und der sich inzwischen fast zu einer Wertanlage entwickelt hat.
 
-Yesterday afternoon after the market closed, I saw the news that the Chinese government was cracking down hard on cross-border stock trading and wealth management, and my heart sank. Because I’m heavily leveraged on Xiaomi through Futu Securities, currently sitting on nearly 50% unrealized losses. If going forward I can only sell but not buy or deposit funds, I won’t be able to do any day trading, nor will I be able to withstand the margin call risk if the stock price drops further.
+Gestern Nachmittag nach Börsenschluss sah ich die Nachricht, dass die chinesische Regierung hart gegen grenzüberschreitenden Aktienhandel und Vermögensverwaltung vorgeht, und mir sank der Magen. Denn ich bin bei Xiaomi über Futu Securities stark gehebelt, mit aktuell fast 50% unrealisierten Verlusten. Wenn ich künftig nur noch verkaufen, aber nicht mehr kaufen oder einzahlen kann, kann ich kein Daytrading mehr machen und auch das Nachschussrisiko bei weiter fallenden Kursen nicht mehr stemmen.
 
-After calming down and analyzing it, I realized the actual impact isn’t that severe. **My biggest risk right now is actually the leverage risk**; without leverage, I could simply move my positions elsewhere.
+Nachdem ich mich beruhigt und die Sache analysiert habe, ist mir klar geworden, dass die tatsächlichen Auswirkungen gar nicht so schlimm sind. **Mein größtes Risiko ist eigentlich das Hebelrisiko**; ohne Hebel könnte ich meine Positionen einfach woanders hin verschieben.
 
-**First, buying stocks through Hong Kong local banks is completely unaffected.** This policy didn’t place any restrictions on stock purchases via bank channels. For instance, HSBC’s Trade25: pay a monthly fee of 25 HKD and you get 250,000 HKD in free trading quota. Other banks like CMB Wing Lung Bank, Chong Hing Bank, and ZA Bank also offer Hong Kong and U.S. stock trading services—though their fees are a bit higher, they’re still usable.
+**Erstens: Aktienkäufe über lokale Hongkonger Banken sind völlig unbeeinträchtigt.** Diese Politik hat keinerlei Einschränkungen für Aktienkäufe über Bankkanäle gebracht. Zum Beispiel HSBCs Trade25: für eine monatliche Gebühr von 25 HKD bekommst du 250.000 HKD an kostenlosem Handelsvolumen. Andere Banken wie CMB Wing Lung Bank, Chong Hing Bank und ZA Bank bieten ebenfalls Hongkonger und US-Aktienhandel an – deren Gebühren sind zwar etwas höher, aber trotzdem nutzbar.
 
-**Second, U.S. brokerages were largely untouched.** The Interactive Brokers account I opened is a U.S. account, not a Hong Kong one, so it’s completely unaffected. At times like this, that account suddenly feels especially valuable.
+**Zweitens: US-Broker wurden weitgehend verschont.** Das Interactive-Brokers-Konto, das ich eröffnet habe, ist ein US-Konto, kein Hongkonger, also völlig unbeeinträchtigt. In solchen Zeiten fühlt sich dieses Konto plötzlich besonders wertvoll an.
 
-As for fund safety, there’s even less reason to worry. Hong Kong’s financial regulatory system is relatively robust—the risk of a platform running off with your money is practically zero.
+Was die Sicherheit der Gelder angeht, braucht man sich noch weniger Sorgen zu machen. Hongkongs Finanzregulierungssystem ist relativ robust – das Risiko, dass eine Plattform mit dem Geld durchbrennt, ist praktisch null.
 
-All in all, there is an impact, but it’s not particularly massive—no need to get overly anxious. With my current leveraged unrealized losses, I’ll just have to tough it out; I’ve got a two-year window, so I’ll wait and see how things unfold.
+Alles in allem: Es gibt Auswirkungen, aber sie sind nicht besonders massiv – kein Grund, sich übermäßig zu ängstigen. Mit meinen aktuellen gehebelten unrealisierten Verlusten muss ich einfach durchhalten; ich habe einen Zeitraum von zwei Jahren, also werde ich abwarten, wie sich die Dinge entwickeln.

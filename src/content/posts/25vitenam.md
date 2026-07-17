@@ -1,115 +1,115 @@
 ---
-title: 2025 Vietnam-Guangxi-Yunnan Road Trip
+title: 2025 Vietnam-Guangxi-Yunnan Roadtrip
 pubDate: '2025-10-26'
 author: jin
 draft: false
 categories:
-  - Travel
+- Reisen
 tags:
-  - Vietnam Fangchenggang Travel
-  - Guangxi Travel
-  - Xishuangbanna Travel
+- Vietnam Fangchenggang Reise
+- Guangxi Reise
+- Xishuangbanna Reise
 ---
 
 ![ddf-1.avif](https://user0102.cn.imgto.link/public/20260422/ddf-1.avif)
 
-August in Chengdu was blazing hot — the ground felt like it was warping from the heat, and being outdoors was no different from ascetic practice. So after my kid graduated from kindergarten, she was stuck at home all day. Whenever she was thoroughly bored, she'd always ask me: "Dad, what else can I play?"
+Im August war es in Chengdu brütend heiß – der Boden schien vor Hitze zu flirren, und draußen zu sein fühlte sich an wie Askese. Nachdem mein Kind den Kindergarten abgeschlossen hatte, saß sie den ganzen Tag zu Hause fest. Immer wenn sie sich langweilte, fragte sie mich: „Papa, was kann ich noch spielen?“
 
-I knew exactly what she meant — she wanted to watch TV. So I said, "How about our whole family goes to the beach!"
+Ich wusste genau, was sie meinte – sie wollte fernsehen. Also sagte ich: „Wie wäre es, wenn wir als ganze Familie ans Meer fahren!“
 
-And just like that, we went. The route for this trip wasn't specially planned — we had just two goals:
+Und so machten wir uns auf den Weg. Die Route war nicht besonders geplant – wir hatten nur zwei Ziele:
 
-First, burn through the rest of summer vacation outside.
-Second, we had to go to the seaside.
+Erstens: den Rest der Sommerferien draußen verbringen.
+Zweitens: Wir mussten ans Meer.
 
-No detailed itinerary — wherever was fun, we'd stay and play. Going from Chengdu to the eastern coast was far too distant, and the seawater wasn't clean anyway. Guangxi was a simpler choice. First stop: Fangchenggang. Second stop: we'd decide after we finished the first.
+Kein detaillierter Reiseplan – wo es Spaß machte, blieben wir und spielten. Von Chengdu an die Ostküste war viel zu weit, und das Meerwasser war dort ohnehin nicht sauber. Guangxi war die einfachere Wahl. Erster Stopp: Fangchenggang. Zweiter Stopp: das würden wir entscheiden, wenn wir den ersten hinter uns hatten.
 
-We departed Chengdu at 8:30 AM and arrived in Maotai Town by 1 PM. We spent an hour and a half there eating lamb with the skin on, and also got caught in a sudden thunderstorm. We kept driving until 6:30 PM — it had just gotten dark — and stayed in Luodian County, the last county before leaving Guizhou. The next day we set off again at 8:30 AM and by 2 PM we had arrived in Fangchenggang.
+Wir brachen um 8:30 Uhr in Chengdu auf und kamen um 13 Uhr in Maotai an. Wir verbrachten dort eineinhalb Stunden mit dem Essen von Lamm mit Haut und wurden von einem plötzlichen Gewitter überrascht. Wir fuhren weiter bis 18:30 Uhr – es war gerade dunkel geworden – und übernachteten im Kreis Luodian, dem letzten Kreis vor dem Verlassen von Guizhou. Am nächsten Tag starteten wir wieder um 8:30 Uhr und kamen um 14 Uhr in Fangchenggang an.
 
 ![mt.jpg](https://i.190808.xyz/typecho/2025/10/25/mt.jpg)
 
-**Dongxing and Mong Cai, Vietnam**
+**Dongxing und Mong Cai, Vietnam**
 
-The sky was drizzling, and Fangchenggang's inner sea was murky. I remembered back in '23 when we went to Zhuhai, the kid saw the yellow ocean beside Jinwan Airport and said, "Dad, that's not the sea — seawater should be blue." To show her a truly blue ocean, we first went to the popular Bailangtan (White Wave Beach) scenic area. The overcast weather drained the ocean of its color, but this time the kid wasn't depressed about it at all. She found shells on the beach and happily spent the whole afternoon picking them.
+Es nieselte, und das innere Meer von Fangchenggang war trüb. Ich erinnerte mich, wie wir 2023 in Zhuhai waren und das Kind das gelbe Meer neben dem Jinwan Airport sah und sagte: „Papa, das ist nicht das Meer – Meerwasser sollte blau sein.“ Um ihr ein wirklich blaues Meer zu zeigen, fuhren wir zuerst zum beliebten Bailangtan (White Wave Beach). Das bewölkte Wetter ließ das Meer farblos erscheinen, aber diesmal war das Kind nicht traurig. Es fand Muscheln am Strand und sammelte glücklich den ganzen Nachmittag.
 
-For the next few days we stayed in Dongxing City. We were already at the national border — it would've been a shame not to get an exit stamp in the passport. Getting a temporary visa here was incredibly easy — a little over 200 yuan per person, issued the same day. When entering Vietnam with a temporary visa, you had to surrender your passport to them, and they'd return it when you came back to China. Without our passports, we could only explore within Mong Cai.
+Die nächsten Tage blieben wir in Dongxing. Wir waren bereits an der Landesgrenze – es wäre schade gewesen, keinen Ausreisestempel in den Pass zu bekommen. Ein temporäres Visum hier zu bekommen war unglaublich einfach – etwas über 200 Yuan pro Person, am selben Tag ausgestellt. Bei der Einreise nach Vietnam mit einem temporären Visum musste man den Pass abgeben, und sie gaben ihn bei der Rückkehr nach China zurück. Ohne unsere Pässe konnten wir uns nur in Mong Cai umsehen.
 
 ![7-33.jpg](https://i.190808.xyz/typecho/2025/10/25/7-33.jpg)
 
-Entering a new country, I thought the kid would be at least a little curious to explore. But after a ten-minute City Walk through Mong Cai, she got bored and asked when we were going back to Dongxing — she wanted to play at the beach. So for this brief Mong Cai itinerary, I quickly tried to imprint the image of Vietnam on her: the ubiquitous single-star red flags, tall and narrow houses, brightly painted murals on walls, roads jam-packed with deafening motorbikes, Vietnamese drip coffee, conical hats, and even Chinese horseshoe crabs (a protected species in China) being slaughtered at the market.
+Ich dachte, das Kind wäre zumindest ein bisschen neugierig, ein neues Land zu erkunden. Aber nach einem zehnminütigen City Walk durch Mong Cai langweilte es sich und fragte, wann wir zurück nach Dongxing fahren – es wollte am Strand spielen. Für diese kurze Mong Cai-Etappe versuchte ich schnell, das Bild von Vietnam in ihr zu prägen: die allgegenwärtigen einsamen roten Flaggen, hohe und schmale Häuser, bunt bemalte Wandbilder, Straßen voller ohrenbetäubender Motorräder, vietnamesischer Drip-Kaffee, konische Hüte und sogar chinesische Pfeilschwanzkrebse (eine geschützte Art in China), die auf dem Markt geschlachtet wurden.
 
 ![7-31.jpg](https://images.190808.xyz/typecho/2025/10/25/7-31.jpg)
 
-At noon we returned to Dongxing and drove to Wanwei Golden Beach. Just as we arrived, the sun was setting. The golden beach bathed in the afterglow fulfilled every imagination we had of the sea. Waves lapped against the extraordinarily long sandy shore, fishing boat motors chugged lazily back to port, and the distant sunset cast dazzling golden edges through dark clouds on the horizon. It was so beautiful we decided to just stay at Golden Beach.
+Mittags kehrten wir nach Dongxing zurück und fuhren zum Wanwei Golden Beach. Gerade als wir ankamen, ging die Sonne unter. Der goldene Strand im Abendrot erfüllte jede Vorstellung, die wir vom Meer hatten. Wellen umspülten den außergewöhnlich langen Sandstrand, Fischerboote tuckerten gemächlich in den Hafen, und die ferne Sonnenuntergangsglut warf blendend goldene Ränder durch dunkle Wolken am Horizont. Es war so schön, dass wir beschlossen, einfach am Golden Beach zu bleiben.
 
 ![5829.jpg](https://i.190808.xyz/typecho/2025/10/25/5829.jpg)
 
-**Dongna Yuwan and Detian Waterfall**
+**Dongna Yuwan und Detian-Wasserfall**
 
-After two days of digging sand at Wanwei Golden Beach, we were getting a bit tired of it. We set off for Guangxi's second attraction, Dongna Yuwan. It's a pastoral landscape located in Chongzuo, not far from the surrounding Mingshi Pastoral area and Detian Waterfall — all visitable together. Dongna Yuwan takes about half a day to explore, so we arrived around noon, played in the afternoon, and then went directly to stay inside the Detian Waterfall scenic area so we could enter early the next morning.
+Nach zwei Tagen Sandschaufeln am Wanwei Golden Beach wurden wir etwas müde. Wir brachen zum zweiten Ziel in Guangxi auf, Dongna Yuwan. Es ist eine ländliche Landschaft in Chongzuo, nicht weit von der Umgebung Mingshi Pastoral und dem Detian-Wasserfall entfernt – alles zusammen besuchbar. Dongna Yuwan braucht etwa einen halben Tag, also kamen wir gegen Mittag an, spielten nachmittags und fuhren dann direkt in die Unterkunft im Detian-Wasserfall-Gebiet, um am nächsten Morgen früh hineinzukommen.
 
 ![ms.jpg](https://i.190808.xyz/typecho/2025/10/25/ms.jpg)
 
-Detian Waterfall belongs to both China and Vietnam. On our side, it's built up with all the amenities you'd expect from a Chinese scenic area — crowded with an endless stream of tourists. On the Vietnamese side, it's like a wild, undeveloped spot — the roads aren't even paved, visitors are sparse, and the few people there looked like they were selling cigarettes.
+Der Detian-Wasserfall gehört sowohl zu China als auch zu Vietnam. Auf unserer Seite ist er mit allen Annehmlichkeiten ausgestattet, die man von einem chinesischen Touristengebiet erwartet – überfüllt mit einem endlosen Strom von Touristen. Auf der vietnamesischen Seite ist es wie eine wilde, unerschlossene Gegend – die Straßen sind nicht einmal asphaltiert, die Besucher sind spärlich, und die wenigen Leute dort sahen aus, als würden sie Zigaretten verkaufen.
 
 ![dt.jpg](https://i.190808.xyz/typecho/2025/10/25/dt.jpg)
 
-**Jingxi County Town**
+**Kreisstadt Jingxi**
 
-Summer in Guangxi is a paradise for water play. Leaving Detian Waterfall, the road to Jingxi County town passed several natural waterfalls where you could stop and play. We specifically chose a hotel in Jingxi County town right next to Dalongtan Reservoir. This reservoir is particularly interesting — it was originally an underground river over 10 kilometers long that burst to the surface here, forming a natural pool. Later, artificial embankments were built, creating a 750-mu reservoir. Because of the enormous water volume, the overflow from the dam formed a spectacular waterfall. What's even more incredible is that the riverbed downstream of the waterfall is actually tiled — it's a natural waterfall swimming pool!
+Der Sommer in Guangxi ist ein Paradies zum Wasserspielen. Auf dem Weg vom Detian-Wasserfall zur Kreisstadt Jingxi passierten wir mehrere natürliche Wasserfälle, an denen man anhalten und spielen konnte. Wir wählten speziell ein Hotel in der Kreisstadt Jingxi direkt am Dalongtan-Stausee. Dieser Stausee ist besonders interessant – ursprünglich war es ein unterirdischer Fluss von über 10 Kilometern Länge, der hier an die Oberfläche trat und ein natürliches Becken bildete. Später wurden künstliche Dämme gebaut, die einen 750 Mu großen Stausee schufen. Aufgrund der enormen Wassermenge bildete der Überlauf des Damms einen spektakulären Wasserfall. Noch unglaublicher ist, dass das Flussbett unterhalb des Wasserfalls tatsächlich gefliest ist – es ist ein natürlicher Wasserfall-Pool!
 
 ![微信图片_20251025002109.jpg](https://i.190808.xyz/typecho/2025/10/25/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251025002109.jpg)
 
-Perhaps the water was too clean — when I brought the kid to play, I saw some mint leaves floating by. Looking up, I saw the BBQ vendor on the dam washing vegetables right in the river! The swimmers nearby didn't object either — they must have been used to it, after all, this is also the drinking water source for Jingxi County. So when I saw my kid drinking river water and spraying it around while swimming, I gave up on scolding her. Just play, just play!
+Vielleicht war das Wasser zu sauber – als ich mit dem Kind spielte, sah ich Minzblätter vorbeitreiben. Ich schaute auf und sah den BBQ-Verkäufer auf dem Damm Gemüse direkt im Fluss waschen! Die Schwimmer in der Nähe protestierten nicht – sie mussten daran gewöhnt sein, schließlich ist dies auch die Trinkwasserquelle für den Kreis Jingxi. Als ich also sah, wie mein Kind beim Schwimmen Flusswasser trank und herumspritzte, gab ich es auf, sie zu schelten. Spiel einfach, spiel einfach!
 
 ![dlt.jpg](https://i.190808.xyz/typecho/2025/10/25/dlt.jpg)
 
 **Xishuangbanna**
 
-After two days in Jingxi County, we'd already been in Guangxi for a week. I was getting a bit homesick, but Chengdu hadn't cooled down yet, so we couldn't go back. Our next stop was somewhere slightly closer to home — Xishuangbanna.
+Nach zwei Tagen im Kreis Jingxi waren wir bereits eine Woche in Guangxi. Ich hatte ein bisschen Heimweh, aber Chengdu war noch nicht abgekühlt, also konnten wir nicht zurück. Unser nächster Stopp war etwas näher an der Heimat – Xishuangbanna.
 
-Jingxi County to Xishuangbanna was over 900 kilometers, requiring an overnight stop in Jianshui Ancient Town before arriving the next day. In August, Jianshui's evening temperature was only 25 degrees — a cool breeze brought a refreshing chill. We found a Yunnan wild mushroom hotpot restaurant in the ancient town, which naturally included jian shou qing (see-hand-green mushrooms). The kid was worried about seeing "little people" (hallucinations) after eating them, and hesitated with every bite. The next day I asked her, "Did you see any little people?" She smiled sheepishly.
+Vom Kreis Jingxi nach Xishuangbanna waren es über 900 Kilometer, mit einer Übernachtung in der Altstadt von Jianshui, bevor wir am nächsten Tag ankamen. Im August betrug die Abendtemperatur in Jianshui nur 25 Grad – eine kühle Brise brachte eine erfrischende Kühle. Wir fanden ein Yunnan-Wildpilz-Hotpot-Restaurant in der Altstadt, das natürlich jian shou qing (Hand-sehen-grüne Pilze) beinhaltete. Das Kind machte sich Sorgen, nach dem Essen „kleine Leute“ (Halluzinationen) zu sehen, und zögerte bei jedem Bissen. Am nächsten Tag fragte ich sie: „Hast du kleine Leute gesehen?“ Sie lächelte verlegen.
 
 ![js.jpg](https://i.190808.xyz/typecho/2025/10/25/js.jpg)
 
-The road from Jianshui to Xishuangbanna was mountainous and steep. The expressway had no auxiliary lanes, making autonomous driving virtually impossible the whole way — exhausting. Fortunately, the best reward a journey offers a traveler is knowing that beautiful scenery and delicious food await ahead. Thinking about that, excitement returned!
+Die Straße von Jianshui nach Xishuangbanna war bergig und steil. Die Autobahn hatte keine Seitenstreifen, was autonomes Fahren fast unmöglich machte – anstrengend. Zum Glück ist die beste Belohnung, die eine Reise einem Reisenden bietet, das Wissen, dass einen schöne Landschaften und gutes Essen erwarten. Bei dem Gedanken kam die Aufregung zurück!
 
-At the very first checkpoint in Xishuangbanna, the tropical rainforest gave us a little shock: while we were queued up in the car waiting for inspection, a sudden thunderstorm snapped a roadside tree in half — it missed my car by just a few meters. A close call. A few kilometers past the checkpoint, we found the ground was completely dry, with no trace of rain at all.
+Am allerersten Kontrollpunkt in Xishuangbanna gab uns der tropische Regenwald einen kleinen Schock: Während wir im Auto in der Schlange auf die Inspektion warteten, knickte ein plötzliches Gewitter einen Baum am Straßenrand in zwei Hälften – er verfehlte mein Auto nur um wenige Meter. Beinahe-Unfall. Ein paar Kilometer hinter dem Kontrollpunkt war der Boden völlig trocken, ohne jede Spur von Regen.
 
-Arriving in Xishuangbanna near dusk, walking through the bustling streets, seeing car after car with northeastern license plates, I momentarily thought I'd arrived in Dongbei. Later we even checked into a hotel run by people from Dongbei and ate Xishuangbanna's local snacks cooked by Dongbei people.
+Als wir in der Abenddämmerung in Xishuangbanna ankamen, durch die belebten Straßen gingen und Auto um Auto mit nordöstlichen Kennzeichen sahen, dachte ich kurz, ich wäre in Dongbei gelandet. Später checkten wir sogar in einem Hotel ein, das von Leuten aus Dongbei betrieben wurde, und aßen Xishuangbannas lokale Snacks, die von Dongbei-Leuten zubereitet wurden.
 
-Xishuangbanna's defining feature might not actually be Dai culture. Take the Starlight Night Market, for instance — its architectural style is no different from Thailand's. Tourists fill the streets and alleys. No passport needed, no need to go abroad, no risk of organ harvesting, and you can still experience Thai vibes — pretty good. But I'd recommend avoiding the local bizarre-looking street food — not sure where we picked something up, but our kid got diarrhea and we had to go to the hospital in the middle of the night.
+Xishuangbannas prägendes Merkmal ist vielleicht nicht wirklich die Dai-Kultur. Der Starlight Night Market zum Beispiel unterscheidet sich architektonisch nicht von Thailand. Touristen füllen die Straßen und Gassen. Kein Pass nötig, keine Notwendigkeit, ins Ausland zu gehen, kein Risiko des Organhandels, und man kann trotzdem thailändisches Flair erleben – ziemlich gut. Aber ich würde empfehlen, die lokalen, seltsam aussehenden Straßenessen zu vermeiden – wir haben uns irgendwo etwas eingefangen, und unser Kind bekam Durchfall, sodass wir mitten in der Nacht ins Krankenhaus mussten.
 
 ![4529.jpg](https://i.190808.xyz/typecho/2025/10/25/4529.jpg)
 
-The most worthwhile place to visit in Xishuangbanna is the Chinese Academy of Sciences Tropical Botanical Garden. It's a directly affiliated public institution of the CAS, serving as a comprehensive research institution integrating scientific research, species conservation, and science popularization education, as well as a renowned scenic destination both domestically and internationally. The garden covers approximately 1,125 hectares, collects over 13,000 species of living plants, has 39 specialized plant zones, and preserves a primeval tropical rainforest of about 250 hectares — one of the largest botanical gardens in China by area, species richness, and number of specialized zones. But because it's simply too large and the temperature was high, we only finished the East Zone before leaving the park.
+Der lohnendste Ort in Xishuangbanna ist der Tropische Botanische Garten der Chinesischen Akademie der Wissenschaften. Es ist eine direkt unterstellte öffentliche Einrichtung der CAS, eine umfassende Forschungseinrichtung, die wissenschaftliche Forschung, Arterhaltung und Wissenschaftskommunikation vereint, sowie ein bekanntes Reiseziel im In- und Ausland. Der Garten umfasst etwa 1.125 Hektar, sammelt über 13.000 Arten lebender Pflanzen, hat 39 spezialisierte Pflanzenzonen und bewahrt einen ursprünglichen tropischen Regenwald von etwa 250 Hektar – einer der größten botanischen Gärten Chinas nach Fläche, Artenreichtum und Anzahl spezialisierter Zonen. Aber weil er einfach zu groß war und die Temperatur hoch, schafften wir nur die Ostzone, bevor wir den Park verließen.
 
 ![5002109.jpg](https://i.190808.xyz/typecho/2025/10/25/5002109.jpg?)
 
 ![d29.jpg](https://i.190808.xyz/typecho/2025/10/25/d29.jpg)
 
-**Return Journey**
+**Rückreise**
 
-Xishuangbanna was our last stop. After charging up outside the Tropical Botanical Garden around 2-3 PM, we set off toward Kunming — our goal was to get back to Chengdu the next day. We tried to cover as much ground as possible today. Passing Kunming in the evening, the massive Dianchi Lake was bathed in brilliant blue sunlight, so we got off the expressway and lingered by the lake for a while.
+Xishuangbanna war unser letzter Stopp. Nachdem wir gegen 14-15 Uhr außerhalb des Tropischen Botanischen Gartens aufgeladen hatten, machten wir uns auf den Weg nach Kunming – unser Ziel war es, am nächsten Tag zurück in Chengdu zu sein. Wir versuchten, heute so viel Strecke wie möglich zu machen. Als wir Kunming am Abend passierten, lag der riesige Dianchi-See in brillantem blauen Sonnenlicht, also verließen wir die Autobahn und verweilten eine Weile am See.
 
 ![km9.jpg](https://i.190808.xyz/typecho/2025/10/25/km9.jpg)
 
-It wasn't until past 9 PM that we found a place to stay in Xundian County town. We found the most popular Zhaotong-style BBQ to wrap up the day's journey.
+Erst nach 21 Uhr fanden wir eine Unterkunft in der Kreisstadt Xundian. Wir suchten den beliebtesten Zhaotong-BBQ, um die Tagesreise abzuschließen.
 
 ![x5002109.jpg](https://i.190808.xyz/typecho/2025/10/25/x5002109.jpg)
 
-The next day we set off again at 10 AM. Along the way, we stopped at Hejiangmen in Yibin to feed the fish, and finally got home at 8 PM.
+Am nächsten Tag brachen wir wieder um 10 Uhr auf. Unterwegs hielten wir in Yibin am Hejiangmen, um die Fische zu füttern, und kamen schließlich um 20 Uhr zu Hause an.
 
-**Transportation Summary**
+**Zusammenfassung Transport**
 
-Our vehicle is a Great Wall dual-mode plug-in hybrid DHT-PHEV with four-wheel drive. This trip lasted 12 days total, starting with a zeroed odometer. Total distance driven: 4,891 km. Fuel cost: 1,948 yuan. Charging cost: 223 yuan. Unit fuel cost: 0.398 yuan/km. Comprehensive energy cost: 0.44 yuan/km. Very satisfied with the experience!
+Unser Fahrzeug ist ein Great Wall Dual-Mode Plug-in Hybrid DHT-PHEV mit Allradantrieb. Diese Reise dauerte insgesamt 12 Tage, beginnend mit einem zurückgesetzten Kilometerzähler. Gesamtfahrstrecke: 4.891 km. Treibstoffkosten: 1.948 Yuan. Ladekosten: 223 Yuan. Einheitliche Treibstoffkosten: 0,398 Yuan/km. Gesamtenergiekosten: 0,44 Yuan/km. Sehr zufrieden mit der Erfahrung!
 
 ![51025002109.jpg](https://i.190808.xyz/typecho/2025/10/25/51025002109.jpg)
 
-Tolls for the entire trip were approximately 2,600 yuan, bringing total transportation costs to 4,771 yuan. Hotel accommodations were roughly 2,000-3,000 yuan. We didn't visit many ticketed attractions — probably around 1,000-2,000 yuan. Total trip cost was under 10,000 yuan.
+Die Maut für die gesamte Reise betrug etwa 2.600 Yuan, was die Gesamttransportkosten auf 4.771 Yuan brachte. Die Hotelunterkünfte lagen bei etwa 2.000-3.000 Yuan. Wir haben nicht viele kostenpflichtige Attraktionen besucht – wahrscheinlich etwa 1.000-2.000 Yuan. Die Gesamtkosten der Reise lagen unter 10.000 Yuan.
 
-**Travel Reflections**
+**Reisegedanken**
 
-I've developed a complete understanding of the Sichuan Basin. It's no longer just elevation data on paper — it's a real, tangible experience. Driving north before, crossing the Daba Mountains and Qinling, I knew the difficulty of the Shu roads. This time heading south, I felt dizzy from the high altitude in Kunming and Zhaotong, and the roads through the twisting Wumeng Mountains were limited to 80-100 km/h. Once we descended into Sichuan territory, suddenly the mountains seemed smaller, the roads straighter, and we could drive faster. To the west of the basin, of course, standing in Chengdu at 500 meters elevation, you can see Yaomei Peak at 6,247 meters. To the east, only the Three Gorges serves as an outlet for the basin's water to flow out. The entire southwest region (Yunnan, Guizhou, Sichuan, Tibet) is like a well-kneaded ball of dough, and the Sichuan Basin is the depression you make when you punch your fist hard into it. Being able to live in such a small, precious piece of land, I feel especially fortunate.
+Ich habe ein vollständiges Verständnis des Sichuan-Beckens entwickelt. Es ist nicht länger nur Höhendaten auf Papier – es ist eine reale, greifbare Erfahrung. Als ich früher nach Norden fuhr, über das Daba-Gebirge und Qinling, wusste ich um die Schwierigkeit der Shu-Straßen. Diesmal, als ich nach Süden fuhr, wurde mir schwindelig von der Höhe in Kunming und Zhaotong, und die Straßen durch die sich windenden Wumeng-Berge waren auf 80-100 km/h begrenzt. Sobald wir in das Gebiet von Sichuan hinabstiegen, schienen die Berge plötzlich kleiner, die Straßen gerader, und wir konnten schneller fahren. Westlich des Beckens, natürlich, steht man in Chengdu auf 500 Metern Höhe und kann den Yaomei-Gipfel auf 6.247 Metern sehen. Im Osten dienen nur die Drei Schluchten als Auslass für das Wasser des Beckens. Die gesamte südwestliche Region (Yunnan, Guizhou, Sichuan, Tibet) ist wie ein gut gekneteter Teigball, und das Sichuan-Becken ist die Vertiefung, die man macht, wenn man mit der Faust kräftig hineinschlägt. In der Lage zu sein, auf einem so kleinen, kostbaren Stück Land zu leben, fühle ich mich besonders glücklich.
 
-Furthermore, comparing topography, landforms, and climate with the areas surrounding the basin (indeed the entire western China), Chengdu is a uniquely irreplaceable presence across this vast territory. These favorable factors determine Chengdu's eternal economic position in the western region.
+Darüber hinaus, wenn man Topographie, Landschaftsformen und Klima mit den Gebieten um das Becken vergleicht (tatsächlich das gesamte westliche China), ist Chengdu eine einzigartig unersetzliche Präsenz in diesem riesigen Gebiet. Diese günstigen Faktoren bestimmen Chengdus ewige wirtschaftliche Position in der westlichen Region.

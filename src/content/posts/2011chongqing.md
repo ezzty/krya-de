@@ -1,28 +1,28 @@
 ---
-title: "Rolex on the Liberation Monument — Chongqing"
+title: Rolex am Befreiungsdenkmal — Chongqing
 pubDate: '2011-09-06'
 author: jin
 draft: false
 categories:
-  - Travel
+- Reisen
 tags:
-  - Travel
-  - Chongqing
-  - City Tours
+- Reisen
+- Chongqing
+- Stadtrundgänge
 ---
 
-Originally I planned to visit Mount Hua, but since no one was going with me and I didn't feel comfortable going alone, I gave up the idea. Later, I went to Chongqing with Zhang Shaoxia. It was the end of August, scorching hot, with temperatures reaching a terrifying 41°C. Yet the furnace-like heat couldn't deter my determination to visit Chongqing.
+Ursprünglich hatte ich vor, den Huashan-Berg zu besuchen, aber da niemand mitkommen wollte und ich mich allein nicht wohlfühlte, habe ich die Idee aufgegeben. Später bin ich mit Zhang Shaoxia nach Chongqing gefahren. Es war Ende August, brütend heiß, die Temperaturen erreichten erschreckende 41°C. Doch die Ofenhitze konnte meine Entschlossenheit, Chongqing zu besuchen, nicht bremsen.
 
-The bullet train from Chengdu to Chongqing costs 98 yuan, about 20 yuan more than the Chengdu-Chongqing express bus, but it offers much better value. Besides, I'm not worried about bullet train rear-end collisions—the probability of two such incidents happening within 30 days is tiny.
+Der Hochgeschwindigkeitszug von Chengdu nach Chongqing kostet 98 Yuan, etwa 20 Yuan mehr als der Chengdu-Chongqing-Fernbus, aber das Preis-Leistungs-Verhältnis ist deutlich besser. Außerdem mache ich mir keine Sorgen über Auffahrunfälle mit dem Bullet Train – die Wahrscheinlichkeit, dass sich zwei solche Vorfälle innerhalb von 30 Tagen ereignen, ist verschwindend gering.
 
-Chengdu is a plain city encircled by ring roads. You can't appreciate its "waistline" from different angles like a mountain range, nor get the panoramic view from its peak. When I took a bus from Chongqing North Station straight into the city and crossed the Huangguayuan Bridge, the sight of Yuzhong District's layered buildings rising along the river gave me immense visual satisfaction. It's exactly the feeling you get seeing Manhattan from Brooklyn in American TV shows—except Yuzhong is built on hills, while Manhattan is flat.
+Chengdu ist eine flache Stadt, umgeben von Ringstraßen. Man kann ihre „Taille“ nicht aus verschiedenen Blickwinkeln wie bei einem Gebirge bewundern, noch bekommt man von ihrem höchsten Punkt eine Panoramaaussicht. Als ich mit dem Bus vom Nordbahnhof Chongqing direkt in die Stadt fuhr und die Huangguayuan-Brücke überquerte, bot sich mir der Anblick der terrassenförmig am Fluss aufragenden Gebäude des Yuzhong-Distrikts – eine immense visuelle Befriedigung. Es ist genau das Gefühl, das man in amerikanischen Serien hat, wenn man Manhattan von Brooklyn aus sieht – nur dass Yuzhong auf Hügeln gebaut ist, während Manhattan flach liegt.
 
-Chao Tianmen, Chongqing's iconic area, was a bit disappointing at first sight. Walking down Xinyi Road, where the sidewalks were under renovation, the narrow streets were lined with old buildings and lacked the bustling commercial atmosphere I imagined. It's hard to believe this is near a landmark district. Chao Tianmen Square is small and looks its age. Unlike Chengdu's Tianfu Square, which gets torn down and rebuilt repeatedly, this one has stayed. Around 5 PM, there weren't many people—mostly out-of-towners, identifiable by their point-and-shoot cameras snapping photos everywhere, just like me.
+Chao Tianmen, Chongqings ikonisches Viertel, war auf den ersten Blick etwas enttäuschend. Die Xinyi Road entlang, wo die Gehwege renoviert wurden, säumten enge Gassen mit alten Gebäuden die Straße – von der geschäftigen Atmosphäre, die ich mir vorgestellt hatte, keine Spur. Kaum zu glauben, dass dies in der Nähe eines Wahrzeichen-Viertels liegt. Der Chao-Tianmen-Platz ist klein und sieht sein Alter an. Anders als Chengdus Tianfu-Platz, der immer wieder abgerissen und neu aufgebaut wird, ist dieser hier geblieben. Gegen 17 Uhr war nicht viel los – hauptsächlich Auswärtige, erkennbar an ihren Kompaktkameras, mit denen sie überall Fotos knipsten, genau wie ich.
 
-I thought I could visit Chongqing University that evening to see Hao'er, but the distance turned out longer than expected. He said it would take over an hour; I had underestimated Chongqing's terrain. Since I was staying in Yuzhong District, round trip would take too much time. We went the next day instead. My rhinitis is acting up again.
+Ich dachte, ich könnte am Abend noch die Chongqing-Universität besuchen, um Hao'er zu treffen, aber die Entfernung war größer als erwartet. Er meinte, es würde über eine Stunde dauern; ich hatte Chongqings Gelände unterschätzt. Da ich im Yuzhong-Distrikt wohnte, hätte der Hin- und Rückweg zu viel Zeit gekostet. Wir gingen stattdessen am nächsten Tag. Meine Rhinitis macht sich wieder bemerkbar.
 
-Among pedestrian streets in Southwest China, Chunxi Road in Chengdu is the most famous, followed by Jiefangbei (Liberation Monument) in Chongqing, then Nanping in Kunming. Kunming's Nanping wins on size; Chongqing wins on beautiful women—Chengdu should rightfully claim the title, but Chunxi Road loses because it lacks benches under big trees where visitors can sit and people-watch. At Jiefangbei, the granite benches under the trees are prime territory for "wolf friends" (guys checking out girls). My classmate once said he people-watched from KFC at Jiefangbei—what an idiot. The current Liberation Monument was rebuilt in November 1949 after the 1945 version was destroyed. Now it has a clock on top, with a Rolex sign.
+Unter den Fußgängerzonen Südwestchinas ist die Chunxi Road in Chengdu die bekannteste, gefolgt von Jiefangbei (Befreiungsdenkmal) in Chongqing und dann Nanping in Kunming. Kunmings Nanping punktet mit Größe; Chongqing mit schönen Frauen – Chengdu sollte eigentlich den Titel tragen, aber die Chunxi Road verliert, weil es dort keine Bänke unter großen Bäumen gibt, auf denen Besucher sitzen und Leute beobachten können. Am Jiefangbei sind die Granitbänke unter den Bäumen das bevorzugte Revier für „Wolf-Freunde“ (Typen, die Frauen anstarren). Ein Klassenkamerad von mir sagte einmal, er hätte bei KFC am Jiefangbei Leute beobachtet – was für ein Idiot. Das heutige Befreiungsdenkmal wurde im November 1949 wieder aufgebaut, nachdem die Version von 1945 zerstört worden war. Jetzt hat es eine Uhr oben drauf, mit einem Rolex-Schild.
 
-The most worthwhile place in Chongqing is the Nanshan Observation Deck, perfect for night views. Taking the bus up from Nan'an District, the nearly 10-meter bus winds along the two-lane mountain road, climbing over a hundred meters in elevation. With the engine roaring, that one-yuan bus ride felt totally worth it.
+Der lohnendste Ort in Chongqing ist die Aussichtsplattform auf dem Nanshan, perfekt für Nachtansichten. Mit dem Bus vom Nan'an-Distrikt aus fährt man hinauf. Der fast zehn Meter lange Bus schlängelt sich die zweispurige Bergstraße entlang und überwindet dabei über hundert Höhenmeter. Mit dröhnendem Motor fühlte sich die Busfahrt für einen Yuan völlig lohnenswert an.
 
-On the third day, we headed back. Across the street, various aunties asked if we wanted to sing karaoke—I had no idea what they meant.
+Am dritten Tag machten wir uns auf den Rückweg. Auf der anderen Straßenseite fragten uns verschiedene Tanten, ob wir Karaoke singen wollten – ich hatte keine Ahnung, was sie meinten.

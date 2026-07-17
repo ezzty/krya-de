@@ -1,15 +1,15 @@
 ---
-title: A Drawing of my daughter
+title: Eine Zeichnung meiner Tochter
 pubDate: '2024-07-19'
 author: jin
 draft: false
 categories:
-  - Life
+- Leben
 tags:
-  - Children-Picture
+- Kinderzeichnung
 ---
 
 ![rain2.jpg](https://i.190808.xyz/typecho/2024/07/19/rain2.jpg?x-oss-process=style/826px)
-This is a drawing my daughter made when she was 4 years old. It depicts our family picking rainbow fruit in a garden. Neither of us has any talent for painting, so we never taught her any drawing skills, but we always encouraged her to paint what she sees and thinks.
+Das ist eine Zeichnung, die meine Tochter mit vier Jahren gemalt hat. Sie zeigt unsere Familie, wie wir im Garten Regenbogenfrüchte pflücken. Keiner von uns hat ein Talent zum Malen, also haben wir ihr nie irgendwelche Zeichentechniken beigebracht – aber wir haben sie immer ermutigt, das zu malen, was sie sieht und denkt.
 
-During childhood, children have many questions about the world that need to be explained by us. But can you answer them all? Never! Absolutely not! Rather than teaching them incorrect knowledge, it's better to keep quiet and let the children explore the answers on their own.
+In der Kindheit haben Kinder viele Fragen über die Welt, die wir ihnen erklären müssen. Aber kannst du sie alle beantworten? Niemals! Auf keinen Fall! Anstatt ihnen falsches Wissen beizubringen, ist es besser, still zu sein und die Kinder die Antworten selbst entdecken zu lassen.

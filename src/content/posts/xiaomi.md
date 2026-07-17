@@ -1,36 +1,36 @@
 ---
-title: "Why I'm Buying Xiaomi Stock: A Power User's Choice"
+title: 'Warum ich Xiaomi-Aktien kaufe: Die Wahl eines Power-Users'
 pubDate: '2026-03-17'
 author: jin
 draft: false
 categories:
-  - Finance
+- Finanzen
 tags:
-  - Xiaomi Stock
-  - Xiaomi SU7
-  - Xiaomi Growth
+- Xiaomi Aktie
+- Xiaomi SU7
+- Xiaomi Wachstum
 ---
 
 ![wj-2.avif](https://user0102.cn.imgto.link/public/20260422/wj-2.avif)
 
-In February 2025, I opened a bank and stock account in Hong Kong and started buying Xiaomi shares. Since then, I've accumulated several thousand shares and plan to gradually add to my position, aiming for 10,000 shares over time.
+Im Februar 2025 eröffnete ich in Hongkong ein Bank- und Aktienkonto und begann, Xiaomi-Aktien zu kaufen. Seitdem habe ich mehrere tausend Aktien angesammelt und plane, meine Position nach und nach aufzustocken – langfristig strebe ich 10.000 Aktien an.
 
-I'm no financial expert — just an ordinary investor. But I want to share why I'm buying Xiaomi stock and the logic behind my investment.
+Ich bin kein Finanzexperte – nur ein ganz normaler Anleger. Aber ich möchte teilen, warum ich Xiaomi-Aktien kaufe und welche Logik hinter meiner Investition steckt.
 
-Why am I bullish on Xiaomi? First of all, I'm a heavy user of Xiaomi's smart home ecosystem. I have dozens of Xiaomi devices at home — from light bulbs and cameras to air conditioners and robot vacuums — covering nearly every corner of Xiaomi's product ecosystem. Friends who've visited and experienced my setup have gone on to install plenty of Xiaomi devices in their own homes. This gives me a direct, firsthand sense of Xiaomi's product strength.
+Warum bin ich optimistisch für Xiaomi? Zunächst einmal bin ich ein intensiver Nutzer von Xiaomis Smart-Home-Ökosystem. Ich habe Dutzende Xiaomi-Geräte zu Hause – von Glühbirnen und Kameras bis zu Klimaanlagen und Saugrobotern – und decke fast jede Ecke von Xiaomis Produktökosystem ab. Freunde, die bei mir waren und mein Setup erlebt haben, haben sich danach selbst jede Menge Xiaomi-Geräte in ihre Wohnungen geholt. Das gibt mir ein direktes, hautnahes Gefühl für Xiaomis Produktstärke.
 
-More importantly, Xiaomi's automotive division has filled the last gap in Xiaomi's smart ecosystem. Today's Xiaomi has formed a complete ecosystem chain: "phones + cars + smart home." This "people-cars-home" full coverage is something almost no other company in the world can match.
+Noch wichtiger: Xiaomis Automobilsparte hat die letzte Lücke im Xiaomi-Smart-Ökosystem geschlossen. Das heutige Xiaomi hat eine vollständige Ökosystemkette gebildet: „Handys + Autos + Smart Home“. Diese „Mensch-Auto-Zuhause“-Vollabdeckung kann weltweit kaum ein anderes Unternehmen bieten.
 
-Regarding the recent controversy surrounding Xiaomi's cars — many people claim Xiaomi vehicles are prone to accidents. But I think this is a cognitive bias. Car accidents happen every day. Why are you only seeing Xiaomi's? Because Xiaomi generates massive traffic and public discussion.
+Was die jüngste Kontroverse um Xiaomis Autos angeht – viele behaupten, Xiaomi-Fahrzeuge seien unfallanfällig. Aber ich denke, das ist ein kognitiver Bias. Autounfälle passieren jeden Tag. Warum siehst du nur die von Xiaomi? Weil Xiaomi enorme Aufmerksamkeit und öffentliche Diskussionen erzeugt.
 
-Objectively speaking, Xiaomi's car buyers skew young, and for many of them, it's their first car. Xiaomi's vehicles deliver supercar-level performance, and putting that kind of power in the hands of young drivers does carry a risk of spirited driving. But across multiple incidents, the actual quality of Xiaomi's vehicles hasn't been lacking.
+Objektiv betrachtet sind Xiaomis Autokäufer eher jung, und für viele ist es das erste Auto. Xiaomis Fahrzeuge liefern Supersportwagen-Leistung, und diese Power in den Händen junger Fahrer birgt natürlich ein Risiko für sportliche Fahrweise. Aber bei mehreren Vorfällen hat die tatsächliche Qualität von Xiaomis Fahrzeugen nicht enttäuscht.
 
-Tesla faced similar public attacks in its early days — everyone said Teslas couldn't brake. But smart consumers eventually discovered that Tesla's quality was actually solid, which in turn fueled their sales miracle. Xiaomi will go through the same process.
+Tesla war in seinen Anfängen ähnlichen öffentlichen Angriffen ausgesetzt – alle sagten, Teslas könnten nicht bremsen. Aber kluge Verbraucher haben irgendwann erkannt, dass Teslas Qualität solide war, was wiederum ihr Verkaufswunder befeuerte. Xiaomi wird denselben Prozess durchlaufen.
 
-Xiaomi's risk isn't about products — it's about capital markets' expectations of Lei Jun. Lei Jun isn't like Musk, who paints grand visions first and gradually delivers them. Xiaomi's consistent approach is to build steadily based on market demand. That's a virtue for a real business, but it might not be "sexy" enough for stock prices. Investors need patience.
+Xiaomis Risiko liegt nicht in den Produkten – es liegt in den Erwartungen der Kapitalmärkte an Lei Jun. Lei Jun ist nicht wie Musk, der erst große Visionen malt und sie dann nach und nach umsetzt. Xiaomis konsequenter Ansatz ist es, basierend auf der Marktnachfrage solide aufzubauen. Das ist eine Tugend für ein echtes Unternehmen, aber für den Aktienkurs vielleicht nicht „sexy“ genug. Anleger brauchen Geduld.
 
-But I'm confident in Xiaomi's full-industry-chain strategy. If Xiaomi can absorb Kingsoft Cloud and push harder into large AI models, offering AI services to everyday consumers, that would be a massive profit growth driver. The 2027 overseas expansion for cars is also promising, because Xiaomi's reputation abroad is actually better than it is domestically.
+Aber ich bin zuversichtlich in Xiaomis Full-Industry-Chain-Strategie. Wenn Xiaomi Kingsoft Cloud integrieren und stärker in große KI-Modelle vorstoßen kann, um KI-Dienste für normale Verbraucher anzubieten, wäre das ein massiver Gewinntreiber. Auch die Expansion ins Ausland für Autos ab 2027 ist vielversprechend, weil Xiaomis Ruf im Ausland tatsächlich besser ist als im Inland.
 
-My investment horizon is 5 to 10 years. Although my position is currently at a loss on paper, I don't urgently need the money and plan to keep adding to my position.
+Mein Anlagehorizont liegt bei 5 bis 10 Jahren. Obwohl meine Position derzeit im Minus ist, brauche ich das Geld nicht dringend und plane, meine Position weiter aufzustocken.
 
-Final note: this article is not a stock recommendation — I'm simply sharing my personal investment logic. Investing carries risk. Please do your own due diligence.
+Letzte Anmerkung: Dieser Artikel ist keine Aktienempfehlung – ich teile lediglich meine persönliche Anlagelogik. Investieren birgt Risiken. Bitte mach deine eigene Recherche.

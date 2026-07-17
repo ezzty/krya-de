@@ -4,24 +4,24 @@ pubDate: '2019-12-04'
 author: jin
 draft: false
 categories:
-  - Life
+- Leben
 tags:
-  - Family Atmosphere
-  - Character Formation
+- Familienatmosphäre
+- Charakterbildung
 ---
 
 ![0518-bks-RUSHDIE-videoSixteenByNine1050.jpg](https://i.190808.xyz/typecho/2020/03/20/0518-bks-RUSHDIE-videoSixteenByNine1050.jpg)
 
-> Caption: Buendía is the name of a family in Gabriel García Márquez's famous novel *One Hundred Years of Solitude*. Every member of this family lives in their own world, caring only about the things that matter to them.
+> Bildunterschrift: Buendía ist der Name einer Familie in Gabriel García Márquez' berühmtem Roman *Hundert Jahre Einsamkeit*. Jedes Mitglied dieser Familie lebt in seiner eigenen Welt und kümmert sich nur um die Dinge, die ihm wichtig sind.
 
 ---
 
-A former colleague shared photos of her kid on WeChat Moments today. For someone around 30, this is a common occurrence. I imagine that as we grow old, our classmates' Moments feeds will gradually and permanently stop updating — and that too will be a common occurrence. As long as we live in this world, none of us can escape birth, and none of us can avoid death.
+Eine frühere Kollegin hat heute auf WeChat Moments Fotos von ihrem Kind geteilt. Für jemanden um die 30 ist das nichts Ungewöhnliches. Ich stelle mir vor, dass die Feeds unserer Klassenkameraden mit der Zeit nach und nach für immer aufhören, sich zu aktualisieren – auch das wird nichts Ungewöhnliches sein. Solange wir in dieser Welt leben, kann keiner von uns der Geburt entkommen, und keiner von uns kann dem Tod entgehen.
 
-My own child was also born this year — a lovely little daughter. Sometimes I get annoyed with her too. I hope she's always happy, always giggling at me foolishly. But the moment things don't go her way, she bursts into tears, expressing her demands at maximum volume: hungry, sleepy, bored, wants daddy to hold her... But how could I possibly tell which one it is? I tried a hundred different approaches and none of them satisfied her. Why is she crying? I was helpless! I had to ask my mom to feed her some milk, letting the child drift into a sleep induced by a blood sugar spike.
+Mein eigenes Kind wurde auch dieses Jahr geboren – eine bezaubernde kleine Tochter. Manchmal nervt sie mich auch. Ich wünsche mir, dass sie immer glücklich ist, mich immer dämlich angrinst. Aber sobald etwas nicht nach ihrem Kopf geht, bricht sie in Tränen aus und drückt ihre Bedürfnisse mit maximaler Lautstärke aus: hungrig, müde, gelangweilt, will von Papa gehalten werden ... Aber wie soll ich bloß wissen, was los ist? Ich habe hundert verschiedene Sachen ausprobiert und nichts hat sie zufriedengestellt. Warum weint sie? Ich war völlig hilflos! Ich musste meine Mutter bitten, ihr etwas Milch zu geben, damit das Kind in einen durch den Blutzuckeranstieg herbeigeführten Schlaf gleitet.
 
-Last weekend I dropped her and her mother off at my mother-in-law's place. Colleagues at the company congratulated me on getting a break — clearly they'd all been through it. They had been sleeping with me for months, and now the bed felt empty. Late at night, in the quiet hours, I missed them terribly. How much joy had the child's presence brought to an otherwise lifeless room!
+Letztes Wochenende habe ich sie und ihre Mutter bei meiner Schwiegermutter abgesetzt. Die Kollegen im Büro haben mir zu meiner Auszeit gratuliert – offensichtlich haben sie alle dasselbe durchgemacht. Sie haben monatelang mit mir geschlafen, und jetzt fühlte sich das Bett leer an. In den späten Nachtstunden, in der Stille, habe ich sie schrecklich vermisst. Wie viel Freude hatte die Anwesenheit des Kindes in ein sonst lebloses Zimmer gebracht!
 
-It was precisely because the child's noise and commotion enriched the family that I found myself reflecting with regret: during my own upbringing, I never brought my parents peace of mind. Every evening after dinner, I'd shut myself in my room to play on the computer, not saying a word, perfectly quiet. My younger brother has the same habit now. The two of us sons neither enjoy communicating with our parents. But we can't entirely blame ourselves — our father is a taciturn man, never cracking a smile at home. Influenced by his introverted personality from childhood, our own personalities became somewhat similar. We are like the Buendía family — each living our own life, with only blood ties binding us together.
+Gerade weil das Kind mit seinem Lärm und Trubel die Familie bereichert hat, habe ich mit Bedauern festgestellt: Während meiner eigenen Kindheit habe ich meinen Eltern nie Ruhe geschenkt. Jeden Abend nach dem Essen habe ich mich in meinem Zimmer eingeschlossen, um am Computer zu spielen, kein Wort gesagt, mucksmäuschenstill. Mein jüngerer Bruder hat jetzt dieselbe Angewohnheit. Wir beiden Söhne haben keine Freude daran, mit unseren Eltern zu kommunizieren. Aber wir können uns nicht ganz die Schuld geben – unser Vater ist ein schweigsamer Mann, der zu Hause nie ein Lächeln zeigt. Geprägt von seiner introvertierten Persönlichkeit seit meiner Kindheit, ist meine eigene Persönlichkeit ähnlich geworden. Wir sind wie die Familie Buendía – jeder lebt sein eigenes Leben, nur durch Blutsbande miteinander verbunden.
 
-That I can reflect on this is my daughter's good fortune! The emotional atmosphere of a family must not be allowed to affect another generation. I hope my daughter will be more outgoing. If she doesn't come to her dad for a fuss or a play, then her dad will go to her — like a fool, happily accompanying her as she grows up.
+Dass ich darüber nachdenken kann, ist das Glück meiner Tochter! Die emotionale Atmosphäre einer Familie darf nicht auf eine weitere Generation übergreifen. Ich hoffe, meine Tochter wird aufgeschlossener sein. Wenn sie nicht zu ihrem Papa kommt, um zu quengeln oder zu spielen, dann wird ihr Papa zu ihr kommen – wie ein Narr, der sie fröhlich auf ihrem Weg ins Erwachsenwerden begleitet.

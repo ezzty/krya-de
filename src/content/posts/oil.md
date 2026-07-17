@@ -1,65 +1,65 @@
 ---
-title: Cooking Oil Selection Guide
+title: Leitfaden zur Auswahl von Speiseöl
 pubDate: '2024-11-24'
 author: jin
 draft: false
 categories:
-  - Life
+- Leben
 tags:
-  - Mineral Oil in Cooking Oil
-  - Cooking Oil Pollution
+- Mineralöl in Speiseöl
+- Speiseölverschmutzung
 ---
 
 ![ddaaf.jpg|87](https://i.190808.xyz/typecho/2024/11/24/ddaaf.jpg)
 
-When choosing a healthy cooking oil, the main factors to consider are: **aflatoxins**, **erucic acid**, **whether it's genetically modified**, **unsaturated fatty acids**, and **cooking temperature**. Recently, prompted by the news about industrial oil tanker trucks being used to transport edible oil, we also need to consider the potential risk of **mineral oil contamination**. Beyond these six health factors, we also need to consider whether the **price** is reasonable.
+Bei der Wahl eines gesunden Speiseöls sind die wichtigsten Faktoren: **Aflatoxine**, **Erucasäure**, **ob es gentechnisch verändert ist**, **ungesättigte Fettsäuren** und **die Gartemperatur**. In letzter Zeit, angeregt durch die Nachrichten über Industrietankwagen, die zum Transport von Speiseöl verwendet wurden, müssen wir auch das potenzielle Risiko einer **Mineralölkontamination** bedenken. Neben diesen sechs Gesundheitsfaktoren sollten wir auch prüfen, ob der **Preis** angemessen ist.
 
-**1. Aflatoxins**
+**1. Aflatoxine**
 
-As is well known, aflatoxin is a potent carcinogen with extremely high toxicity, particularly harmful to the liver. Long-term exposure to even trace amounts of aflatoxin can increase the risk of liver cancer. Aspergillus flavus and Aspergillus parasiticus are widespread in soil, plants, and decaying organic matter, and they grow and reproduce more easily in warm, humid environments. Common oilseed crops can become contaminated with aflatoxin during production, harvesting, processing, and storage if humidity and temperature are not properly controlled. Oilseed crops with higher aflatoxin content include peanuts, soybeans, and rapeseed. In traditional oil pressing methods, contamination can come not only from the raw materials themselves but also from unclean oil presses. Although temperatures above 250°C can break down aflatoxins, Chinese kitchens rarely reach this temperature even during high-heat stir-frying.
+Bekanntlich ist Aflatoxin ein stark krebserregender Stoff mit extrem hoher Toxizität, der besonders der Leber schadet. Eine langfristige Aufnahme selbst kleinster Mengen Aflatoxin kann das Risiko für Leberkrebs erhöhen. Aspergillus flavus und Aspergillus parasiticus sind in Böden, Pflanzen und verrottendem organischem Material weit verbreitet und gedeihen besonders in warmen, feuchten Umgebungen. Gängige Ölsaaten können während Anbau, Ernte, Verarbeitung und Lagerung mit Aflatoxinen belastet werden, wenn Feuchtigkeit und Temperatur nicht richtig kontrolliert werden. Zu den Ölsaaten mit höherem Aflatoxingehalt gehören Erdnüsse, Sojabohnen und Raps. Bei traditionellen Pressverfahren kann die Kontamination nicht nur von den Rohstoffen selbst, sondern auch von unsauberen Ölpressen ausgehen. Obwohl Temperaturen über 250 °C Aflatoxine zersetzen können, wird diese Temperatur in chinesischen Küchen selbst beim scharfen Braten selten erreicht.
 
-**2. Erucic Acid**
+**2. Erucasäure**
 
-Erucic acid is a monounsaturated fatty acid. **Rapeseed oil has a relatively high erucic acid content.** It is metabolized slowly in the human body, and long-term intake of high levels of erucic acid may have adverse health effects. High erucic acid intake can lead to fat deposits in the heart muscle, affecting cardiac function. Additionally, some animal studies suggest that excessive erucic acid intake may affect growth and development. This is why healthy rapeseed oils nowadays like to advertise low erucic acid content. However, as with any toxin, the dose matters; even at low levels, long-term consumption isn't scientifically advisable.
+Erucasäure ist eine einfach ungesättigte Fettsäure. **Rapsöl hat einen relativ hohen Erucasäuregehalt.** Sie wird im menschlichen Körper nur langsam abgebaut, und eine langfristige Aufnahme hoher Mengen kann gesundheitsschädlich sein. Hohe Erucasäureaufnahme kann zu Fettablagerungen im Herzmuskel führen und die Herzfunktion beeinträchtigen. Zudem deuten einige Tierstudien darauf hin, dass übermäßige Erucasäureaufnahme das Wachstum und die Entwicklung beeinträchtigen kann. Deshalb werben gesunde Rapsöle heute gern mit niedrigem Erucasäuregehalt. Aber wie bei jedem Gift kommt es auf die Dosis an; selbst bei niedrigen Werten ist ein langfristiger Verzehr wissenschaftlich nicht empfehlenswert.
 
-**3. Genetically Modified or Not**
+**3. Gentechnisch verändert oder nicht**
 
-Genetically modified foods have been around for a relatively short time—the world's first commercialized GM food was only born in the United States in 1994. In just 30 years, GM foods have achieved enormous economic and environmental benefits. For example, genetically modified soybeans have improved pest resistance and herbicide tolerance, increasing yields while reducing pesticide use, with positive effects overall. However, GM technology has existed for such a short time that its long-term safety remains a highly debated topic. Whether to eat them or not is a personal choice. That said, when dining out, we inevitably come into contact with GM foods to some degree. But when it comes to choosing cooking oil for your own home, you can still make that decision yourself—labels clearly indicate whether an oil is made from genetically modified ingredients.
+Gentechnisch veränderte Lebensmittel gibt es erst seit relativ kurzer Zeit – das weltweit erste kommerzialisierte GV-Lebensmittel wurde erst 1994 in den USA geboren. In nur 30 Jahren haben GV-Lebensmittel enorme wirtschaftliche und ökologische Vorteile erzielt. Beispielsweise sind gentechnisch veränderte Sojabohnen resistenter gegen Schädlinge und verträglicher mit Herbiziden, was die Erträge steigert und den Pestizideinsatz reduziert – insgesamt positive Effekte. Allerdings existiert die GV-Technologie erst so kurz, dass ihre langfristige Sicherheit ein stark diskutiertes Thema bleibt. Ob man sie isst oder nicht, ist eine persönliche Entscheidung. Allerdings kommen wir beim Essen außer Haus unweigerlich bis zu einem gewissen Grad mit GV-Lebensmitteln in Kontakt. Aber bei der Wahl des Speiseöls für zu Hause kann man selbst entscheiden – die Etiketten geben klar an, ob ein Öl aus gentechnisch veränderten Zutaten hergestellt wurde.
 
-**4. Unsaturated Fatty Acids**
+**4. Ungesättigte Fettsäuren**
 
-Unsaturated fatty acids are a class of fatty acid molecules whose carbon chains contain one or more carbon-carbon double bonds (C=C). Unsaturated fatty acids are generally liquid at room temperature and offer many health benefits, including **lowering bad cholesterol** levels, **reducing the risk of cardiovascular disease**, helping **reduce inflammation in the body** (some research suggests that human aging is essentially a process of repeated inflammatory responses), and being **beneficial for brain development** (children especially should eat them). The opposite of unsaturated fatty acids is saturated fatty acids; the animal fats we commonly consume in large quantities contain very high levels of saturated fatty acids, and it's advisable to eat less of them.
+Ungesättigte Fettsäuren sind eine Klasse von Fettsäuremolekülen, deren Kohlenstoffkette eine oder mehrere Kohlenstoff-Kohlenstoff-Doppelbindungen (C=C) enthält. Ungesättigte Fettsäuren sind bei Raumtemperatur meist flüssig und bieten viele gesundheitliche Vorteile, darunter die **Senkung des schlechten Cholesterinspiegels**, die **Verringerung des Risikos für Herz-Kreislauf-Erkrankungen**, die **Reduzierung von Entzündungen im Körper** (manche Forschung deutet darauf hin, dass menschliches Altern im Wesentlichen ein Prozess wiederholter Entzündungsreaktionen ist) und sie sind **förderlich für die Gehirnentwicklung** (besonders Kinder sollten sie essen). Das Gegenteil von ungesättigten Fettsäuren sind gesättigte Fettsäuren; die tierischen Fette, die wir oft in großen Mengen zu uns nehmen, enthalten sehr hohe Anteile an gesättigten Fettsäuren – davon sollte man weniger essen.
 
-**5. Cooking Temperature**
+**5. Gartemperatur**
 
-When certain cooking oils are heated to high temperatures, they can produce harmful substances. These include acrylamide, free radicals, and polycyclic aromatic hydrocarbons, which may be harmful to health.
-Common **oils that break down easily at high temperatures**: sunflower oil, soybean oil, corn oil, grape seed oil. It's recommended to lower the cooking temperature when using these oils.
-**Oils that are more stable at high temperatures**: peanut oil, rapeseed oil, olive oil, coconut oil.
+Wenn bestimmte Speiseöle auf hohe Temperaturen erhitzt werden, können sie schädliche Substanzen bilden. Dazu gehören Acrylamid, freie Radikale und polyzyklische aromatische Kohlenwasserstoffe, die gesundheitsschädlich sein können.
+Häufige **Öle, die bei hohen Temperaturen leicht zerfallen**: Sonnenblumenöl, Sojaöl, Maiskeimöl, Traubenkernöl. Es wird empfohlen, die Gartemperatur bei Verwendung dieser Öle zu senken.
+**Öle, die bei hohen Temperaturen stabiler sind**: Erdnussöl, Rapsöl, Olivenöl, Kokosöl.
 
-**6. External Contamination of Cooking Oil**
+**6. Äußere Verunreinigung von Speiseöl**
 
-Transportation via oil tanker trucks can contaminate cooking oil. So why do some manufacturers source oil externally? It generally comes down to a few scenarios:
+Der Transport in Tankwagen kann Speiseöl verunreinigen. Warum beziehen manche Hersteller Öl von extern? Das liegt in der Regel an einigen Szenarien:
 
-- Small brands lack sufficient production capacity. Some small factories can't meet demand on their own and purchase oil in bulk to bottle under their own brand.
-- Large brands with multiple plants transport oil between facilities to balance production capacity.
-- Bulk purchasing channels. Companies or oil vendors with large oil requirements purchase in bulk.
-These scenarios essentially cover all the channels through which we buy cooking oil. Oil manufacturers won't voluntarily admit to mineral oil contamination, so ordinary consumers have no way to avoid eating contaminated oil. But if you can't fight it, you can at least avoid it.
+- Kleine Marken haben nicht genügend Produktionskapazität. Manche kleinen Fabriken können die Nachfrage nicht selbst decken und kaufen Öl in großen Mengen, um es unter eigener Marke abzufüllen.
+- Große Marken mit mehreren Werken transportieren Öl zwischen den Standorten, um die Produktionskapazität auszugleichen.
+- Großhandelskanäle. Unternehmen oder Ölhändler mit großem Ölbedarf kaufen in großen Mengen ein.
+Diese Szenarien decken im Wesentlichen alle Kanäle ab, über die wir Speiseöl kaufen. Ölhersteller werden eine Mineralölkontamination nicht freiwillig zugeben, daher haben normale Verbraucher keine Möglichkeit, kontaminiertes Öl zu vermeiden. Aber wenn man es nicht bekämpfen kann, kann man es zumindest meiden.
 
-**7. Price**
+**7. Preis**
 
-Here's a price comparison for 1L of oil, based on JD.com data:
+Hier ein Preisvergleich für 1 Liter Öl, basierend auf JD.com-Daten:
 
-**Perilla oil, camellia oil, olive oil > grape seed oil > peanut oil, flaxseed oil, linseed oil, coconut oil > sunflower oil > soybean oil, rapeseed oil, corn oil**
+**Perillaöl, Kamelienöl, Olivenöl > Traubenkernöl > Erdnussöl, Leinöl, Leinsamenöl, Kokosöl > Sonnenblumenöl > Sojaöl, Rapsöl, Maiskeimöl**
 
-Perilla oil, camellia oil, and olive oil are relatively expensive, with 1L generally priced above 80 RMB;
-Grape seed oil is about 40 RMB per liter;
-Peanut oil, flaxseed oil, linseed oil, and coconut oil are around 20–30 RMB per liter;
-Soybean oil, rapeseed oil, corn oil, and sunflower oil are about 8–16 RMB per liter.
+Perillaöl, Kamelienöl und Olivenöl sind relativ teuer, 1 Liter kostet in der Regel über 80 RMB;
+Traubenkernöl etwa 40 RMB pro Liter;
+Erdnussöl, Leinöl, Leinsamenöl und Kokosöl liegen bei etwa 20–30 RMB pro Liter;
+Sojaöl, Rapsöl, Maiskeimöl und Sonnenblumenöl kosten etwa 8–16 RMB pro Liter.
 
-Based on these seven factors, let's use a scientific approach to select cooking oils that are both healthy and relatively safe:
+Basierend auf diesen sieben Faktoren wollen wir wissenschaftlich vorgehen und Speiseöle auswählen, die sowohl gesund als auch relativ sicher sind:
 
-According to data from China Forward Industry Research Institute, the main cooking oil varieties consumed in China are soybean oil, rapeseed oil, palm oil (mainly used in industrial foods and fast food restaurants), peanut oil, and sunflower oil. In 2022, soybean oil consumption accounted for 29.6% of China's edible vegetable oil consumption; followed by rapeseed oil at 14.5%; and palm oil at 8.8% of total consumption.
+Laut Daten des China Forward Industry Research Institute sind die in China am häufigsten konsumierten Speiseöle Sojaöl, Rapsöl, Palmöl (hauptsächlich in Industrienahrung und Fast-Food-Restaurants), Erdnussöl und Sonnenblumenöl. Im Jahr 2022 machte der Sojaölverbrauch 29,6 % des chinesischen Verbrauchs an pflanzlichen Speiseölen aus; gefolgt von Rapsöl mit 14,5 %; und Palmöl mit 8,8 % des Gesamtverbrauchs.
 
-The higher the sales volume of an oil, the more manufacturers and sales channels it has, making it more susceptible to transportation contamination—and the oil exposed in this news was precisely soybean oil. So let's exclude soybean oil and rapeseed oil; and due to aflatoxin, erucic acid, and GMO concerns, we again exclude rapeseed oil and soybean oil; corn oil and peanut oil are also ruled out. Oils priced above 30 RMB per liter are too costly for regular consumption; otherwise grape seed oil and olive oil would be the best choices—heat-resistant, rich in unsaturated fatty acids, and non-GMO. That leaves **sunflower oil and flaxseed oil as excellent options**; both crops are essentially non-GMO; sunflower oil is rich in unsaturated fatty acids and vitamin E; flaxseed is rich in alpha-linolenic acid, a plant-based Omega-3 fatty acid that helps reduce inflammation, support heart health, and brain function.
+Je höher das Verkaufsvolumen eines Öls, desto mehr Hersteller und Vertriebskanäle gibt es, und desto anfälliger ist es für Transportverunreinigungen – und das in den Nachrichten exponierte Öl war genau Sojaöl. Also schließen wir Sojaöl und Rapsöl aus; und wegen Aflatoxin, Erucasäure und GVO-Bedenken schließen wir erneut Rapsöl und Sojaöl aus; Maiskeimöl und Erdnussöl fallen ebenfalls weg. Öle über 30 RMB pro Liter sind für den regelmäßigen Verzehr zu teuer; sonst wären Traubenkernöl und Olivenöl die besten Optionen – hitzebeständig, reich an ungesättigten Fettsäuren und nicht gentechnisch verändert. Bleiben **Sonnenblumenöl und Leinöl als hervorragende Optionen**; beide Kulturen sind im Wesentlichen nicht gentechnisch verändert; Sonnenblumenöl ist reich an ungesättigten Fettsäuren und Vitamin E; Leinsamen ist reich an Alpha-Linolensäure, einer pflanzlichen Omega-3-Fettsäure, die hilft, Entzündungen zu reduzieren und die Herzgesundheit sowie die Gehirnfunktion zu unterstützen.
 
-The author's personal favorite used to be sunflower oil. Ukraine is the world's largest sunflower seed producer; after the Russia-Ukraine war, the most repurchased Ukrainian imported sunflower oil was no longer available. Combined with the recent tanker truck mineral oil contamination incident, perhaps lesser-known cooking oils are the safest bet, such as **flaxseed oil**.
+Mein persönlicher Favorit war früher Sonnenblumenöl. Die Ukraine ist der weltweit größte Sonnenblumenkernproduzent; nach dem Russland-Ukraine-Krieg war das am häufigsten nachgekaufte ukrainische Import-Sonnenblumenöl nicht mehr erhältlich. In Kombination mit dem jüngsten Mineralölvorfall mit Tankwagen sind vielleicht weniger bekannte Speiseöle die sicherste Wahl, wie zum Beispiel **Leinöl**.

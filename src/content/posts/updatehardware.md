@@ -1,45 +1,45 @@
 ---
-title: "Upgrading My Desktop Hardware"
+title: Aufrüstung meiner Desktop-Hardware
 pubDate: '2026-05-08'
 author: jin
 draft: false
 categories:
-  - Tech
+- Technik
 tags:
-  - Mac Mini
-  - Apple Computer
-  - Apple Display
+- Mac Mini
+- Apple Computer
+- Apple Display
 ---
 
 ![image](https://i.190808.xyz/img/m/20260608/38b03e.jpg)
 
-Thanks to the AI wave, I ended up buying a bunch of things in just the past two months. Here's a rundown.
+Dank der KI-Welle habe ich in den letzten zwei Monaten doch einiges eingekauft. Hier eine Übersicht.
 
-| # | Product | New/Used | Reason | Price |
+| # | Produkt | Neu/Gebraucht | Grund | Preis |
 | :---: | :--- | :---: | :--- | ---: |
-| 1 | Mac mini M4 base model | Used | New purchase | 3,600 |
-| 2 | Redmi A27U monitor | Used | Old 24-inch had blurry text | 800 |
-| 3 | DJI Pocket 4 handheld camera | New | Better image quality | 3,000 |
-| 4 | DJI Mic Mini 2 microphone | New | Excellent noise cancellation | 430 |
-| 5 | iPhone 15 Pro original battery | New | Squeeze out another 2.5 years | 800 |
-| 6 | Apple Watch 11 | New | Battery replacement | 2,780 |
-| 7 | iPhone SE3 US version | Used | eSIM need | 980 |
-| | **Total** | | | **¥12,390** |
+| 1 | Mac mini M4 Basismodell | Gebraucht | Neuanschaffung | 3.600 |
+| 2 | Redmi A27U Monitor | Gebraucht | Alter 24-Zoll hatte unscharfe Schrift | 800 |
+| 3 | DJI Pocket 4 Handkamera | Neu | Bessere Bildqualität | 3.000 |
+| 4 | DJI Mic Mini 2 Mikrofon | Neu | Hervorragende Geräuschunterdrückung | 430 |
+| 5 | iPhone 15 Pro Originalakku | Neu | Nochmal 2,5 Jahre rausholen | 800 |
+| 6 | Apple Watch 11 | Neu | Akkutausch | 2.780 |
+| 7 | iPhone SE3 US-Version | Gebraucht | eSIM nötig | 980 |
+| | **Gesamt** | | | **¥12.390** |
 
-The last time I bought a MacBook Pro was in 2014. I was young and full of bravado, and I liked nice things — I dropped a hefty 12,000 yuan on it. But given my work environment, the Mac ecosystem lacked many programs I needed. After two years without recouping the cost, I gave it away.
+Das letzte Mal, dass ich ein MacBook Pro gekauft habe, war 2014. Ich war jung, voller Übermut und mochte schöne Dinge – ich habe stolze 12.000 Yuan dafür ausgegeben. Aber in meinem Arbeitsumfeld fehlten im Mac-Ökosystem viele Programme, die ich brauchte. Nach zwei Jahren, ohne dass sich die Investition amortisiert hatte, habe ich es verschenkt.
 
-Recently I got into vibe coding and tried running the qwen2.5vl:3b vision model for object recognition on a Windows PC with a GTX 1650 4GB graphics card. To my surprise, a 720p image took two minutes to process. Higher resolutions would just blow up the VRAM. That's when the idea of upgrading my hardware was born.
+Vor kurzem habe ich mich ins Vibe-Coding gestürzt und versucht, das qwen2.5vl:3b Vision-Modell zur Objekterkennung auf einem Windows-PC mit einer GTX 1650 4GB Grafikkarte laufen zu lassen. Zu meiner Überraschung dauerte die Verarbeitung eines 720p-Bildes zwei Minuten. Höhere Auflösungen hätten den VRAM komplett gesprengt. Da war die Idee, meine Hardware aufzurüsten, geboren.
 
-Running larger models requires more memory. Right now, RAM is more expensive than gold. For an average person to spend a fortune building a high-end local model, it's simply not cost-effective. And on the other hand, a $1,000–$2,000 local setup will never be faster or more powerful than cloud models.
+Größere Modelle brauchen mehr Speicher. RAM ist derzeit teurer als Gold. Für einen Normalsterblichen ist es schlichtweg nicht kosteneffizient, ein Vermögen in einen lokalen High-End-Rechner zu stecken. Und andererseits wird ein lokales Setup für 1.000–2.000 Dollar niemals schneller oder leistungsfähiger sein als Cloud-Modelle.
 
-Last year, when the Mac mini was subsidized down to around 2,600 yuan, I considered buying one. But I held back for practical reasons. This year, the surge in popularity of OpenClaw drove Mac mini prices up again, and since I already had a Linux machine that could run it, I still didn't make the move.
+Letztes Jahr, als der Mac mini subventioniert auf etwa 2.600 Yuan runtergesetzt war, habe ich überlegt, einen zu kaufen. Aber ich habe mich aus praktischen Gründen zurückgehalten. Dieses Jahr hat der Hype um OpenClaw die Mac-mini-Preise wieder in die Höhe getrieben, und da ich bereits einen Linux-Rechner hatte, der es ausführen konnte, habe ich immer noch nicht zugeschlagen.
 
-But this time, I finally found a reason to buy it: 16GB of memory, enough to run the qwen2.5vl:7b model — image recognition in just a few seconds at 720p. So I didn't hesitate and bought one on Xianyu (China's secondhand marketplace) for a little over 3,500 yuan.
+Aber diesmal habe ich endlich einen Grund gefunden, ihn zu kaufen: 16 GB Arbeitsspeicher, genug, um das qwen2.5vl:7b-Modell auszuführen – Bilderkennung in nur wenigen Sekunden bei 720p. Also habe ich nicht gezögert und auf Xianyu (Chinas Secondhand-Marktplatz) für etwas über 3.500 Yuan einen gekauft.
 
-After getting the Mac mini, I hooked it up to my 24-inch 2K monitor, and the text was a blurry mess. No choice but to hop on Xianyu again and buy a Xiaomi monitor.
+Nachdem ich den Mac mini hatte, schloss ich ihn an meinen 24-Zoll-2K-Monitor an – und die Schrift war eine einzige unscharfe Sauerei. Keine Wahl, also wieder auf Xianyu und einen Xiaomi-Monitor gekauft.
 
-Then I noticed the keyboard wasn't comfortable either. Well, time to grab another cheap keyboard.
+Dann ist mir aufgefallen, dass die Tastatur auch nicht mehr bequem war. Tja, Zeit, mir noch eine günstige Tastatur zu besorgen.
 
-Now I've realized that even the Mac mini M4 base model with 16GB RAM can't satisfy my competitive streak. Running the qwen3.5:9b model, even a simple question takes a minute or two to answer (the inference time is absurdly long).
+Inzwischen ist mir klar geworden, dass selbst das Mac mini M4 Basismodell mit 16 GB RAM meinen Ehrgeiz nicht stillen kann. Wenn ich das qwen3.5:9b-Modell laufen lasse, dauert selbst eine einfache Frage ein bis zwei Minuten für eine Antwort (die Inferenzzeit ist absurd lang).
 
-So, should I wait for the M5 and pick up a 24GB Mac mini to try out?
+Also, soll ich auf das M5 warten und mir einen Mac mini mit 24 GB RAM holen, um es auszuprobieren?

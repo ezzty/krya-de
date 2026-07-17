@@ -1,375 +1,375 @@
 ---
-title: "The Origin of 'Buying Books Like a Landslide"
+title: Der Ursprung von 'Bücher kaufen wie ein Erdrutsch
 pubDate: '2018-06-21'
 author: jin
 draft: false
 categories:
-  - Reading
+- Lesen
 tags: []
 ---
 
-I used voice input to tally up how many books I've bought since college until now — finished the list in under 20 minutes. Although the bookshelf looks densely packed, there are actually fewer than 200 books, not even a grain of sand in the vast ocean of knowledge.
+Ich habe per Spracheingabe zusammengezählt, wie viele Bücher ich seit dem Studium bis heute gekauft habe – die Liste war in unter 20 Minuten fertig. Obwohl das Regal dicht gepackt aussieht, sind es tatsächlich weniger als 200 Bücher, nicht einmal ein Sandkorn im weiten Ozean des Wissens.
 
-I haven't participated much in JD.com's book sale events these past couple of years. I feel there are fewer and fewer books worth reading. Ultimately, the trouble lies in choosing — picking books I like one by one takes a lot of time, so I slowly add them to my cart and only pay when there's a promotion. A colleague asked me why I buy so many books. I said, "They're cheap! Works out to about ten yuan a book. Even if I don't finish reading them, they can be family heirlooms!"
+In den letzten Jahren habe ich nicht mehr viel an den Buchaktionen von JD.com teilgenommen. Ich habe das Gefühl, es gibt immer weniger lesenswerte Bücher. Letztlich liegt die Mühe in der Auswahl – Bücher, die mir gefallen, einzeln auszusuchen, dauert ewig, also lege ich sie langsam in den Warenkorb und bezahle erst, wenn es eine Aktion gibt. Ein Kollege fragte mich, warum ich so viele Bücher kaufe. Ich sagte: "Die sind billig! Kommen auf etwa zehn Yuan pro Buch. Selbst wenn ich sie nicht alle lese, können sie als Familienerbstücke dienen!"
 
-My inexplicable love for books stems from a childhood with no books to read — just like how grandparents always treasure food. Whatever you lacked back then, you always want to make up for it frantically now. Before the age of ten, I lived in a remote mountain valley with no information flow, no newspapers, and only CCTV Channel 1 on TV. In that survival state, thirsting for knowledge, I dug out my parents' middle school textbooks from a junk pile — leftovers from the 1970s — and read them all. From their biology book I learned about paramecia, tree ferns, dinosaurs, and the origin of species. From the slightly gruesome human anatomy diagrams, I understood that the human body isn't solid — inside, like a pig, there are heart, liver, spleen, and organs. I guessed humans would die too. The math book made no sense to me, so I tore it up to fold "bo" (square paper blocks you slap on the ground — if your "bo" flips the opponent's "bo," you win theirs). The book was full of strange symbols and had a weird tone. Later, thinking back on that math book, the weird tone turned out to be political slogans. When I truly had nothing left to read, I asked Grandma to borrow the *Children's Encyclopedia Newspaper* from the township primary school teacher. I followed the tutorials in the paper to do science crafts. In an article about the mutual conversion of kinetic and electrical energy, I attached fan blades to an electric motor, put it in a field ditch, and made a hydroelectric generator that lit up a diode. Later I demonstrated the principle of electrical energy conversion to my uncle-in-law with this setup — the grandeur was no less than Galileo explaining heliocentrism. I also tried building airplanes — even though I knew that a water-drop-shaped curved wing generates lift, the foam was too light and my craftsmanship too crude, so they never flew far. Eventually I couldn't borrow the *Children's Encyclopedia Newspaper* anymore, and I couldn't make anything fun. If I'd had a set of *Encyclopædia Britannica* or the complete *Twenty-Four Histories* back then, my youth might have been much more colorful.
+Meine unerklärliche Liebe zu Büchern rührt von einer Kindheit ohne Bücher her – genau wie Großeltern immer Essen horten. Was dir damals fehlte, willst du heute wild nachholen. Vor meinem zehnten Lebensjahr lebte ich in einem abgelegenen Bergtal ohne Informationsfluss, ohne Zeitungen, und im Fernsehen gab es nur CCTV Channel 1. In diesem Überlebenszustand, wissensdurstig, grub ich die Mittelschul-Lehrbücher meiner Eltern aus einem Müllhaufen aus – Überbleibsel aus den 1970ern – und las sie alle. Aus ihrem Biologiebuch lernte ich über Pantoffeltierchen, Baumfarne, Dinosaurier und die Entstehung der Arten. Aus den etwas gruseligen Anatomiezeichnern des Menschen verstand ich, dass der menschliche Körper nicht fest ist – drinnen, wie bei einem Schwein, gibt es Herz, Leber, Milz und Organe. Ich vermutete, dass auch Menschen sterben würden. Das Mathebuch ergab für mich keinen Sinn, also riss ich es auseinander, um "Bo" zu falten (quadratische Papierblöcke, die man auf den Boden schlägt – wenn dein "Bo" das des Gegners umdreht, gewinnst du seines). Das Buch war voller seltsamer Symbole und hatte einen komischen Ton. Später, als ich über dieses Mathebuch nachdachte, stellte sich heraus, dass der komische Ton politische Parolen waren. Als ich wirklich nichts mehr zu lesen hatte, bat ich Oma, die *Kinder-Enzyklopädie-Zeitung* vom Lehrer der Grundschule im Dorf auszuleihen. Ich folgte den Anleitungen in der Zeitung, um wissenschaftliche Basteleien zu machen. In einem Artikel über die gegenseitige Umwandlung von kinetischer und elektrischer Energie befestigte ich Ventilatorblätter an einem Elektromotor, stellte ihn in einen Feldgraben und baute ein Wasserkraftwerk, das eine Diode zum Leuchten brachte. Später demonstrierte ich meinem Onkel das Prinzip der elektrischen Energieumwandlung mit diesem Aufbau – die Erhabenheit war nicht geringer als Galileo, der das Heliozentrische System erklärte. Ich versuchte auch, Flugzeuge zu bauen – obwohl ich wusste, dass ein tropfenförmiger, gekrümmter Flügel Auftrieb erzeugt, war der Schaumstoff zu leicht und meine Handwerkskunst zu grob, also flogen sie nie weit. Irgendwann konnte ich die *Kinder-Enzyklopädie-Zeitung* nicht mehr ausleihen, und ich konnte nichts Lustiges mehr bauen. Hätte ich damals eine *Encyclopædia Britannica* oder die kompletten *Vierundzwanzig Geschichten* gehabt, wäre meine Jugend vielleicht viel bunter gewesen.
 
-Children these days no longer have that hunger for knowledge I once had. They're interested in games on the screen — not in LED display technology. Back then, armed with a Phillips head screwdriver, if Grandma hadn't stopped me, the TV would have been taken apart long ago.
+Kinder heute haben diesen Wissensdurst, den ich einst hatte, nicht mehr. Sie interessieren sich für Spiele auf dem Bildschirm – nicht für die LED-Display-Technologie. Damals, bewaffnet mit einem Kreuzschlitzschraubendreher, hätte Oma mich nicht aufgehalten, und der Fernseher wäre längst auseinandergenommen gewesen.
 
 **\n**
 
-**Below is the list of books I've purchased**
+**Unten ist die Liste der Bücher, die ich gekauft habe**
 
-**Economics**
+**Wirtschaft**
 
-Western Economics
+Westliche Wirtschaftslehre
 
-The Snowball
+Der Schneeball
 
-The Yale University Economics Course
+Der Yale-Universitäts-Wirtschaftskurs
 
-The Wealth of Nations
+Der Wohlstand der Nationen
 
-Currency Wars
+Währungskriege
 
-Principles of Economics
+Grundsätze der Volkswirtschaftslehre
 
-**Social Sciences**
+**Sozialwissenschaften**
 
-Freedom at the Highest Point
+Freiheit am höchsten Punkt
 
-The Selfish Gene
+Das egoistische Gen
 
-Games and Society
+Spiele und Gesellschaft
 
-China in a Village
+China in einem Dorf
 
-Rediscovering Society
+Gesellschaft neu entdecken
 
-Class Analysis of Contemporary Chinese Society
+Klassenanalyse der zeitgenössischen chinesischen Gesellschaft
 
-A Short History of Chinese Philosophy
+Eine kurze Geschichte der chinesischen Philosophie
 
-Grand Enterprise: The Founding History of the Qing Dynasty
+Großes Unternehmen: Die Gründungsgeschichte der Qing-Dynastie
 
-Sending a Bullet
+Eine Kugel schicken
 
-1587, a Year of No Significance
+1587, ein Jahr der Bedeutungslosigkeit
 
-Notes on Politics and Law
+Notizen zu Politik und Recht
 
-Democracy Is a Modern Way of Life
+Demokratie ist eine moderne Lebensweise
 
-The Course of Modern China
+Der Verlauf des modernen China
 
-Political Gains and Losses in Modern China
+Politische Gewinne und Verluste im modernen China
 
-Democracy in America
+Demokratie in Amerika
 
-The Theory of Moral Sentiments
+Die Theorie der moralischen Gefühle
 
-A History of Western Philosophy
+Eine Geschichte der westlichen Philosophie
 
-The Second Sex
+Das andere Geschlecht
 
-The Chrysanthemum and the Sword
+Die Chrysantheme und das Schwert
 
 Homo Deus
 
-From Late Qing to the Republic
+Vom späten Qing zur Republik
 
-A Global History
+Eine Weltgeschichte
 
-Guns, Germs, and Steel
+Waffen, Keime und Stahl
 
-The Crowd
+Die Masse
 
-Amusing Ourselves to Death: The Disappearance of Childhood
+Wir amüsieren uns zu Tode: Das Verschwinden der Kindheit
 
-Influence
+Einfluss
 
-Thirty Turbulent Years (Vol. 1)
+Dreißig turbulente Jahre (Band 1)
 
-The Water Level of Ideas
+Der Wasserstand der Ideen
 
-Hidden Rules
+Verborgene Regeln
 
-**Fiction and Literature**
+**Belletristik und Literatur**
 
-The Fountainhead
+Der Ursprung
 
-Atlas Shrugged
+Atlas wirft die Schultern ab
 
-The Muslim's Funeral
+Das Begräbnis des Muslims
 
-White Deer Plain
+Weißer Hirsch-Ebene
 
-1988: I Want to Talk to the World
+1988: Ich will mit der Welt reden
 
 Hamlet
 
 Othello
 
-King Lear
+König Lear
 
-The Merchant of Venice
+Der Kaufmann von Venedig
 
 Macbeth
 
-The Three-Body Problem
+Die Drei-Körper-Problem
 
-All Creatures Great and Small
+Alle großen und kleinen Kreaturen
 
-Ramayana Bridge
+Ramayana-Brücke
 
-City Gate Opens
+Stadttor öffnet sich
 
-A Good Day of One Person
+Ein guter Tag einer Person
 
-The Stranger / The Plague
+Der Fremde / Die Pest
 
-The Alchemist
+Der Alchemist
 
-Buddha on Line One
+Buddha auf Leitung Eins
 
-If on a Winter's Night a Traveler
+Wenn ein Reisender in einer Winternacht
 
-The Razor's Edge
+Die scharfe Kante des Rasiermessers
 
-Romance of the Three Kingdoms
+Die Geschichte der Drei Reiche
 
-Biography of Su Dongpo
+Biographie von Su Dongpo
 
-Kokoro — Natsume Soseki
+Kokoro – Natsume Soseki
 
-The King of Chess, the King of Trees, the King of Children
+Der König der Schach, der König der Bäume, der König der Kinder
 
-Six Lectures on Loneliness
+Sechs Vorlesungen über Einsamkeit
 
-The Storied Life of A.J. Fikry
+Die geschichtete Geschichte von A.J. Fikry
 
-The Four Books and Five Classics
+Die Vier Bücher und Fünf Klassiker
 
-Classic of Mountains and Seas
+Klassiker der Berge und Meere
 
-The Night Boat
+Das Nachtboot
 
-Finest Selections of Ancient Prose
+Feinste Auswahl alter Prosa
 
-Zeng Guofan — Tang Haoming
+Zeng Guofan – Tang Haoming
 
-Complete Commentary on Ice Mirror
+Vollständiger Kommentar zum Eis-Spiegel
 
-A New Account of the Tales of the World
+Eine neue Darstellung der Geschichten aus der Welt
 
 Zizhi Tongjian
 
-Night Ride
+Nachtfahrt
 
-Love in the Revolutionary Era
+Liebe in der revolutionären Ära
 
-My Spiritual Home
+Mein geistiges Zuhause
 
-The Silver Age
+Das silberne Zeitalter
 
-The Golden Age
+Das goldene Zeitalter
 
-Dreams of Splendor of the Eastern Capital
+Träume von der Pracht des östlichen Hauptstadt
 
-Little Window Reminiscences
+Kleine Fenster-Erinnerungen
 
-The Catcher in the Rye
+Der Fänger im Roggen
 
-Love in the Early Summer Lotus Period
+Liebe in der Zeit der frühen Sommerlotus
 
-Lord of the Flies
+Herr der Fliegen
 
-Dream Reminiscences of Tao'an / Seeking West Lake
+Traumerinnerungen von Tao'an / Suche nach dem Westsee
 
-The Myth of Sisyphus
+Der Mythos von Sisyphos
 
-No Longer Human
+Kein Mensch mehr
 
-Three Hundred Tang Poems
+Dreihundert Tang-Gedichte
 
-Odd Rocks
+Seltsame Steine
 
-River Town
+Flussstadt
 
-Notes from the Yuewei Hermitage
+Notizen aus dem Yuewei-Hermitage
 
 Central Park West
 
-A Little Journey in the Airport
+Eine kleine Reise am Flughafen
 
-The Ideal Afternoon
+Der ideale Nachmittag
 
-First Love, Last Rites
+Erste Liebe, letzte Riten
 
-Watching You Go
+Dir beim Gehen zusehen
 
-Tokyo One Year
+Tokio ein Jahr
 
-Six Records of a Floating Life
+Sechs Aufzeichnungen eines fließenden Lebens
 
-Song of Everlasting Sorrow
+Lied der ewigen Trauer
 
-Walking Alone at Ease
+Alleine in Ruhe gehen
 
-The Interpretation of Dreams
+Die Traumdeutung
 
-Works of Bei Dao
+Werke von Bei Dao
 
-Despair — Nabokov
+Verzweiflung – Nabokov
 
-Sketches from a Chinese Studio
+Skizzen aus einem chinesischen Studio
 
-A One-Man Pilgrimage
+Eine Pilgerreise allein
 
-The Design of Everyday Things
+Das Design alltäglicher Dinge
 
-The Beauty of Mathematics
+Die Schönheit der Mathematik
 
-Where Is My Homeland
+Wo ist meine Heimat
 
-The Novels of Xue Tao
+Die Romane von Xue Tao
 
-Master Zhu's Family Instructions
+Meister Zhus Familienanweisungen
 
-40 Studies That Changed Psychology
+40 Studien, die die Psychologie veränderten
 
-Immortality
+Unsterblichkeit
 
-Four Happy Worries About the Nation
+Vier glückliche Sorgen um die Nation
 
 Rich Dad Poor Dad
 
-What the Master Would Not Discuss
+Worüber der Meister nicht sprach
 
-A Pale View of Hills
+Ein blasser Blick auf Hügel
 
 Siddhartha
 
-A Book of Rainy Days
+Ein Buch der Regentage
 
-The Fall of Giants
+Der Fall der Giganten
 
-Without a Fixed Address
+Ohne festen Wohnsitz
 
-Cakes and Ale
+Kuchen und Ale
 
-Of Human Bondage
+Von menschlicher Knechtschaft
 
-Reading Is a Portable Sanctuary
+Lesen ist ein tragbarer Zufluchtsort
 
-The Moon and Sixpence
+Der Mond und sechs Pence
 
-Dubliners
+Dubliner
 
-The Black Book
+Das schwarze Buch
 
-The 13 Buddhist Sutras
+Die 13 buddhistischen Sutras
 
-My Heart Has Only Seven Sorrows
+Mein Herz hat nur sieben Sorgen
 
-The Snows of Kilimanjaro
+Der Schnee des Kilimandscharo
 
-We Three
+Wir drei
 
-The Long Goodbye
+Der lange Abschied
 
-Murder on the Orient Express
+Mord im Orient-Express
 
-Zen and the Art of Motorcycle Maintenance
+Zen und die Kunst der Motorradwartung
 
-The Sound and the Fury
+Der Schall und der Wahn
 
-Meditations
+Selbstbetrachtungen
 
-Strategies of the Warring States
+Strategien der Kriegführenden Staaten
 
-Self-Control Techniques
+Selbstkontrolltechniken
 
-The Unconsoled
+Der Ungetröstete
 
-Xu Sanguan Sells His Blood
+Xu Sanguan verkauft sein Blut
 
-Blindness
+Blindheit
 
-Killing Commendatore
+Töte Commendatore
 
-The Gadfly
+Die Bremse
 
-Plants and Trees of the Human World
+Pflanzen und Bäume der menschlichen Welt
 
-A Year of Living Alone
+Ein Jahr des Alleinlebens
 
-One Person's Village
+Das Dorf einer Person
 
-The Devotion of Suspect X
+Die Hingabe von Verdächtigem X
 
-Journey Under the Midnight Sun
+Reise unter der Mitternachtssonne
 
 Toki
 
-Principles
+Prinzipien
 
-Lost Horizon
+Verlorener Horizont
 
-I Am a Cat
+Ich bin eine Katze
 
-The Buried Giant
+Der begrabene Riese
 
-Dream of the Red Chamber
+Traum der Roten Kammer
 
-I and the Temple of Earth
+Ich und der Tempel der Erde
 
-Great Short Stories
+Große Kurzgeschichten
 
-A Cultural Odyssey
+Eine kulturelle Odyssee
 
-Dune
+Düne
 
-To the Lighthouse
+Zum Leuchtturm
 
-Zhuangzi with Annotations
+Zhuangzi mit Anmerkungen
 
-One Hundred Years of Solitude
+Hundert Jahre Einsamkeit
 
-Love in the Time of Cholera
+Liebe in Zeiten der Cholera
 
 Lolita
 
-Hard-Boiled Wonderland and the End of the World
+Hartgekochtes Wunderland und das Ende der Welt
 
-Finding China
+China finden
 
-Decisive Moments in History
+Entscheidende Momente in der Geschichte
 
-You Can Never Wake Someone Who's Pretending to Sleep
+Du kannst nie jemanden wecken, der so tut, als ob er schläft
 
-**Language**
+**Sprache**
 
-Standard Japanese
+Standard-Japanisch
 
-English Speaking Red Book
+Englisch-Sprech-Rotbuch
 
-This English Grammar Book Is All You Need
+Dieses Englisch-Grammatik-Buch ist alles, was du brauchst
 
-**Programming**
+**Programmierung**
 
-Introduction to Algorithms
+Einführung in Algorithmen
 
-The DOM Scripting Art
+Die DOM-Scripting-Kunst
 
-JavaScript: Advanced Programming
+JavaScript: Fortgeschrittene Programmierung
 
-C Programming
+C-Programmierung
 
-Beginning Python
+Anfänger Python
 
-Python Cookbook
+Python-Kochbuch
 
-Learn PHP in 21 Days
+Lerne PHP in 21 Tagen
 
-Brother Bird's Linux Private Kitchen
+Bruder Vogels Linux-Privatküche

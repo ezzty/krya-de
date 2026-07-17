@@ -1,18 +1,18 @@
 ---
-title: Learning Shuangpin Input Method
+title: Lernen der Shuangpin-Eingabemethode
 pubDate: '2019-06-13'
 author: jin
 draft: false
 categories:
-  - Life
+- Leben
 tags:
-  - Xiaohe Shuangpin
+- Xiaohe Shuangpin
 ---
 
-I've been reading Li Xiaolai's *Make Friends with Time* these past few days, and I'm deeply impressed by his relentless drive for learning. Some of the ideas in the book have also convinced me that I absolutely need to pick up a new skill. Coincidentally, I saw a post on Twitter yesterday saying that Sogou Input Method can have your keystrokes captured in plain text. I showed it to my wife, and she finally agreed to uninstall Sogou from her computer — much to my delight. For five years before we got married, I never used a domestic ad-laden input method. But after marriage, unable to resist my wife's persistent pleading (she works as a translator), I eventually caved and installed Sogou. But she uses Google Translate for word lookups every day, watches cooking shows on YouTube and Netflix — knowing that my own data was being transmitted in plain text was something I couldn't just ignore.
+In den letzten Tagen habe ich Li Xiaolais *Make Friends with Time* gelesen und bin tief beeindruckt von seinem unermüdlichen Drang zu lernen. Einige Ideen in dem Buch haben mich auch davon überzeugt, dass ich unbedingt eine neue Fähigkeit erlernen muss. Zufällig sah ich gestern auf Twitter einen Beitrag, dass die Sogou-Eingabemethode die Tastenanschläge im Klartext erfassen kann. Ich zeigte es meiner Frau, und sie stimmte endlich zu, Sogou von ihrem Computer zu deinstallieren – zu meiner großen Freude. Fünf Jahre vor unserer Heirat habe ich nie eine werbelastige inländische Eingabemethode verwendet. Aber nach der Hochzeit gab ich schließlich dem ständigen Bitten meiner Frau nach (sie arbeitet als Übersetzerin) und installierte Sogou. Doch sie nutzt täglich Google Translate für Wortnachschläge, schaut Kochshows auf YouTube und Netflix – zu wissen, dass meine eigenen Daten im Klartext übertragen wurden, konnte ich einfach nicht ignorieren.
 
-After uninstalling it, the question was: what to use instead? After some research, I decided to try the Shuangpin (double-pinyin) input method and even encouraged my wife to learn it too. She types so many words every day — wouldn't it be wonderful to pick up a skill that doubles her efficiency?
+Nach der Deinstallation stellte sich die Frage: Was stattdessen verwenden? Nach einiger Recherche entschied ich mich, die Shuangpin-Eingabemethode (Doppel-Pinyin) auszuprobieren und ermutigte sogar meine Frau, sie ebenfalls zu lernen. Sie tippt jeden Tag so viele Wörter – wäre es nicht wunderbar, eine Fähigkeit zu erlernen, die ihre Effizienz verdoppelt?
 
-I learned the Xiahe Shuangpin layout in a single day and am now in the painful adaptation phase. I'm hoping that after some practice, I'll fully master it.
+Ich habe das Xiahe-Shuangpin-Layout an einem Tag gelernt und bin jetzt in der schmerzhaften Anpassungsphase. Ich hoffe, dass ich es nach etwas Übung vollständig beherrsche.
 
-As for my wife, she's unwilling to learn — she thinks it takes too much time. But once you've learned it, you save significant typing time every single day. Life is long, and all those saved hours add up to roughly an extra year.
+Was meine Frau betrifft, sie will nicht lernen – sie denkt, es nimmt zu viel Zeit in Anspruch. Aber wenn man es einmal gelernt hat, spart man jeden Tag erheblich Tippzeit. Das Leben ist lang, und all diese eingesparten Stunden summieren sich zu ungefähr einem zusätzlichen Jahr.
