@@ -1,5 +1,5 @@
 ---
-title: Cross-Border-Aktienhandel wird abgestraft – ich muss durchhalten
+title: "Cross-Border-Aktienhandel wird abgestraft – ich muss durchhalten"
 pubDate: '2026-05-23'
 author: jin
 draft: false

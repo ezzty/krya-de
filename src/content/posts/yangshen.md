@@ -1,5 +1,5 @@
 ---
-title: Der Größte der Drei Großen Gelehrten der Ming-Dynastie — Yang Shen
+title: "Der Größte der Drei Großen Gelehrten der Ming-Dynastie — Yang Shen"
 pubDate: '2015-08-29'
 author: jin
 draft: false

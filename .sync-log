@@ -1,0 +1,4 @@
+[2026-07-20] sync: translate from krya (de)
+- Missing posts: 0
+- Tag drift: watch-netflix fixed (2→4 tags, added "Netflix über VPN", "Netflix Zugang China")
+- Commit: d3d9416
