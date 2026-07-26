@@ -1,5 +1,6 @@
 ---
 title: Aufrüstung meiner Desktop-Hardware
+description: "Kürzlich habe ich Vibe Coding entdeckt und versucht, das qwen2.5vl:3b Modell auf meiner GTX 1650 unter Windows zu betreiben – 720p-Bilder brauchen mehr VRAM als erwartet."
 pubDate: '2026-05-08'
 author: jin
 draft: false

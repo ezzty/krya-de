@@ -1,5 +1,6 @@
 ---
 title: "Cross-Border-Aktienhandel wird abgestraft – ich muss durchhalten"
+description: "Aktienkauf über lokale Hongkong-Banken ist überhaupt nicht betroffen. Die Politik hat keine Einschränkungen für den Bankkanal gesetzt. Zum Beispiel bietet die HSBC Trade25 für 25 HKD monatlich ein kostenloses Handelslimit von 250.000 HKD."
 pubDate: '2026-05-23'
 author: jin
 draft: false
