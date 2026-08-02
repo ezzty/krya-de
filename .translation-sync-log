@@ -1,0 +1,15 @@
+# krya-de sync log — 2026-07-28
+
+## Audit results
+- 116 posts in krya, 116 posts in krya-de — no missing files
+- All categories correctly mapped (Reisen/Leben/Technik/Finanzen/Arbeit/Lesen)
+- No untranslated Chinese body text (>10 chars) in any de post
+- Body length ratio ~3-4x (de longer than zh) — expected for CJK→German translation
+
+## Fixes applied
+1. **buybooks.md**: Quoted title with apostrophe → `"Der Ursprung von 'Bücher kaufen wie ein Erdrutsch"`
+2. **xi-an.md**: Quoted title with apostrophe → `"Xi'an"`
+
+## Commit
+- `80f9ace` — fix: quote YAML titles with apostrophes (buybooks, xi-an)
+- Pushed to origin/main

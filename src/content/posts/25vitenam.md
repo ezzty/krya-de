@@ -11,7 +11,7 @@ tags:
 - Xishuangbanna Reise
 ---
 
-![ddf-1.avif](https://user0102.cn.imgto.link/public/20260422/ddf-1.avif)
+![image](https://i.190808.xyz/img/m/20260608/974ffb.jpg)
 
 Im August war es in Chengdu brütend heiß – der Boden schien vor Hitze zu flirren, und draußen zu sein fühlte sich an wie Askese. Nachdem mein Kind den Kindergarten abgeschlossen hatte, saß sie den ganzen Tag zu Hause fest. Immer wenn sie sich langweilte, fragte sie mich: „Papa, was kann ich noch spielen?“
 
@@ -38,7 +38,7 @@ Die nächsten Tage blieben wir in Dongxing. Wir waren bereits an der Landesgrenz
 
 Ich dachte, das Kind wäre zumindest ein bisschen neugierig, ein neues Land zu erkunden. Aber nach einem zehnminütigen City Walk durch Mong Cai langweilte es sich und fragte, wann wir zurück nach Dongxing fahren – es wollte am Strand spielen. Für diese kurze Mong Cai-Etappe versuchte ich schnell, das Bild von Vietnam in ihr zu prägen: die allgegenwärtigen einsamen roten Flaggen, hohe und schmale Häuser, bunt bemalte Wandbilder, Straßen voller ohrenbetäubender Motorräder, vietnamesischer Drip-Kaffee, konische Hüte und sogar chinesische Pfeilschwanzkrebse (eine geschützte Art in China), die auf dem Markt geschlachtet wurden.
 
-![7-31.jpg](https://images.190808.xyz/typecho/2025/10/25/7-31.jpg)
+![7-31.jpg](https://i.190808.xyz/typecho/2025/10/25/7-31.jpg)
 
 Mittags kehrten wir nach Dongxing zurück und fuhren zum Wanwei Golden Beach. Gerade als wir ankamen, ging die Sonne unter. Der goldene Strand im Abendrot erfüllte jede Vorstellung, die wir vom Meer hatten. Wellen umspülten den außergewöhnlich langen Sandstrand, Fischerboote tuckerten gemächlich in den Hafen, und die ferne Sonnenuntergangsglut warf blendend goldene Ränder durch dunkle Wolken am Horizont. Es war so schön, dass wir beschlossen, einfach am Golden Beach zu bleiben.
 

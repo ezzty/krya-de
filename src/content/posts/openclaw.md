@@ -11,7 +11,7 @@ tags:
 - OpenClaw Fähigkeiten
 ---
 
-![openclaw-banner.avif](https://user0102.cn.imgto.link/public/20260422/openclaw-banner.avif)
+![image](https://i.190808.xyz/img/m/20260608/cb8b91.jpg)
 
 Als jemand, der im traditionellen B2C-E-Commerce arbeitet, bin ich weder ein professioneller Programmierer noch habe ich einen technischen Hintergrund. Vorher beschränkte sich mein Verständnis von KI auf „smarte Lautsprecher" und „Sprachassistenten im Handy". Aber als Technik-Enthusiast wollte ich natürlich das angesagte OpenClaw ausprobieren, als ich davon hörte.
 

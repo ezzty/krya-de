@@ -12,7 +12,7 @@ tags:
 - Migration
 ---
 
-![as-3.avif](https://user0102.cn.imgto.link/public/20260422/as-3.avif)
+![image](https://i.190808.xyz/img/m/20260608/c9f896.jpg)
 
 Bei dynamischen Blogs hatte ich immer Sorge, den Server zu vergessen oder bei Programm-Updates auf Probleme zu stoßen. Als ich statische Blogs entdeckte, wurde mir klar: Das ist die ideale Lösung. Nachdem ich Hugo, Hexo und Astro verglichen hatte, entschied ich mich letztlich für Astro.
 

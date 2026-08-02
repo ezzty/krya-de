@@ -11,7 +11,7 @@ tags:
 - Xiaomi Wachstum
 ---
 
-![wj-2.avif](https://user0102.cn.imgto.link/public/20260422/wj-2.avif)
+![image](https://i.190808.xyz/img/m/20260608/06a042.jpg)
 
 Im Februar 2025 eröffnete ich in Hongkong ein Bank- und Aktienkonto und begann, Xiaomi-Aktien zu kaufen. Seitdem habe ich mehrere tausend Aktien angesammelt und plane, meine Position nach und nach aufzustocken – langfristig strebe ich 10.000 Aktien an.
 

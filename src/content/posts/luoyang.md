@@ -18,7 +18,7 @@ Roadtrips haben genau einen echten Vorteil gegenüber Zugreisen: Freiheit. Anhal
 
 In den letzten Jahren waren unsere Reisen auf Gebiete südlich von Sichuan beschränkt. Der nördlichste Punkt, den wir erreicht hatten, war Xi'an – wir hatten andere Teile des Nordens nicht wirklich erkundet. Deshalb wollte ich schon immer die weite Nordchinesische Ebene erleben und die nördliche Atmosphäre aufsaugen.
 
-![5.avif](https://user0102.cn.imgto.link/public/20260422/5-1.avif)
+![image](https://i.190808.xyz/img/m/20260608/68c6b7.png)
 ![4.jpg](https://i.190808.xyz/typecho/2026/04/07/4.jpg)
 
 > 📷 Terrakotta-Armee von Qin Shihuang

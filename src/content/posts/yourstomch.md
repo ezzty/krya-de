@@ -9,7 +9,7 @@ author: jin
 draft: false
 ---
 
-![ms-1.avif](https://user0102.cn.imgto.link/public/20260422/ms-1.avif)
+![image](https://i.190808.xyz/img/m/20260714/5b01cd.jpg)
 
 **01. Die Ernährungsmuster, die Geld nicht überdecken kann**
 

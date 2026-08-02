@@ -164,4 +164,16 @@ Die Rückfahrt führte über Landstraßen, aber sie waren immer noch breit genug
 
 Hinter Xiahe war die Landschaft nur noch welliges Grasland und Weiden. Die Straße blieb offen, aber die Geschwindigkeitsbegrenzung betrug 60 km/h, also fuhren wir langsam. Zhang Erwa war von der eintönigen Landschaft hypnotisiert. Wir hatten die heruntergeladenen Lieder und Cross-Talk-Vorführungen bereits zweimal gehört; sie waren jetzt stummgeschaltet. Aus Langeweile konnte ich nicht anders, als über einige Dinge aus der Vergangenheit nachzudenken, und meine Stimmung sank. Ich fuhr ran, sagte Zhang Erwa, er solle aussteigen und eine rauchen, schloss die Autotür und ging tief ins Grasland hinein.
 
-Ein kleiner Bach schlängelte sich durch das Grasland, sein Wasser trüb. Ein einsames Yak stand weiter oben trink
+Ein kleiner Bach schlängelte sich durch das Grasland, sein Wasser trüb. Ein einsames Yak stand weiter oben trinkend am Ufer. In der Ferne wehten Gebetsfahnen im Wind, bedeckt mit heiligen Schriften – jeder Windstoß gleich einem Gebet. Ich wollte meine Stimmung auch auf eine Gebetsfahne schreiben.
+![image](https://i.190808.xyz/bim2019/10/09/790901085992593.jpg)
+Abb. 8: Die Straße von Xining nach Ruoergai
+
+**Rückfahrt**
+
+Auf dem Rückweg lagten wir die Kurven des Gelben Flusses bei Luqu hinter uns, die Blumenwiesen von Ruoergai und das Kloster Langmusi – alles links liegen. Auf einer Etappe zog ein leichter Regen vorbei, der Himmel klonte augenblicklich auf, und ein Regenbogen spannte sich über das Grasland. Ich stieg aus, machte ein paar Fotos – das Auto stand genau unter dem Regenbogen. Über ihm türmten sich dunkle Wolken wie einungeheures Tier, das heranrollte. Ruoergai war ein kleines Örtchen ohne Reiz – nur Yaksuppe, genauso gut wie in Chengdu. Am nächsten Tag fuhren wir um 10 Uhr los und kamen um 20 Uhr in Chengdu an. Die Reise war zu Ende.
+![image](https://i.190808.xyz/bim2019/10/09/838022957973768.jpg)
+Abb. 9: Die rollenden Wolken nahe den neun Windungen des Gelben Flusses
+
+Ich muss zugeben: Das schönste Stück der Reise war unterwegs. Die Pracht des Wassers, die Dramatik der Berge, die Tiefe des Himmels, die Weite des Graslands – wenn die Wolken zusammenzogen, war es atemberaubend; wenn die Stimmung sank, fühlte ich mich wie ein obdachloser Hund. Ich nahm alles wahr.
+
+*Zen und die Kunst ein Motorrad zu warten* besagt, dass ein Auto nicht das beste Fortbewegungsmittel für eine Roadtrip ist – hinter verschlossenen Fenstern spürt man weder Wind noch Regen noch Temperatur. Ich hoffe, in einigen Jahren noch einmal mit dem Motorrad nach Qinghai Lake zu fahren.

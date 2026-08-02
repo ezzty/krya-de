@@ -61,7 +61,7 @@ Mainstream-Kino braucht Unterhaltungswert. Auch wenn dieser Film Guy Ritchies Fo
 
 8. *Das Streben nach Glück*
 
-[![](https://images.190808.xyz/bim2019/10/09/215603935220704.jpg?x-oss-process=style/826px)](https://movie.douban.com/subject/1849031/)
+[![](https://i.190808.xyz/bim2019/10/09/215603935220704.jpg)](https://movie.douban.com/subject/1849031/)
 
 Ein unaufdringlicher Film über das Glück, mit Will Smith an der Seite seines echten Sohnes.
 

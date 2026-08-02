@@ -20,7 +20,7 @@ Um das Problem zu lösen, habe ich mir eine „Toolbox“-Seite gebaut, die alle
 
 Die Geschichte beginnt mit einem Bildhosting-Dienst.
 
-![948.avif](https://user0102.cn.imgto.link/public/20260429/948.avif)
+![image](https://i.190808.xyz/img/m/20260608/bd7522.png)
 
 ### Der Anfang: Bildhosting
 

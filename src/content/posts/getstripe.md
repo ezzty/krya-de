@@ -11,7 +11,7 @@ tags:
 - Stripe-Zahlungen
 ---
 
-![homepage.avif](https://user0102.cn.imgto.link/public/20260422/homepage.avif)
+![image](https://i.190808.xyz/img/m/20260608/e1a749.webp)
 
 Wenn du Apps für Überseemärkte entwickelst, Tool-Websites oder Abonnementdienste betreibst und weltweit Zahlungen akzeptieren musst, haben wir früher auf PayPal, Wise, WorldFirst und ähnliche Dienste gesetzt. Aber heutzutage ist die einfachste und vielseitigste Option für verschiedene Szenarien wohl Stripe. Dieses in den USA gegründete integrierte Zahlungsplattform bedient Entwickler und Händler weltweit, akzeptiert internationale Kreditkarten wie Visa und Mastercard sowie Apple Pay. Die Auszahlungsgebühren sind transparent, und sowohl API-Integration als auch Zahlungslinks werden unterstützt. Eine Registrierung vom chinesischen Festland aus ist zwar nicht möglich, aber mit einem Hongkonger Bankkonto ist es unkompliziert. Ich habe persönlich getestet, ein Einzelkonto mit einem chinesischen Festlandspass und einer ZA Bank (Hongkong)-Karte zu registrieren – es lief reibungslos.
 
