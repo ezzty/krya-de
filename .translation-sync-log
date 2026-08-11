@@ -13,3 +13,13 @@
 ## Commit
 - `80f9ace` — fix: quote YAML titles with apostrophes (buybooks, xi-an)
 - Pushed to origin/main
+
+=== 2026-08-02 sync ===
+Source: krya → krya-de
+Changes:
+- Updated 10 posts with CDN image URL migration (user0102.cn.imgto.link → i.190808.xyz)
+  Files: 25vitenam, astro-sintu-theme, getstripe, goodmovie, luoyang, openclaw, tools, xiaomi, yourstomch
+- Fixed images.190808.xyz → i.190808.xyz in 25vitenam.md (7-31.jpg)
+- Completed truncated qinghai.md: translated missing ~12 lines (Rückfahrt section, 2 images, closing reflection)
+- Rebuilt BM25 search index (116 posts, 13434 terms)
+- Commit: e0d265e, pushed to main
