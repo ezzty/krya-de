@@ -5,7 +5,7 @@ export default defineConfig({
   site: 'https://de.krya.com',
   output: 'static',
   trailingSlash: 'always',
-  compressHTML: true,
+  compressHTML: 'jsx',
   markdown: {
     shikiConfig: { theme: 'dark-plus' },
   },
