@@ -1,5 +1,5 @@
 ---
-title: 'Thailand 2024: Zu glücklich, um an Zuhause zu denken'
+title: "🇹🇭 Thailand 2024: Zu glücklich, um an Zuhause zu denken"
 pubDate: '2024-10-14'
 author: jin
 draft: false

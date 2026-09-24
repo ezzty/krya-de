@@ -1,5 +1,5 @@
 ---
-title: "Meine elektronische Heimat – Hongkong"
+title: "🇭🇰 Meine elektronische Heimat – Hongkong (2025)"
 pubDate: '2025-03-01'
 author: jin
 draft: false

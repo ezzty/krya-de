@@ -1,5 +1,5 @@
 ---
-title: Vietnam-Reisetagebuch 2014
+title: "🇻🇳 Vietnam-Reisetagebuch 2014"
 pubDate: '2014-03-01'
 author: jin
 draft: false

@@ -16,7 +16,8 @@ Meine unerklärliche Liebe zu Büchern rührt von einer Kindheit ohne Bücher he
 
 Kinder heute haben diesen Wissensdurst, den ich einst hatte, nicht mehr. Sie interessieren sich für Spiele auf dem Bildschirm – nicht für die LED-Display-Technologie. Damals, bewaffnet mit einem Kreuzschlitzschraubendreher, hätte Oma mich nicht aufgehalten, und der Fernseher wäre längst auseinandergenommen gewesen.
 
-**\n**
+**
+**
 
 **Unten ist die Liste der Bücher, die ich gekauft habe**
 

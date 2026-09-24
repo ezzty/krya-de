@@ -1,5 +1,5 @@
 ---
-title: Frühlingsferien-Roadtrip nach Luoyang
+title: "Roadtrip Xi'an–Luoyang–Xiangyang (2026)"
 pubDate: '2026-04-08'
 author: jin
 draft: false

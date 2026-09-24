@@ -1,5 +1,5 @@
 ---
-title: "Sommerurlaub 2026: Selbstfahrt nach Qingdao und Weihai"
+title: "Sommerurlaub 2026: Selbstfahrt nach Qingdao und Weihai (2026)"
 description: "Diese Reise scheint eine Fortsetzung der April-Reise nach Luoyang zu sein, die direkt nach Shandong Qingdao führt. Wir haben die meiste Zeit am Meer verbracht, am Strand gespielt, im Sand gegraben – in etwas mehr als 10 Tagen war es schnell vorbei. Von Chengdu aus, 14 Tage unterwegs, Gesamtstrecke 4902 km. Qingdao wirkt auf mich besonders groß, mit vielen kulturellen Sehenswürdigkeiten, fast wie die tatsächliche Provinzhauptstadt von Shandong, die viele Funktionen übernimmt; Weihai ist eine ruhige Küstenstadt mit schöner Küstenlinie, ruhigen Stränden und reichhaltigen Naturlandschaften."
 pubDate: 2026-08-11
 heroImage: ""
@@ -41,7 +41,7 @@ Am nächsten Abend übernachteten wir in einer kleinen Kreisstadt namens Nanle. 
 
 Auf Reisen suche ich besonders gern nach kleinen Kreisstädten mit wenigen Touristen zum Übernachten. Denn in jeder Großstadt stehe ich vor der Qual der Wahl: Ist das Hotel preislich in Ordnung? Wie weit ist es von der Autobahn entfernt, gibt es Staus? All das muss man bedenken. In einer kleinen Kreisstadt entfallen diese Sorgen; die Lage ist zwar zentral, das Hotel mittel bis gehoben; am Ziel angekommen, erst einmal eine gute Mahlzeit, dann in ein bequemes Bett fallen – die Müdigkeit des Tages ist wie weggeblasen.
 
-Am dritten Nachmittag erreichten wir endlich Qingdao. Wegen des Autos haben wir nicht im teuren Stadtzentrum übernachtet, sondern in Huangdao mit besserem Strand. Das Kind wollte schließlich nur ans Meer, während wir Erwachsenen uns für kulturelle Sehenswürdigkeiten interessierten. Als wir jedoch mit dem Auto zum Wusi-Platz fuhren, stellte sich heraus, dass der Verkehr in Qingdao genauso verwirrend verschlungen ist wie in Chongqing – mir wurde ganz schwindlig. In Qingdao haben wir den Signalberg, den Wusi-Platz, das Olympische Segelzentrum, verschiedene Strände und den Laoshan besucht.
+Am dritten Nachmittag erreichten wir endlich Qingdao. Wegen des Autos haben wir nicht im teuren Stadtzentrum übernachtet, sondern in Huangdao mit besserem Strand. Das Kind wollte schließlich nur ans Meer, während wir Erwachsenen uns für kulturelle Sehenswürdigkeiten interessierten. Als wir jedoch mit dem Auto zum Wusi-Platz fuhren, stellte sich heraus, dass der Verkehr in Qingdao genauso verwirrend verschlungen ist wie in Chongqing – mir wurde ganz schwindlig. Später waren wir noch am Signalberg, im Qingdao-Bierfest-Museum, in der Unterwasserwelt, im Olympischen Segelzentrum, auf dem Taidong-Nachtmarkt, am Laoshan und an diversen Stränden.
 
 ![w950](https://i.190808.xyz/img/m/20260810/0822c0.jpg?x-oss-process=style/w950)
 
@@ -79,7 +79,13 @@ Qingdao wirkt auf mich besonders groß, mit vielen kulturellen Sehenswürdigkeit
 
 Wir sind auch einmal nach Rongcheng gefahren. Allerdings hatte ich bei der Planung einen Fehler gemacht und nur eine Nacht dort geschlafen; selbst das Muschelsammeln am Strand misslang, weil ich die Gezeiten nicht kannte – um fünf Uhr früh, als es gerade hell wurde, sind wir los, und es war umsonst. Das Kind war trotzdem begeistert, denn im Strandresort stießen wir auf ein besonders lustiges Hotel. Es ist eine Loft-Konstruktion mit zwei Etagen; in einem Zimmer stehen zwei 1,80 m große Betten übereinander. Das Kind hatte noch nie in so einem Hotel gewohnt und bestand darauf, allein das obere Bett zu belegen und nicht mit Mama zu schlafen; wir taten sehr bedauernd, innerlich aber hatten wir längst verstanden – Kinder, die wissen schließlich noch nichts.
 
-Nach Qingdao und Weihai waren wir bereits zehn Tage unterwegs; scheinbar waren nur ich und das Kind noch nicht genug, die anderen waren etwas überdrüssig; also planten wir die Rückreise. Ursprünglich wollte ich noch nach Lianyungang zum Huaguoshan und dann nach Xuzhou, aber angesichts der Stimmung der anderen habe ich keine weiteren Umwege gemacht und bin nur über Qufu, Kaifeng und Xuchang sowie Ankang zurück nach Chengdu. Unterwegs besuchten wir den Konfuziustempel in Qufu, den Garten am Fluss Qingming in Kaifeng sowie den Pangdonglai in Xuchang.
+Nach Qingdao und Weihai waren wir bereits zehn Tage unterwegs; scheinbar waren nur ich und das Kind noch nicht genug, die anderen waren etwas überdrüssig; also planten wir die Rückreise. Ursprünglich wollte ich noch nach Lianyungang zum Huaguoshan und dann nach Xuzhou, aber angesichts der Stimmung der anderen habe ich keine weiteren Umwege gemacht und bin nur über Qufu, Kaifeng und Xuchang sowie Ankang zurück nach Chengdu.
+
+Auf dem Rückweg kamen wir durch Qufu und spazierten durch den Konfuzius-Tempel; die Preise in der kleinen Kreisstadt machten mich erstaunt: Für 200 Yuan bestellt man einen Tisch voller Gerichte, zu fünft schaffen wir das nicht. Morgens kaufte ich an der Straße einen Gemüse-Pancake für acht Yuan – zwei dünne Pfannkuchen mit viel Gemüse dazwischen, das wirkt sehr gesund. Dazu kleine Tomaten für 9,9 Yuan pro Beutel, gut drei Kilo – bis Chengdu hatten wir sie nicht aufgebracht.
+
+![w950](https://i.190808.xyz/img/m/20260810/22faff.jpg?x-oss-process=style/w950)
+
+Den Qingming-Shanghe-Park in Kaifeng haben wir am Abend besucht – überall Menschen, was eigentlich ganz dem Wesen von Zhang Zedans Gemälde entspricht. Die Lichtinszenierung war wunderschön, es gab viele Aufführungen; doch als das Kind beim Kinderbereich stand, war Schluss mit gehen. Wir haben sie dort begleitet, bis der Park schloss – im Endeffekt haben wir Erwachsenen einige hundert Yuan ausgegeben, um mit dem Kind eine Nacht lang durchzudrehen.
 
 ![w950](https://i.190808.xyz/img/m/20260810/1c26ed.jpg?x-oss-process=style/w950)
 
@@ -89,4 +95,4 @@ Nach Qingdao und Weihai waren wir bereits zehn Tage unterwegs; scheinbar waren n
 
 ![w950](https://i.190808.xyz/img/m/20260810/2bef3f.jpg?x-oss-process=style/w950)
 
-![w950](https://i.190808.xyz/img/m/20260810/22faff.jpg?x-oss-process=style/w950)
+Das klassische geschmorte Rindfleisch von Pangdonglai – einfach zugreifen! Beim letzten Mal habe ich ein Stück gekauft und es an einem halben Tag aufgegessen; diesmal habe ich zwei Stücke genommen, und um sie von Xuchang nach Chengdu mitzubringen, habe ich zusätzlich eine Styroporbox und Kühlpakete besorgt, damit sie den ganzen Weg frisch blieben. Auch die Backwaren von Pangdonglai sind köstlich, sie halten allerdings nur sehr kurz – schade, dass man sie nicht mitbestellen kann.

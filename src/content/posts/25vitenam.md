@@ -1,5 +1,5 @@
 ---
-title: 2025 Vietnam-Guangxi-Yunnan Roadtrip
+title: "🇻🇳 2025 Vietnam-Guangxi-Yunnan Roadtrip"
 pubDate: '2025-10-26'
 author: jin
 draft: false
