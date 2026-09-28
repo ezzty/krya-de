@@ -56,4 +56,4 @@ Dieses Astro-Einspalter-Vorlagen-Theme habe ich selbst designt und gebaut. Vor K
 
 Dieses Theme ist Open Source. Wenn es dir gefällt, kannst du den Autor auch unterstützen:
 
-[https://github.com/ezzty/krya-en](https://github.com/ezzty/krya-en)
+[https://github.com/ezzty/astro-sintu-theme](https://github.com/ezzty/astro-sintu-theme)

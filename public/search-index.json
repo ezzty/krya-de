@@ -621,8 +621,8 @@
       "title": "So stellst du einen statischen Blog mit Astro kostenlos online",
       "date": "",
       "excerpt": "Bei dynamischen Blogs hatte ich immer Sorge, den Server zu vergessen oder bei Programm-Updates auf Probleme zu stoßen. Als ich statische Blogs entdeckte, wurde mir klar: Das ist die ideale Lösung. Nac...",
-      "content": "\n\nBei dynamischen Blogs hatte ich immer Sorge, den Server zu vergessen oder bei Programm-Updates auf Probleme zu stoßen. Als ich statische Blogs entdeckte, wurde mir klar: Das ist die ideale Lösung. Nachdem ich Hugo, Hexo und Astro verglichen hatte, entschied ich mich letztlich für Astro.\n\n### Vorteile statischer Blogs\n\n1. **Kostenloses Hosting** – Abgesehen von der Domain bieten große Tech-Konzerne Einzelentwicklern kostenloses Hosting an.\n2. **Null Wartung** – Die Artikel liegen auf deinem eigenen Rechner. Solange die Hosting-Plattform nicht eingestellt wird, läuft dein Blog für immer.\n3. **Vorgerendert** – Statische Blogs erzeugen vor dem Deployment reine HTML/CSS/JS-Dateien – kein Backend nötig.\n4. **CDN-kompatibel** – Da alles statische Dateien sind, verteilst du sie auf globale Edge-Knoten, sodass Nutzer weltweit millisekundenschnell laden.\n\n### Warum Astro?\n\n1. **Static-First** – Erzeugt reine HTML-Dateien, keine Datenbank oder Server erforderlich.\n2. **Hervorragende Performance** – Standardmäßig null JavaScript, extrem schnelles Laden.\n3. **Hohe Flexibilität** – Unterstützt Markdown, MDX und gemischte Frameworks.\n4. **Aktives Ökosystem** – Lebendige Community, umfassende Dokumentation, reichhaltige Plugin-Bibliothek.\n\n### Das Sintu-Einspalter-Theme für Astro\n\nDieses Astro-Einspalter-Vorlagen-Theme habe ich selbst designt und gebaut. Vor Kurzem habe ich es von Typecho nach Astro migrieren lassen – Hermes hat das übernommen. Bei der Migration habe ich einige Funktionen aufgewertet, und der Code ist jetzt um ein Drittel schlanker als zuvor. Ich nutze die Gelegenheit, um anzumerken: Die Verbreitung von KI hat früher komplexe Aufgaben enorm vereinfacht – die Entwicklungsgeschwindigkeit war fast göttlich, die Codequalität nahezu perfekt, und sie bringt mich unendlich nah an das Niveau eines genialen Programmierers heran 😂.\n\n#### Funktionshighlights\n\n1. **Perfekte Performance** – Millisekunden-Ladezeit, Google Lighthouse erreicht auf Mobilgeräten und Desktop jeweils 100 Punkte.\n2. **Dark Mode** – Neben dem Logo habe ich einen Schalter für den Dark Mode eingebaut.\n3. **Thumbnail-Hover-Zoom** – Neben dem Vergrößern führt ein Klick auf das Bild zur Artikelseite.\n4. **Keine Vorschaubilder auf Mobilgeräten** – Steuert den Ressourcen-Ladeprozess je nach Bildschirmgröße, spart Bandbreite.\n5. **Aliyun OSS-Bildverarbeitung** – Bilder werden über OSS verarbeitet, Parameter werden nach dem HTML-Rendering hinzugefügt, spart Bandbreite.\n6. **Performance-Optimierung** – CSS wird über Vite gebündelt, Bilder mit Lazy Loading.\n7. **Responsive Design** – Perfekte Anpassung an Desktop und Mobilgeräte mit einem einheitlichen Grid-System.\n8. **Kommentarfeld** – Integriert über die offizielle Twikoo-Lösung.\n\n### Veröffentlichungs-Workflow\n\n1. Schreibe deinen Markdown-Artikel lokal.\n2. Sende eine Nachricht an den Hermes-Agenten, um ins GitHub-Repository zu pushen (oder pushe selbst über GitHub).\n3. Tencent EdgeOne, Vercel, Netlify oder Cloudflare Pages ziehen das Update automatisch und bauen es.\n4. Automatisch auf globale CDN-Knoten deployed.\n\n### Open Source\n\nDieses Theme ist Open Source. Wenn es dir gefällt, kannst du den Autor auch unterstützen:\n\n[https://github.com/ezzty/krya-en](https://github.com/ezzty/krya-en)\n",
-      "wordCount": 458
+      "content": "\n\nBei dynamischen Blogs hatte ich immer Sorge, den Server zu vergessen oder bei Programm-Updates auf Probleme zu stoßen. Als ich statische Blogs entdeckte, wurde mir klar: Das ist die ideale Lösung. Nachdem ich Hugo, Hexo und Astro verglichen hatte, entschied ich mich letztlich für Astro.\n\n### Vorteile statischer Blogs\n\n1. **Kostenloses Hosting** – Abgesehen von der Domain bieten große Tech-Konzerne Einzelentwicklern kostenloses Hosting an.\n2. **Null Wartung** – Die Artikel liegen auf deinem eigenen Rechner. Solange die Hosting-Plattform nicht eingestellt wird, läuft dein Blog für immer.\n3. **Vorgerendert** – Statische Blogs erzeugen vor dem Deployment reine HTML/CSS/JS-Dateien – kein Backend nötig.\n4. **CDN-kompatibel** – Da alles statische Dateien sind, verteilst du sie auf globale Edge-Knoten, sodass Nutzer weltweit millisekundenschnell laden.\n\n### Warum Astro?\n\n1. **Static-First** – Erzeugt reine HTML-Dateien, keine Datenbank oder Server erforderlich.\n2. **Hervorragende Performance** – Standardmäßig null JavaScript, extrem schnelles Laden.\n3. **Hohe Flexibilität** – Unterstützt Markdown, MDX und gemischte Frameworks.\n4. **Aktives Ökosystem** – Lebendige Community, umfassende Dokumentation, reichhaltige Plugin-Bibliothek.\n\n### Das Sintu-Einspalter-Theme für Astro\n\nDieses Astro-Einspalter-Vorlagen-Theme habe ich selbst designt und gebaut. Vor Kurzem habe ich es von Typecho nach Astro migrieren lassen – Hermes hat das übernommen. Bei der Migration habe ich einige Funktionen aufgewertet, und der Code ist jetzt um ein Drittel schlanker als zuvor. Ich nutze die Gelegenheit, um anzumerken: Die Verbreitung von KI hat früher komplexe Aufgaben enorm vereinfacht – die Entwicklungsgeschwindigkeit war fast göttlich, die Codequalität nahezu perfekt, und sie bringt mich unendlich nah an das Niveau eines genialen Programmierers heran 😂.\n\n#### Funktionshighlights\n\n1. **Perfekte Performance** – Millisekunden-Ladezeit, Google Lighthouse erreicht auf Mobilgeräten und Desktop jeweils 100 Punkte.\n2. **Dark Mode** – Neben dem Logo habe ich einen Schalter für den Dark Mode eingebaut.\n3. **Thumbnail-Hover-Zoom** – Neben dem Vergrößern führt ein Klick auf das Bild zur Artikelseite.\n4. **Keine Vorschaubilder auf Mobilgeräten** – Steuert den Ressourcen-Ladeprozess je nach Bildschirmgröße, spart Bandbreite.\n5. **Aliyun OSS-Bildverarbeitung** – Bilder werden über OSS verarbeitet, Parameter werden nach dem HTML-Rendering hinzugefügt, spart Bandbreite.\n6. **Performance-Optimierung** – CSS wird über Vite gebündelt, Bilder mit Lazy Loading.\n7. **Responsive Design** – Perfekte Anpassung an Desktop und Mobilgeräte mit einem einheitlichen Grid-System.\n8. **Kommentarfeld** – Integriert über die offizielle Twikoo-Lösung.\n\n### Veröffentlichungs-Workflow\n\n1. Schreibe deinen Markdown-Artikel lokal.\n2. Sende eine Nachricht an den Hermes-Agenten, um ins GitHub-Repository zu pushen (oder pushe selbst über GitHub).\n3. Tencent EdgeOne, Vercel, Netlify oder Cloudflare Pages ziehen das Update automatisch und bauen es.\n4. Automatisch auf globale CDN-Knoten deployed.\n\n### Open Source\n\nDieses Theme ist Open Source. Wenn es dir gefällt, kannst du den Autor auch unterstützen:\n\n[https://github.com/ezzty/astro-sintu-theme](https://github.com/ezzty/astro-sintu-theme)\n",
+      "wordCount": 460
     },
     {
       "slug": "bill2024",
@@ -30655,7 +30655,7 @@
         "auf": 7,
         "probleme": 1,
         "sto": 1,
-        "en": 3,
+        "en": 1,
         "als": 2,
         "statische": 3,
         "entdeckte": 1,
@@ -30672,7 +30672,7 @@
         "hugo": 1,
         "hexo": 1,
         "und": 8,
-        "astro": 6,
+        "astro": 8,
         "verglichen": 1,
         "entschied": 1,
         "mich": 2,
@@ -30770,9 +30770,9 @@
         "reichhaltige": 1,
         "plugin": 1,
         "bibliothek": 1,
-        "sintu": 1,
+        "sintu": 3,
         "einspalter": 2,
-        "theme": 3,
+        "theme": 5,
         "dieses": 2,
         "vorlagen": 1,
         "habe": 4,
@@ -30930,8 +30930,7 @@
         "auch": 1,
         "tzen": 1,
         "com": 2,
-        "ezzty": 2,
-        "krya": 2
+        "ezzty": 2
       },
       "78": {
         "ich": 2,
@@ -49185,7 +49184,7 @@
       "74": 1936,
       "75": 383,
       "76": 578,
-      "77": 458,
+      "77": 460,
       "78": 120,
       "79": 435,
       "80": 609,
@@ -49226,7 +49225,7 @@
       "115": 1956,
       "116": 986
     },
-    "avg_doc_length": 804.6496,
+    "avg_doc_length": 804.6667,
     "idf": {
       "um": 0.1408,
       "uhr": 1.3207,
@@ -58394,7 +58393,6 @@
       "automatisch": 3.5179,
       "deployed": 4.3652,
       "ezzty": 4.3652,
-      "krya": 3.8544,
       "dienste": 2.8989,
       "bersichtlich": 4.3652,
       "ausgaben": 3.5179,
@@ -62339,6 +62337,7 @@
       "verbleibenden": 4.3652,
       "batch": 4.3652,
       "bersetzt": 4.3652,
+      "krya": 4.3652,
       "md": 4.3652,
       "frontmatter": 4.3652,
       "englischen": 4.3652,
