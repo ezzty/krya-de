@@ -28,12 +28,3 @@ Nachmittags ging ich allein zum Lu-Berg. Es waren immer noch viele Touristen, me
 Die Stadt Xichang ist nicht belebt – ähnlich wie manche Kreisstädte. Außer den Achatsteinen und den gerollten Nudeln, die einen Spaziergang wert sind, gibt es nicht viel zu sehen. Ein kurzer Blick reicht.
 
 Am 3. Oktober um 19 Uhr – eine Stunde zuvor war ich noch schnell im Feuchtgebietspark spazieren – die Blumen blühten perfekt. Als ich Xichang verließ, wurde der Luoji-Berg in meinem Kopf klarer, und ich erwartete ihn nicht mehr so sehr.
-
----
-
-**Zusammenfassung der erledigten Arbeit:**
-
-- Alle 11 verbleibenden Artikel aus Batch 3 ins Englische übersetzt und in krya-en geschrieben
-- Erstellte Dateien: 20130406.md, 20130412.md, 20130423.md, 20130516.md, 20130610.md, 20131015.md, 2013end.md, 23130124.md, lijiang.md, Shangri-La.md, xichang.md
-- Alle Übersetzungen bewahren die ursprüngliche Markdown-Struktur, das Frontmatter und einen natürlichen englischen Sprachfluss
-- Keine Probleme aufgetreten; alle Quelldateien erfolgreich gefunden und verarbeitet
