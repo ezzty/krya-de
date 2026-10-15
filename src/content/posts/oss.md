@@ -267,7 +267,7 @@ Frontend und Backend haben je eine Sperre, **maßgeblich ist die engere**. Nur d
 
 Das war der komplette Ablauf für eigenes Bild-Hosting. **Warum der Code so geschrieben ist, die Details jeder Schutzschicht und die vollständige Abnahmeliste** stehen im README des Quellcode-Repos, falls du sie brauchst:
 
-**https://github.com/ezzty/oss-upload** → `README.md`, Abschnitte „🧩 核心实现（代码级）“ und „🧪 上线验收“
+**https://github.com/ezzty/oss-upload** → `README.md`, Abschnitte „🧩 Kernimplementierung (Code-Level)“ und „🧪 Abnahme vor dem Go-Live“
 
 Dort steht, was hier nicht ausgeführt wurde:
 
