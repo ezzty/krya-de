@@ -1,6 +1,6 @@
 ---
 title: "Günstig selbst gehostetes Bild-Hosting mit Alibaba Cloud Function Compute FC + OSS"
-description: "Jeder statische Blog braucht einen Drittanbieter-Bild-Hosting – aber welcher davon läuft nicht irgendwann weg? Schwierig. Und wenn du fremden Bild-Hosting nutzt: Die Hotlink-Schutzregeln bestimmst du nicht, der Dienst verschwindet und alle Bilder zeigen 404, die Inhaltsprüfung trifft dich fälschlich, die Free-Tarife verstecken Fallen. Nach vielen Fallstricken habe ich beschlossen, mir selbst einen Bild-Hosting mit extrem niedrigen Nutzungskosten zu bauen. Hauptziel: Geld sparen, ohne Mengenbegrenzung!"
+description: "Die meisten Self-Hosting-Lösungen fürs Bild-Hosting verlangen einen eigenen Server – monatlich ein paar Dutzend Yuan Miete, dazu eigene Patches. Oder sie laufen nur als lokaler Client am Rechner, nach dem Computerwechsel ist Schluss mit dem Hochladen. Deshalb habe ich mich für eine Serverless-Lösung in der Cloud entschieden: überall und jederzeit hochladen, wann immer ich will. Alibaba Cloud Function Compute FC + OSS – FC pay-as-you-go (bei niedrigem Traffic ≈ 0 Yuan), keine Datenbank, kein Wartungsaufwand, Deploy-Paket ab 6 KB. Bei seltenen Uploads quasi kostenlos, die mitgelieferte `*.fcapp.run`-Domain spart dir sogar die ICP-Registrierung; eigene Domain? Einfach später anbinden."
 pubDate: 2026-10-14
 heroImage: ""
 categories:
@@ -11,29 +11,39 @@ tags:
   - Cloud-Funktion FC Bild-Hosting
 author: jin
 ---
-![image](https://i.190808.xyz/m/26j13/0f38e9.png)
-
-> Quellcode: https://github.com/ezzty/oss-upload
+![image](https://i.190808.xyz/m/26j16/20b3f2.png?x-oss-process=style/w950)
 
 **Drei Dinge vorweg:**
 
-1. Alle `AccessKey`-Werte, Passwörter, Domains und Bucket-Namen in diesem Artikel sind **Platzhalter** – vor dem Abkopieren durch deine eigenen ersetzen.
-2. Der Code ist eine einzelne Node.js-Datei (ca. 380 Zeilen), die Abhängigkeiten werden über eine FC-**Layer** eingespielt, im Business-Code gibt es keine Hardcodings, alles läuft über Umgebungsvariablen.
-3. Am Ende dieses Artikels hast du die komplette Kette `Login → Token holen → Hochladen → Markdown-Bildsyntax zurückbekommen` – plus eine ausführbare Abnahmeliste vor dem Go-Live.
+1. Dieses Bild-Hosting ist simpel in der Einrichtung, lässt sich leicht konfigurieren und ist sicher genug; wenn es dir nicht reicht, wirfst du den Quellcode einfach in eine KI und änderst Funktionen im Handumdrehen.
+2. Alle `AccessKey`-Werte, Passwörter, Domains und Bucket-Namen in diesem Artikel sind **Platzhalter** – vor dem Abkopieren durch deine eigenen ersetzen.
+3. Der Code ist eine einzelne Node.js-Datei (ca. 380 Zeilen), die Abhängigkeiten werden über einen FC-**Layer** eingespielt, im Business-Code gibt es keine Hardcodings, alles läuft über **Umgebungsvariablen**.
+
+> Quellcode: https://github.com/ezzty/oss-upload
 
 ---
 
 ### 1. Warum eigenes Bild-Hosting
 
-Jeder statische Blog braucht einen Drittanbieter-Bild-Hosting – aber welcher davon läuft nicht irgendwann weg? Schwierig. Und wenn du fremden Bild-Hosting nutzt: Die Hotlink-Schutzregeln bestimmst du nicht, der Dienst verschwindet und alle Bilder zeigen 404, die Inhaltsprüfung trifft dich fälschlich, die Free-Tarife verstecken Fallen.
+Praktisch jeder statische Blog braucht irgendwo ein Bild-Hosting. Viele wollen sparen und greifen zu einem fremden „für immer kostenlos" – aber welcher große Gönner läuft nie weg? Und die Daten liegen in fremder Hand: du hast keinerlei Handlungsspielraum und bist ständig unruhig.
 
-Nach vielen Fallstricken habe ich beschlossen, mir selbst einen Bild-Hosting mit extrem niedrigen Nutzungskosten zu bauen. Hauptziel: Geld sparen, ohne Mengenbegrenzung!
+Nach vielen Fallstricken habe ich beschlossen, mir selbst ein Bild-Hosting mit extrem niedrigen Kosten zu bauen. Wichtigste Ziele: sparen, unbegrenzte Kapazität, sicher!
 
-- **Die Daten liegen im eigenen Account**, jederzeit exportierbar und migrierbar
-- **Abrechnung nach Verbrauch** – der Eigenbedarf eines persönlichen Bild-Hostings liegt meist am Rand des Free-Tarifs
-- **Sicherheitsrichtlinien selbst festgelegt**: wer hochladen darf, wie groß die Dateien sein dürfen, in welchem Verzeichnis sie liegen und wer sie sehen darf – alles kontrollierbar
+Die meisten Self-Hosting-Lösungen verlangen einen eigenen Server – monatlich ein paar Dutzend Yuan Miete, dazu eigene Patches. Oder sie laufen nur als lokaler Client am Rechner, nach dem Computerwechsel ist Schluss mit dem Hochladen. Deshalb habe ich mich für eine Serverless-Lösung in der Cloud entschieden: überall und jederzeit hochladen, wann immer ich will.
 
-Der Preis dafür: Du kümmert dich selbst um Authentifizierung, Schutz gegen Brute-Force und Typvalidierung – diesen Dreck-Arbeit hat dieser Artikel hier schon für dich erledigt.
+**Alibaba Cloud Function Compute FC + OSS + CDN**
+
+FC pay-as-you-go (bei niedrigem Traffic ≈ 0 Yuan), keine Datenbank, kein Wartungsaufwand, Deploy-Paket ab 6 KB. Bei seltenen Uploads quasi kostenlos.
+
+OSS-Bildspeicher pay-as-you-go – ein paar Dutzend GB Bilder kosten im Monat nur ein paar Yuan.
+
+Dazu das CDN: die Bilder laden sich rasendschnell.
+
+Ein persönliches Bild-Hosting hat für Angreifer wenig Reiz, trotzdem gibt es mehrere Sicherheitsebenen: erzwungenes PoW gegen Brute-Force, Magic-Bytes-Prüfung gegen getarnte Dateien, dreifache Größenprüfung gegen Datenflut, ein tägliches Kontingent gegen Missbrauch und Tokens, die nach 2 Stunden verfallen.
+
+Meine Lösung hat auch Schwächen: keine Multi-User, keine Albumverwaltung, keine Nutzungsstatistik – und Bilder löschen geht nur über die OSS-Konsole.
+
+Aber sie ist klein, kostet wenig und reicht für den persönlichen Gebrauch vollkommen aus.
 
 ---
 
@@ -116,21 +126,6 @@ Richtlinienname `ImageHostSingleBucket`. Danach:
 - **Nicht** `oss:CopyObject` vergeben – Bild-Hosting braucht keine Kopierberechtigung, so wenig wie möglich vergeben
 - **Nicht** `AliyunOSSFullAccess` zuweisen – sonst kann der AK deines Bild-Hostings alle deine Daten-Buckets lesen
 
-#### 3.4 Regeln zur Schlüsselablage
-
-- ❌ Nicht in den Code schreiben, nicht ins Git committen
-- ✅ Nur in FC-Umgebungsvariablen ablegen
-- Die `.gitignore` im Repo-Root sollte mindestens enthalten:
-
-```
-.env
-.env.local
-*.key
-*.pem
-*.p12
-credentials.json
-```
-
 ---
 
 ### 4. Dependency-Layer vorbereiten
@@ -208,9 +203,7 @@ zip code.zip index.js package.json
 
 #### 5.3 Umgebungsvariablen (8 Pflichtfelder, ohne jedes einzelne startet nichts)
 
-Der Code prüft sie zu Beginn nacheinander, bei Fehlern direkt `process.exit(1)` – die Funktion liefert 500 und im Log steht `❌ FATAL: Missing required environment variable: X`.
-
-**8 Pflichtfelder** (im Code steht das in `requiredEnvVars`):
+In der Funktionskonfiguration gibt es 8 Pflichtfelder bei den Umgebungsvariablen – richte sie so ein wie auf dem Bild:
 
 - **`AUTH_USER`** `admin` – Login-Benutzername
 - **`AUTH_PASS`** `<starkes Passwort setzen>` – Login-Passwort, eine lange Zufallssequenz
@@ -226,15 +219,6 @@ Der Code prüft sie zu Beginn nacheinander, bei Fehlern direkt `process.exit(1)`
 - **`ALLOWED_ORIGINS`** `example.com,myblog.net` – erlaubte CORS-Origin, kommagetrennt. Ohne das Feld startet es auch; es wird **nur ausgewertet, wenn Code-level CORS aktiviert ist** (standardmäßig spiegelt die Plattform das `Origin` direkt wider, `isValidOrigin` wird gar nicht aufgerufen). Wenn du Code-level CORS einschaltest, muss es gesetzt sein – sonst blockiert der Fallback-Wert `example.com` jeden Browser-Upload.
 
 ![image](https://i.190808.xyz/m/26j13/f09581.png)
-
-Zufallswerte erzeugen:
-
-```bash
-openssl rand -base64 32   # JWT_SECRET
-openssl rand -base64 24   # AUTH_PASS
-```
-
-> `CDN_DOMAIN` muss mit `http://` oder `https://` beginnen – der Code prüft das explizit, ein vergessenes Protokoll beendet den Start sofort.
 
 #### 5.4 Eigene Domain binden
 
@@ -267,21 +251,9 @@ Frontend und Backend haben je eine Sperre, **maßgeblich ist die engere**. Nur d
 
 Das war der komplette Ablauf für eigenes Bild-Hosting. **Warum der Code so geschrieben ist, die Details jeder Schutzschicht und die vollständige Abnahmeliste** stehen im README des Quellcode-Repos, falls du sie brauchst:
 
-**https://github.com/ezzty/oss-upload** → `README.md`, Abschnitte „🧩 Kernimplementierung (Code-Level)“ und „🧪 Abnahme vor dem Go-Live“
+**https://github.com/ezzty/oss-upload** → `README.md`, Abschnitte „Kernimplementierung (Code-Level)“ und „Abnahme vor dem Go-Live“
 
-Dort steht, was hier nicht ausgeführt wurde:
-
-- **Token-Struktur und vier Sicherheitspunkte** (HMAC-Signatur, Constant-Time-Vergleich, Grenzen des Anti-Replay-Schutzes)
-- **Magic-Bytes-Nachschlagetabelle** (Dateikopf-Bytes für JPEG / PNG / GIF / WebP / BMP)
-- **Dreifache Größenprüfung**, 4 KB-Obergrenze für den Login-Body, warum IP-Brute-Force-Schutz zwingend ein `Map` braucht (Prototype-Pollution per `X-Forwarded-For: __proto__` im Praxistest)
-- **FC-Event-Format-Kompatibilität und Body-Decoding** (inkl. zwei großer Fallstricke: lazy Decoding, uncodiertes Binary darf nicht als UTF-8 decodiert werden)
-- **Sendemethode des Frontends** (iOS Safari verliert den Body von `xhr.send(File)` – stattdessen ArrayBuffer verwenden)
-- **HTTP-Trigger und die drei Arten von CORS** (inkl. einer Klarstellung: in der FC-Konsole gibt es gar keinen Haken für „Cross-Origin erlauben")
-- **OSS-Bildverarbeitung** (Praxistest 1,89 MB → 81 KB, 96 % gespart)
-- **Vollständige Go-Live-Abnahmeliste** (Sonden-Befehle + OSS-Prüfskript + Security-Checkliste)
-- **Schnellreferenz typischer Fallstricke** (Symptom → Ursache → Lösung, inkl. schwieriger Fälle wie iOS verlorener Body und falsche Magic-Bytes-Erkennung)
-
-> Im Blogbeitrag geht es nur darum, **„warum selbst hosten, wie bekomme ich es lauffähig, was muss ich beachten"** klarzumachen – für die eigentliche Deployment-Arbeit ist das README die vollständige technische Dokumentation.
+Der Blogbeitrag will nur eines klar machen: **warum selbst hosten, wie bekomme ich es lauffähig, was muss ich beachten** – wer wirklich deployen will, findet im README die vollständige technische Dokumentation.
 
 ---
 
@@ -294,7 +266,7 @@ Pay-as-you-go, drei Blöcke:
 | **FC-Rechenzeit** | Rechen-CU (vCPU + RAM × Dauer) + Anzahl Aufrufe | Es gibt ein Free-Tarif, persönliche Bild-Hostings liegen meist knapp darunter |
 | **OSS-Speicher** | Yuan/GB/Monat | Standard-Speicher ca. **0,09–0,12 Yuan/GB/Monat** |
 | **OSS-Anfragen** | pro Aufruf | extrem gering, vernachlässigbar |
-| **Traffic** | Yuan/GB | siehe unten |
+| **CDN-Traffic** | Yuan/GB | siehe unten |
 
 **Traffic ist der Hauptposten der Rechnung und am einfachsten zu optimieren:**
 
